@@ -1,0 +1,797 @@
+[
+    {
+        "productData": {
+            "name": "V Blue 500ml (12 Pack)",
+            "productId": "22526711",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/22526711",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/121/232828260.jpeg",
+            "multipack": {
+                "quantity": "12"
+            },
+            "volume": "500ml"
+        },
+        "priceData": {
+            "bestPrice": "40.00",
+            "price": "40.00",
+            "pricePerLitre": 6.666666666666666,
+            "bestPricePerLitre": 6.666666666666666
+        }
+    },
+    {
+        "productData": {
+            "name": "Monster Energy Ultra Red 500ml",
+            "productId": "33384167",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/33384167",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/030/238735592.jpeg",
+            "multipack": {
+                "quantity": "12"
+            },
+            "volume": "500ml"
+        },
+        "priceData": {
+            "bestPrice": "40.00",
+            "price": "40.00",
+            "pricePerLitre": 6.666666666666666,
+            "bestPricePerLitre": 6.666666666666666
+        }
+    },
+    {
+        "productData": {
+            "name": "Monster Energy Ultra Violet 500ml",
+            "productId": "33384164",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/33384164",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/dde/232755680.png",
+            "multipack": {
+                "quantity": "12"
+            },
+            "volume": "500ml"
+        },
+        "priceData": {
+            "bestPrice": "40.00",
+            "price": "40.00",
+            "pricePerLitre": 6.666666666666666,
+            "bestPricePerLitre": 6.666666666666666
+        }
+    },
+    {
+        "productData": {
+            "name": "Monster Energy Zero Ultra Energy Drink 500ml Can (24 Pack)",
+            "productId": "26078281",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/26078281",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/b4b/232471797.jpeg",
+            "multipack": {
+                "quantity": "24"
+            },
+            "volume": "500ml"
+        },
+        "priceData": {
+            "bestPrice": "75.00",
+            "price": "75.00",
+            "pricePerLitre": 6.25,
+            "bestPricePerLitre": 6.25
+        }
+    },
+    {
+        "productData": {
+            "name": "Monster Energy Ultra Blue 500ml",
+            "productId": "33384166",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/33384166",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/7bd/232755694.jpeg",
+            "multipack": {
+                "quantity": "12"
+            },
+            "volume": "500ml"
+        },
+        "priceData": {
+            "bestPrice": "40.00",
+            "price": "40.00",
+            "pricePerLitre": 6.666666666666666,
+            "bestPricePerLitre": 6.666666666666666
+        }
+    },
+    {
+        "productData": {
+            "name": "Rockstar El Mango Energy Drink 500ml",
+            "productId": "35163967",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/35163967",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/66b/251494496.jpeg",
+            "multipack": {
+                "quantity": "12"
+            },
+            "volume": "500ml"
+        },
+        "priceData": {
+            "bestPrice": "30.00",
+            "price": "30.00",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
+        }
+    },
+    {
+        "productData": {
+            "name": "V Blue Sugar Free 500ml (12 Pack)",
+            "productId": "34463457",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/34463457",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/39a/240594450.jpeg",
+            "multipack": {
+                "quantity": "12"
+            },
+            "volume": "500ml"
+        },
+        "priceData": {
+            "bestPrice": "40.00",
+            "price": "40.00",
+            "pricePerLitre": 6.666666666666666,
+            "bestPricePerLitre": 6.666666666666666
+        }
+    },
+    {
+        "productData": {
+            "name": "V 500ml Can (12 pack)",
+            "productId": "21496377",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/21496377",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/842/232828267.jpeg",
+            "multipack": {
+                "quantity": "12"
+            },
+            "volume": "500ml"
+        },
+        "priceData": {
+            "bestPrice": "40.00",
+            "price": "40.00",
+            "pricePerLitre": 6.666666666666666,
+            "bestPricePerLitre": 6.666666666666666
+        }
+    },
+    {
+        "productData": {
+            "name": "Live+ Energy Drink 250ml - Persist",
+            "productId": "28204227",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/28204227",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/35b/247730757.jpeg",
+            "multipack": {
+                "quantity": "30"
+            },
+            "volume": "250ml"
+        },
+        "priceData": {
+            "bestPrice": "45.00",
+            "price": "45.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
+        }
+    },
+    {
+        "productData": {
+            "name": "RockStar Punched Guava Energy Drink 500ml (12 Pack)",
+            "productId": "23021883",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/23021883",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/e44/251064000.jpeg",
+            "multipack": {
+                "quantity": "12"
+            },
+            "volume": "500ml"
+        },
+        "priceData": {
+            "bestPrice": "30.00",
+            "price": "30.00",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
+        }
+    },
+    {
+        "productData": {
+            "name": "V Raspberry Lemonade 500ml (12 Pack)",
+            "productId": "33174249",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/33174249",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/022/232472476.jpeg",
+            "multipack": {
+                "quantity": "12"
+            },
+            "volume": "500ml"
+        },
+        "priceData": {
+            "bestPrice": "40.00",
+            "price": "40.00",
+            "pricePerLitre": 6.666666666666666,
+            "bestPricePerLitre": 6.666666666666666
+        }
+    },
+    {
+        "productData": {
+            "name": "V 250ml (24 Pack)",
+            "productId": "22992547",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/22992547",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/b2f/232559451.jpeg",
+            "multipack": {
+                "quantity": "24"
+            },
+            "volume": "250ml"
+        },
+        "priceData": {
+            "bestPrice": "60.00",
+            "price": "60.00",
+            "pricePerLitre": 10.0,
+            "bestPricePerLitre": 10.0
+        }
+    },
+    {
+        "productData": {
+            "name": "Mother Energy Drink Kicked Apple 500ml",
+            "productId": "26809988",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/26809988",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/5f4/232564775.jpeg",
+            "multipack": {
+                "quantity": "24"
+            },
+            "volume": "500ml"
+        },
+        "priceData": {
+            "bestPrice": "60.00",
+            "price": "60.00",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
+        }
+    },
+    {
+        "productData": {
+            "name": "Rockstar Energy Drink 500ml (12 Pack)",
+            "productId": "21496394",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/21496394",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/661/251064829.jpeg",
+            "multipack": {
+                "quantity": "12"
+            },
+            "volume": "500ml"
+        },
+        "priceData": {
+            "bestPrice": "30.00",
+            "price": "30.00",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
+        }
+    },
+    {
+        "productData": {
+            "name": "Monster Energy Zero Ultra Rosa 500ml (24 Pack)",
+            "productId": "34241087",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/34241087",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/bfc/238702654.jpeg",
+            "multipack": {
+                "quantity": "24"
+            },
+            "volume": "500ml"
+        },
+        "priceData": {
+            "bestPrice": "75.00",
+            "price": "75.00",
+            "pricePerLitre": 6.25,
+            "bestPricePerLitre": 6.25
+        }
+    },
+    {
+        "productData": {
+            "name": "Monster Energy Zero Ultra Paradise 500ml (24 Pack)",
+            "productId": "31572694",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/31572694",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/28f/232473526.jpeg",
+            "multipack": {
+                "quantity": "24"
+            },
+            "volume": "500ml"
+        },
+        "priceData": {
+            "bestPrice": "75.00",
+            "price": "75.00",
+            "pricePerLitre": 6.25,
+            "bestPricePerLitre": 6.25
+        }
+    },
+    {
+        "productData": {
+            "name": "Live Plus Zero Sugar Citrus Energy Drink 250ml",
+            "productId": "35152170",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/35152170",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/fae/251065116.jpeg",
+            "multipack": {
+                "quantity": "30"
+            },
+            "volume": "250ml"
+        },
+        "priceData": {
+            "bestPrice": "45.00",
+            "price": "45.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
+        }
+    },
+    {
+        "productData": {
+            "name": "Rockstar Watermelon Freeze - 500ml (12pk)",
+            "productId": "27586648",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/27586648",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/673/251064084.jpeg",
+            "volume": "500ml"
+        },
+        "priceData": {
+            "bestPrice": "30.00",
+            "price": "30.00",
+            "pricePerLitre": 60.0,
+            "bestPricePerLitre": 60.0
+        }
+    },
+    {
+        "productData": {
+            "name": "V Sugar Free - Berry Twist 500ml (12 Pack)",
+            "productId": "30360691",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/30360691",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/923/232828295.jpeg",
+            "multipack": {
+                "quantity": "12"
+            },
+            "volume": "500ml"
+        },
+        "priceData": {
+            "bestPrice": "40.00",
+            "price": "40.00",
+            "pricePerLitre": 6.666666666666666,
+            "bestPricePerLitre": 6.666666666666666
+        }
+    },
+    {
+        "productData": {
+            "name": "V Iced Coffee 500ml (12 pack)",
+            "productId": "31969651",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/31969651",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/97c/232565965.jpeg",
+            "multipack": {
+                "quantity": "12"
+            },
+            "volume": "500ml"
+        },
+        "priceData": {
+            "bestPrice": "50.00",
+            "price": "50.00",
+            "pricePerLitre": 8.333333333333332,
+            "bestPricePerLitre": 8.333333333333332
+        }
+    },
+    {
+        "productData": {
+            "name": "V Blue Sugar Free 250ml (24 Pack)",
+            "productId": "34463462",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/34463462",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/512/239459094.jpeg",
+            "multipack": {
+                "quantity": "24"
+            },
+            "volume": "250ml"
+        },
+        "priceData": {
+            "bestPrice": "60.00",
+            "price": "60.00",
+            "pricePerLitre": 10.0,
+            "bestPricePerLitre": 10.0
+        }
+    },
+    {
+        "productData": {
+            "name": "V Sugar Free 500ml (12 pack)",
+            "productId": "22526720",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/22526720",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/1cf/232828288.jpeg",
+            "multipack": {
+                "quantity": "12"
+            },
+            "volume": "500ml"
+        },
+        "priceData": {
+            "bestPrice": "40.00",
+            "price": "40.00",
+            "pricePerLitre": 6.666666666666666,
+            "bestPricePerLitre": 6.666666666666666
+        }
+    },
+    {
+        "productData": {
+            "name": "Live Plus Original Citrus Energy Drink 500ml",
+            "productId": "28204228",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/28204228",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/db9/245300169.jpeg",
+            "multipack": {
+                "quantity": "24"
+            },
+            "volume": "500ml"
+        },
+        "priceData": {
+            "bestPrice": "65.00",
+            "price": "65.00",
+            "pricePerLitre": 5.416666666666666,
+            "bestPricePerLitre": 5.416666666666666
+        }
+    },
+    {
+        "productData": {
+            "name": "Mother Energy Drink Can 500ml",
+            "productId": "25921602",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/25921602",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/b52/232473743.jpeg",
+            "multipack": {
+                "quantity": "24"
+            },
+            "volume": "500ml"
+        },
+        "priceData": {
+            "bestPrice": "60.00",
+            "price": "60.00",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
+        }
+    },
+    {
+        "productData": {
+            "name": "V Blue 250ml (24 Pack)",
+            "productId": "26810998",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/26810998",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/76a/232559535.jpeg",
+            "multipack": {
+                "quantity": "24"
+            },
+            "volume": "250ml"
+        },
+        "priceData": {
+            "bestPrice": "60.00",
+            "price": "60.00",
+            "pricePerLitre": 10.0,
+            "bestPricePerLitre": 10.0
+        }
+    },
+    {
+        "productData": {
+            "name": "Monster Energy Mule 500ml (24 Pack)",
+            "productId": "33384205",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/33384205",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/379/232826651.jpeg",
+            "multipack": {
+                "quantity": "24"
+            },
+            "volume": "500ml"
+        },
+        "priceData": {
+            "bestPrice": "75.00",
+            "price": "75.00",
+            "pricePerLitre": 6.25,
+            "bestPricePerLitre": 6.25
+        }
+    },
+    {
+        "productData": {
+            "name": "Monster Energy Zero Ultra Paradise 500ml (12 Pack)",
+            "productId": "35116193",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/35116193",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/3fa/249090259.jpeg",
+            "multipack": {
+                "quantity": "12"
+            },
+            "volume": "500ml"
+        },
+        "priceData": {
+            "bestPrice": "40.00",
+            "price": "40.00",
+            "pricePerLitre": 6.666666666666666,
+            "bestPricePerLitre": 6.666666666666666
+        }
+    },
+    {
+        "productData": {
+            "name": "Monster Energy Drink 500ml (24 Pack)",
+            "productId": "26078279",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/26078279",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/3d3/232564717.jpeg",
+            "multipack": {
+                "quantity": "24"
+            },
+            "volume": "500ml"
+        },
+        "priceData": {
+            "bestPrice": "75.00",
+            "price": "75.00",
+            "pricePerLitre": 6.25,
+            "bestPricePerLitre": 6.25
+        }
+    },
+    {
+        "productData": {
+            "name": "Live Plus Tart Apple Energy Drink 250ml",
+            "productId": "35152171",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/35152171",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/14b/251065207.jpeg",
+            "multipack": {
+                "quantity": "30"
+            },
+            "volume": "250ml"
+        },
+        "priceData": {
+            "bestPrice": "45.00",
+            "price": "45.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
+        }
+    },
+    {
+        "productData": {
+            "name": "Mother Frosty Berry Energy Drink Can 500ml",
+            "productId": "25921601",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/25921601",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/5ba/232564796.jpeg",
+            "multipack": {
+                "quantity": "24"
+            },
+            "volume": "500ml"
+        },
+        "priceData": {
+            "bestPrice": "60.00",
+            "price": "60.00",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
+        }
+    },
+    {
+        "productData": {
+            "name": "Monster Super Fuel Fantasy Fruit Zero Sugar 550ml (12 Pack)",
+            "productId": "34747078",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/34747078",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/02b/242248060.jpeg",
+            "multipack": {
+                "quantity": "12"
+            },
+            "volume": "550ml"
+        },
+        "priceData": {
+            "bestPrice": "60.00",
+            "price": "60.00",
+            "pricePerLitre": 9.090909090909092,
+            "bestPricePerLitre": 9.090909090909092
+        }
+    },
+    {
+        "productData": {
+            "name": "Mother Energy Drink Epic Swell 500ml",
+            "productId": "34862643",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/34862643",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/5c5/245293416.jpeg",
+            "multipack": {
+                "quantity": "24"
+            },
+            "volume": "500ml"
+        },
+        "priceData": {
+            "bestPrice": "60.00",
+            "price": "60.00",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
+        }
+    },
+    {
+        "productData": {
+            "name": "Mother Energy Drink 250ml Can",
+            "productId": "26235091",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/26235091",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/478/232559346.jpeg",
+            "multipack": {
+                "quantity": "30"
+            },
+            "volume": "250ml"
+        },
+        "priceData": {
+            "bestPrice": "45.00",
+            "price": "45.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
+        }
+    },
+    {
+        "productData": {
+            "name": "Mother Energy Drink Passion 500ml (24 Pack)",
+            "productId": "29060437",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/29060437",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/8ca/232564789.jpeg",
+            "multipack": {
+                "quantity": "24"
+            },
+            "volume": "500ml"
+        },
+        "priceData": {
+            "bestPrice": "60.00",
+            "price": "60.00",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
+        }
+    },
+    {
+        "productData": {
+            "name": "V Pure Bottles 330ml (12 Pack)",
+            "productId": "28374010",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/28374010",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/97d/232559591.jpeg",
+            "multipack": {
+                "quantity": "12"
+            },
+            "volume": "330ml"
+        },
+        "priceData": {
+            "bestPrice": "42.00",
+            "price": "42.00",
+            "pricePerLitre": 10.606060606060607,
+            "bestPricePerLitre": 10.606060606060607
+        }
+    },
+    {
+        "productData": {
+            "name": "Rockstar X-Durance Berry Energy Drink 500ml (12 Pack)",
+            "productId": "23044840",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/23044840",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/32e/251064836.jpeg",
+            "multipack": {
+                "quantity": "12"
+            },
+            "volume": "500ml"
+        },
+        "priceData": {
+            "bestPrice": "30.00",
+            "price": "30.00",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
+        }
+    },
+    {
+        "productData": {
+            "name": "V Iced Chocolate 500ml (12 Pack)",
+            "productId": "31969657",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/31969657",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/f77/232565951.jpeg",
+            "multipack": {
+                "quantity": "12"
+            },
+            "volume": "500ml"
+        },
+        "priceData": {
+            "bestPrice": "50.00",
+            "price": "50.00",
+            "pricePerLitre": 8.333333333333332,
+            "bestPricePerLitre": 8.333333333333332
+        }
+    },
+    {
+        "productData": {
+            "name": "V Iced Mocha 500ml (12 Pack)",
+            "productId": "31969655",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/31969655",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/451/232565979.jpeg",
+            "multipack": {
+                "quantity": "12"
+            },
+            "volume": "500ml"
+        },
+        "priceData": {
+            "bestPrice": "50.00",
+            "price": "50.00",
+            "pricePerLitre": 8.333333333333332,
+            "bestPricePerLitre": 8.333333333333332
+        }
+    },
+    {
+        "productData": {
+            "name": "V Green Plastic Bottle 500ml (24 Pack)",
+            "productId": "21767131",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/21767131",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/ea9/232565888.jpeg",
+            "multipack": {
+                "quantity": "24"
+            },
+            "volume": "500ml"
+        },
+        "priceData": {
+            "bestPrice": "84.00",
+            "price": "84.00",
+            "pricePerLitre": 7.0,
+            "bestPricePerLitre": 7.0
+        }
+    },
+    {
+        "productData": {
+            "name": "Mother Energy Drink Tropical Blast 500ml (24 Pack)",
+            "productId": "33416554",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/33416554",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/a25/233041660.jpeg",
+            "multipack": {
+                "quantity": "24"
+            },
+            "volume": "500ml"
+        },
+        "priceData": {
+            "bestPrice": "60.00",
+            "price": "60.00",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
+        }
+    },
+    {
+        "productData": {
+            "name": "V Sugar Free - Berry Twist 250ml (24 Pack)",
+            "productId": "30360692",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/30360692",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/1a7/232565986.jpeg",
+            "multipack": {
+                "quantity": "24"
+            },
+            "volume": "250ml"
+        },
+        "priceData": {
+            "bestPrice": "60.00",
+            "price": "60.00",
+            "pricePerLitre": 10.0,
+            "bestPricePerLitre": 10.0
+        }
+    },
+    {
+        "productData": {
+            "name": "Live Plus Tart Apple Energy Drink 500ml",
+            "productId": "35152169",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/35152169",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/86b/251065186.jpeg",
+            "multipack": {
+                "quantity": "24"
+            },
+            "volume": "500ml"
+        },
+        "priceData": {
+            "bestPrice": "65.00",
+            "price": "65.00",
+            "pricePerLitre": 5.416666666666666,
+            "bestPricePerLitre": 5.416666666666666
+        }
+    }
+]

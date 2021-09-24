@@ -1,0 +1,965 @@
+[
+    {
+        "productData": {
+            "name": "FILEMETA",
+            "productId": "FILEMETA",
+            "productShopPage": "",
+            "productImageURL": "",
+            "productDescription": "THIS IS NOT A REAL PRODUCT, THIS IS METADATA OF THIS FILE"
+        },
+        "priceData": {
+            "bestPrice": "0.00",
+            "price": "0.00",
+            "pricePerLitre": 0,
+            "bestPricePerLitre": 0
+        },
+        "timestamp": "2021-08-26T18:18:12.788358",
+        "siteconfig": {
+            "siteMeta": {
+                "name": "countdown",
+                "mainURL": "shop.countdown.co.nz"
+            },
+            "regex": {
+                "multiPack": "(\\d{1,})pk",
+                "packageType": "(.{1,}ml) cans",
+                "volumeSize": "(.{1,}ml)",
+                "productNameVolume": ". (\\d{1,}ml)"
+            }
+        }
+    },
+    {
+        "productData": {
+            "name": "rockstar energy drink bluberry pomegranate acai",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=84822",
+            "volume": "500ml",
+            "productId": "84822",
+            "productDescription": null,
+            "productImageURL": "https://static.countdown.co.nz/assets/product-images/zoom/9415767017351.jpg"
+        },
+        "priceData": {
+            "bestPrice": 0.0,
+            "price": 0.0,
+            "pricePerLitre": 0.0,
+            "bestPricePerLitre": 0.0
+        }
+    },
+    {
+        "productData": {
+            "name": "v blue energy drink ",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=171680",
+            "multiPack": {
+                "quantity": "10"
+            },
+            "volume": "250ml",
+            "productId": "171680",
+            "productDescription": null,
+            "productImageURL": "https://static.countdown.co.nz/assets/product-images/zoom/9415767018228.jpg"
+        },
+        "priceData": {
+            "bestPrice": 0.0,
+            "price": 0.0,
+            "pricePerLitre": 0.0,
+            "bestPricePerLitre": 0.0
+        }
+    },
+    {
+        "productData": {
+            "name": "v green energy drink ",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=172315",
+            "multiPack": {
+                "quantity": "10"
+            },
+            "volume": "250ml",
+            "productId": "172315",
+            "productDescription": null,
+            "productImageURL": "https://static.countdown.co.nz/assets/product-images/zoom/9415767018204.jpg"
+        },
+        "priceData": {
+            "bestPrice": 0.0,
+            "price": 0.0,
+            "pricePerLitre": 0.0,
+            "bestPricePerLitre": 0.0
+        }
+    },
+    {
+        "productData": {
+            "name": "v sugar free energy drink ",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=171356",
+            "multiPack": {
+                "quantity": "10"
+            },
+            "volume": "250ml",
+            "productId": "171356",
+            "productDescription": null,
+            "productImageURL": "https://static.countdown.co.nz/assets/product-images/zoom/9415767018211.jpg"
+        },
+        "priceData": {
+            "bestPrice": 0.0,
+            "price": 0.0,
+            "pricePerLitre": 0.0,
+            "bestPricePerLitre": 0.0
+        }
+    },
+    {
+        "productData": {
+            "name": "v blue energy drink ",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=729764",
+            "multiPack": {
+                "quantity": "4"
+            },
+            "volume": "250ml",
+            "productId": "729764",
+            "productDescription": null,
+            "productImageURL": "https://static.countdown.co.nz/assets/product-images/zoom/9415767624689.jpg"
+        },
+        "priceData": {
+            "bestPrice": 7.0,
+            "price": 7.0,
+            "pricePerLitre": 7.0,
+            "bestPricePerLitre": 7.0
+        }
+    },
+    {
+        "productData": {
+            "name": "v sugar free energy drink berry twist",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=18330",
+            "volume": "350ml",
+            "productId": "18330",
+            "productDescription": null,
+            "productImageURL": "https://static.countdown.co.nz/assets/product-images/zoom/94153316.jpg"
+        },
+        "priceData": {
+            "bestPrice": 0.0,
+            "price": 0.0,
+            "pricePerLitre": 0.0,
+            "bestPricePerLitre": 0.0
+        }
+    },
+    {
+        "productData": {
+            "name": "v energy drink raspberry lemonade",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=83870",
+            "volume": "350ml",
+            "productId": "83870",
+            "productDescription": null,
+            "productImageURL": "https://static.countdown.co.nz/assets/product-images/zoom/9415767015159.jpg"
+        },
+        "priceData": {
+            "bestPrice": 0.0,
+            "price": 0.0,
+            "pricePerLitre": 0.0,
+            "bestPricePerLitre": 0.0
+        }
+    },
+    {
+        "productData": {
+            "name": "v pure energy drink ",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=738591",
+            "volume": "330ml",
+            "productId": "738591",
+            "productDescription": null,
+            "productImageURL": "https://static.countdown.co.nz/assets/product-images/zoom/94140088.jpg"
+        },
+        "priceData": {
+            "bestPrice": 2.3,
+            "price": 2.3,
+            "pricePerLitre": 7.0,
+            "bestPricePerLitre": 7.0
+        }
+    },
+    {
+        "productData": {
+            "name": "v sugar free energy drink berry twist",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=11045",
+            "volume": "500ml",
+            "productId": "11045",
+            "productDescription": null,
+            "productImageURL": "https://static.countdown.co.nz/assets/product-images/zoom/9415767015487.jpg"
+        },
+        "priceData": {
+            "bestPrice": 3.5,
+            "price": 3.5,
+            "pricePerLitre": 7.0,
+            "bestPricePerLitre": 7.0
+        }
+    },
+    {
+        "productData": {
+            "name": "v energy drink raspberry lemonade",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=82413",
+            "volume": "500ml",
+            "productId": "82413",
+            "productDescription": null,
+            "productImageURL": "https://static.countdown.co.nz/assets/product-images/zoom/9415767015166.jpg"
+        },
+        "priceData": {
+            "bestPrice": 3.5,
+            "price": 3.5,
+            "pricePerLitre": 7.0,
+            "bestPricePerLitre": 7.0
+        }
+    },
+    {
+        "productData": {
+            "name": "v pure energy drink ",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=733809",
+            "volume": "250ml",
+            "productId": "733809",
+            "productDescription": null,
+            "productImageURL": "https://static.countdown.co.nz/assets/product-images/zoom/94140071.jpg"
+        },
+        "priceData": {
+            "bestPrice": 2.0,
+            "price": 2.0,
+            "pricePerLitre": 8.0,
+            "bestPricePerLitre": 8.0
+        }
+    },
+    {
+        "productData": {
+            "name": "v blue energy drink ",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=116695",
+            "multiPack": {
+                "quantity": "6"
+            },
+            "volume": "330ml",
+            "productId": "116695",
+            "productDescription": null,
+            "productImageURL": "https://static.countdown.co.nz/assets/product-images/zoom/9415767016774.jpg"
+        },
+        "priceData": {
+            "bestPrice": 0.0,
+            "price": 0.0,
+            "pricePerLitre": 0.0,
+            "bestPricePerLitre": 0.0
+        }
+    },
+    {
+        "productData": {
+            "name": "v blue energy drink ",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=705714",
+            "volume": "350ml",
+            "productId": "705714",
+            "productDescription": null,
+            "productImageURL": "https://static.countdown.co.nz/assets/product-images/zoom/94129038.jpg"
+        },
+        "priceData": {
+            "bestPrice": 2.3,
+            "price": 2.3,
+            "pricePerLitre": 6.6000000000000005,
+            "bestPricePerLitre": 6.6000000000000005
+        }
+    },
+    {
+        "productData": {
+            "name": "v sugar free energy drink ",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=323863",
+            "volume": "500ml",
+            "productId": "323863",
+            "productDescription": null,
+            "productImageURL": "https://static.countdown.co.nz/assets/product-images/zoom/9415767676206.jpg"
+        },
+        "priceData": {
+            "bestPrice": 3.5,
+            "price": 3.5,
+            "pricePerLitre": 7.0,
+            "bestPricePerLitre": 7.0
+        }
+    },
+    {
+        "productData": {
+            "name": "v sugar free energy drink 250ml",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=264490",
+            "multiPack": {
+                "quantity": "4"
+            },
+            "productId": "264490",
+            "productDescription": "New zealands favourite energy drink providing a pick me up on the go to vitalise body and mind. Containing guarana and b vitamins you can think of it as your mid-afternoon wake-up call. 4 pack.",
+            "productImageURL": "https://static.countdown.co.nz/assets/product-images/zoom/9415767676688.jpg",
+            "volume": "250ml"
+        },
+        "priceData": {
+            "bestPrice": 7.0,
+            "price": 7.0,
+            "pricePerLitre": 7.0,
+            "bestPricePerLitre": 7.0
+        }
+    },
+    {
+        "productData": {
+            "name": "v blue energy drink ",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=711024",
+            "volume": "250ml",
+            "productId": "711024",
+            "productDescription": null,
+            "productImageURL": "https://static.countdown.co.nz/assets/product-images/zoom/94129045.jpg"
+        },
+        "priceData": {
+            "bestPrice": 2.0,
+            "price": 2.0,
+            "pricePerLitre": 8.0,
+            "bestPricePerLitre": 8.0
+        }
+    },
+    {
+        "productData": {
+            "name": "v sugar free energy drink ",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=195828",
+            "volume": "350ml",
+            "productId": "195828",
+            "productDescription": "New zealands favourite energy drink providing a pick me up on the go to vitalise body and mind. Containing guarana and b vitamins you can think of it as your mid-afternoon wake-up call. Now sugar free.",
+            "productImageURL": "https://static.countdown.co.nz/assets/product-images/zoom/94129830.jpg"
+        },
+        "priceData": {
+            "bestPrice": 2.3,
+            "price": 2.3,
+            "pricePerLitre": 6.6000000000000005,
+            "bestPricePerLitre": 6.6000000000000005
+        }
+    },
+    {
+        "productData": {
+            "name": "rockstar energy drink watermelon",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=683934",
+            "volume": "500ml",
+            "productId": "683934",
+            "productDescription": null,
+            "productImageURL": "https://static.countdown.co.nz/assets/product-images/zoom/9415767017177.jpg"
+        },
+        "priceData": {
+            "bestPrice": 0.0,
+            "price": 0.0,
+            "pricePerLitre": 0.0,
+            "bestPricePerLitre": 0.0
+        }
+    },
+    {
+        "productData": {
+            "name": "live plus energy drink ignite",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=694546",
+            "volume": "500ml",
+            "productId": "694546",
+            "productDescription": null,
+            "productImageURL": "https://static.countdown.co.nz/assets/product-images/zoom/1220000061439.jpg"
+        },
+        "priceData": {
+            "bestPrice": 2.0,
+            "price": 3.0,
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 4.0,
+            "multiBuy": {
+                "quantity": 2.0,
+                "value": 4.0,
+                "perUnit": 2.0
+            }
+        }
+    },
+    {
+        "productData": {
+            "name": "v vitalise energy drink sugarfree",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=195827",
+            "volume": "250ml",
+            "productId": "195827",
+            "productDescription": "New zealands favourite energy drink providing a pick me up on the go to vitalise body and mind. Containing guarana and b vitamins you can think of it as your mid-afternoon wake-up call.",
+            "productImageURL": "https://static.countdown.co.nz/assets/product-images/zoom/94129823.jpg"
+        },
+        "priceData": {
+            "bestPrice": 2.0,
+            "price": 2.0,
+            "pricePerLitre": 8.0,
+            "bestPricePerLitre": 8.0
+        }
+    },
+    {
+        "productData": {
+            "name": "v vitalise energy drink green",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=739385",
+            "volume": "710ml",
+            "productId": "739385",
+            "productDescription": null,
+            "productImageURL": "https://static.countdown.co.nz/assets/product-images/large/9415767010512.jpg"
+        },
+        "priceData": {
+            "bestPrice": 3.99,
+            "price": 3.99,
+            "pricePerLitre": 5.6000000000000005,
+            "bestPricePerLitre": 5.6000000000000005
+        }
+    },
+    {
+        "productData": {
+            "name": "v blue energy drink sugar free",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=108466",
+            "volume": "250ml",
+            "productId": "108466",
+            "productDescription": null,
+            "productImageURL": "https://static.countdown.co.nz/assets/product-images/zoom/9415767015609.jpg"
+        },
+        "priceData": {
+            "bestPrice": 2.0,
+            "price": 2.0,
+            "pricePerLitre": 8.0,
+            "bestPricePerLitre": 8.0
+        }
+    },
+    {
+        "productData": {
+            "name": "v vitalise energy drink ",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=162536",
+            "volume": "350ml",
+            "productId": "162536",
+            "productDescription": "New zealands favourite energy drink providing a pick me up on the go to vitalise body and mind. Containing guarana and b vitamins you can think of it as your mid-afternoon wake-up call.",
+            "productImageURL": "https://static.countdown.co.nz/assets/product-images/zoom/94128901.jpg"
+        },
+        "priceData": {
+            "bestPrice": 2.3,
+            "price": 2.3,
+            "pricePerLitre": 6.6000000000000005,
+            "bestPricePerLitre": 6.6000000000000005
+        }
+    },
+    {
+        "productData": {
+            "name": "v sugar free energy drink ",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=707980",
+            "volume": "500ml",
+            "productId": "707980",
+            "productDescription": null,
+            "productImageURL": "https://static.countdown.co.nz/assets/product-images/zoom/94123531.jpg"
+        },
+        "priceData": {
+            "bestPrice": 3.8,
+            "price": 3.8,
+            "pricePerLitre": 7.6,
+            "bestPricePerLitre": 7.6
+        }
+    },
+    {
+        "productData": {
+            "name": "v blue energy drink sugar free",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=112438",
+            "volume": "500ml",
+            "productId": "112438",
+            "productDescription": null,
+            "productImageURL": "https://static.countdown.co.nz/assets/product-images/zoom/9415767015616.jpg"
+        },
+        "priceData": {
+            "bestPrice": 3.5,
+            "price": 3.5,
+            "pricePerLitre": 7.0,
+            "bestPricePerLitre": 7.0
+        }
+    },
+    {
+        "productData": {
+            "name": "v blue energy drink ",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=738677",
+            "volume": "500ml",
+            "productId": "738677",
+            "productDescription": null,
+            "productImageURL": "https://static.countdown.co.nz/assets/product-images/zoom/94123562.jpg"
+        },
+        "priceData": {
+            "bestPrice": 3.8,
+            "price": 3.8,
+            "pricePerLitre": 7.6,
+            "bestPricePerLitre": 7.6
+        }
+    },
+    {
+        "productData": {
+            "name": "monster super fuel energy drink purple passion",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=120433",
+            "volume": "550ml",
+            "productId": "120433",
+            "productDescription": null,
+            "productImageURL": "https://static.countdown.co.nz/assets/product-images/zoom/9342866000918.jpg"
+        },
+        "priceData": {
+            "bestPrice": 0.0,
+            "price": 0.0,
+            "pricePerLitre": 0.0,
+            "bestPricePerLitre": 0.0
+        }
+    },
+    {
+        "productData": {
+            "name": "v blue drink ",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=705699",
+            "volume": "500ml",
+            "productId": "705699",
+            "productDescription": null,
+            "productImageURL": "https://static.countdown.co.nz/assets/product-images/zoom/9415767624207.jpg"
+        },
+        "priceData": {
+            "bestPrice": 3.5,
+            "price": 3.5,
+            "pricePerLitre": 7.0,
+            "bestPricePerLitre": 7.0
+        }
+    },
+    {
+        "productData": {
+            "name": "monster super fuel energy drink zero sugar",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=120375",
+            "volume": "550ml",
+            "productId": "120375",
+            "productDescription": null,
+            "productImageURL": "https://static.countdown.co.nz/assets/product-images/zoom/9342866000925.jpg"
+        },
+        "priceData": {
+            "bestPrice": 4.0,
+            "price": 4.0,
+            "pricePerLitre": 7.3,
+            "bestPricePerLitre": 7.3
+        }
+    },
+    {
+        "productData": {
+            "name": "rockstar energy drink guava",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=332724",
+            "volume": "500ml",
+            "productId": "332724",
+            "productDescription": null,
+            "productImageURL": "https://static.countdown.co.nz/assets/product-images/zoom/818094004626.jpg"
+        },
+        "priceData": {
+            "bestPrice": 2.0,
+            "price": 2.0,
+            "pricePerLitre": 4.0,
+            "bestPricePerLitre": 4.0
+        }
+    },
+    {
+        "productData": {
+            "name": "mother energy drink ",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=764892",
+            "multiPack": {
+                "quantity": "6"
+            },
+            "volume": "250ml",
+            "productId": "764892",
+            "productDescription": null,
+            "productImageURL": "https://static.countdown.co.nz/assets/product-images/zoom/1220000060708.jpg"
+        },
+        "priceData": {
+            "bestPrice": 0.0,
+            "price": 0.0,
+            "pricePerLitre": 0.0,
+            "bestPricePerLitre": 0.0
+        }
+    },
+    {
+        "productData": {
+            "name": "monster energy drink ",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=361734",
+            "multiPack": {
+                "quantity": "4"
+            },
+            "volume": "500ml",
+            "productId": "361734",
+            "productDescription": null,
+            "productImageURL": "https://static.countdown.co.nz/assets/product-images/zoom/9342866000208.jpg"
+        },
+        "priceData": {
+            "bestPrice": 0.0,
+            "price": 0.0,
+            "pricePerLitre": 0.0,
+            "bestPricePerLitre": 0.0
+        }
+    },
+    {
+        "productData": {
+            "name": "monster energy drink ",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=329812",
+            "volume": "500ml",
+            "productId": "329812",
+            "productDescription": null,
+            "productImageURL": "https://static.countdown.co.nz/assets/product-images/zoom/70847813903.jpg"
+        },
+        "priceData": {
+            "bestPrice": 3.0,
+            "price": 3.0,
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
+        }
+    },
+    {
+        "productData": {
+            "name": "live plus energy drink persist",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=694545",
+            "volume": "500ml",
+            "productId": "694545",
+            "productDescription": null,
+            "productImageURL": "https://static.countdown.co.nz/assets/product-images/zoom/1220000061408.jpg"
+        },
+        "priceData": {
+            "bestPrice": 2.0,
+            "price": 3.0,
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 4.0,
+            "multiBuy": {
+                "quantity": 2.0,
+                "value": 4.0,
+                "perUnit": 2.0
+            }
+        }
+    },
+    {
+        "productData": {
+            "name": "v vitalise energy drink ",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=315692",
+            "volume": "500ml",
+            "productId": "315692",
+            "productDescription": null,
+            "productImageURL": "https://static.countdown.co.nz/assets/product-images/zoom/9415767677203.jpg"
+        },
+        "priceData": {
+            "bestPrice": 3.5,
+            "price": 3.5,
+            "pricePerLitre": 7.0,
+            "bestPricePerLitre": 7.0
+        }
+    },
+    {
+        "productData": {
+            "name": "v vitalise energy drink guarana",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=139864",
+            "volume": "250ml",
+            "productId": "139864",
+            "productDescription": "New zealands favourite energy drink providing a pick me up on the go to vitalise body and mind. Containing guarana and b vitamins you can think of it as your mid-afternoon wake-up call.",
+            "productImageURL": "https://static.countdown.co.nz/assets/product-images/zoom/94150957.jpg"
+        },
+        "priceData": {
+            "bestPrice": 2.0,
+            "price": 2.0,
+            "pricePerLitre": 8.0,
+            "bestPricePerLitre": 8.0
+        }
+    },
+    {
+        "productData": {
+            "name": "v vitalise energy drink ",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=384544",
+            "volume": "500ml",
+            "productId": "384544",
+            "productDescription": null,
+            "productImageURL": "https://static.countdown.co.nz/assets/product-images/zoom/94123524.jpg"
+        },
+        "priceData": {
+            "bestPrice": 3.8,
+            "price": 3.8,
+            "pricePerLitre": 7.6,
+            "bestPricePerLitre": 7.6
+        }
+    },
+    {
+        "productData": {
+            "name": "live plus energy drink persist",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=694547",
+            "multiPack": {
+                "quantity": "6"
+            },
+            "volume": "250ml",
+            "productId": "694547",
+            "productDescription": null,
+            "productImageURL": "https://static.countdown.co.nz/assets/product-images/zoom/1220000061132.jpg"
+        },
+        "priceData": {
+            "bestPrice": 7.5,
+            "price": 7.5,
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
+        }
+    },
+    {
+        "productData": {
+            "name": "v vitalise energy drink 250ml",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=132815",
+            "multiPack": {
+                "quantity": "4"
+            },
+            "productId": "132815",
+            "productDescription": "New zealand’s favourite energy drink providing a pick me up on the go to vitalise body and mind. Containing guarana and b vitamins you can think of it as your mid-afternoon wake-up call. 4 pack.",
+            "productImageURL": "https://static.countdown.co.nz/assets/product-images/zoom/9415767677685.jpg",
+            "volume": "250ml"
+        },
+        "priceData": {
+            "bestPrice": 7.0,
+            "price": 7.0,
+            "pricePerLitre": 7.0,
+            "bestPricePerLitre": 7.0
+        }
+    },
+    {
+        "productData": {
+            "name": "v green energy drink ",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=117141",
+            "multiPack": {
+                "quantity": "6"
+            },
+            "volume": "330ml",
+            "productId": "117141",
+            "productDescription": null,
+            "productImageURL": "https://static.countdown.co.nz/assets/product-images/zoom/9415767016767.jpg"
+        },
+        "priceData": {
+            "bestPrice": 0.0,
+            "price": 0.0,
+            "pricePerLitre": 0.0,
+            "bestPricePerLitre": 0.0
+        }
+    },
+    {
+        "productData": {
+            "name": "rockstar energy drink original",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=622020",
+            "volume": "500ml",
+            "productId": "622020",
+            "productDescription": null,
+            "productImageURL": "https://static.countdown.co.nz/assets/product-images/zoom/9415767017337.jpg"
+        },
+        "priceData": {
+            "bestPrice": 0.0,
+            "price": 0.0,
+            "pricePerLitre": 0.0,
+            "bestPricePerLitre": 0.0
+        }
+    },
+    {
+        "productData": {
+            "name": "monster energy drink zero ultra",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=489787",
+            "volume": "500ml",
+            "productId": "489787",
+            "productDescription": null,
+            "productImageURL": "https://static.countdown.co.nz/assets/product-images/zoom/9342866000482.jpg"
+        },
+        "priceData": {
+            "bestPrice": 3.0,
+            "price": 3.0,
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
+        }
+    },
+    {
+        "productData": {
+            "name": "monster ultra energy drink rosa",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=124312",
+            "volume": "500ml",
+            "productId": "124312",
+            "productDescription": null,
+            "productImageURL": "https://static.countdown.co.nz/assets/product-images/zoom/9342866000987.jpg"
+        },
+        "priceData": {
+            "bestPrice": 3.0,
+            "price": 3.0,
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
+        }
+    },
+    {
+        "productData": {
+            "name": "monster energy drink ultra zero",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=511504",
+            "multiPack": {
+                "quantity": "4"
+            },
+            "volume": "500ml",
+            "productId": "511504",
+            "productDescription": null,
+            "productImageURL": "https://static.countdown.co.nz/assets/product-images/large/9342866000536.jpg"
+        },
+        "priceData": {
+            "bestPrice": 0.0,
+            "price": 0.0,
+            "pricePerLitre": 0.0,
+            "bestPricePerLitre": 0.0
+        }
+    },
+    {
+        "productData": {
+            "name": "monster ultra energy drink paradise",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=62911",
+            "volume": "500ml",
+            "productId": "62911",
+            "productDescription": null,
+            "productImageURL": "https://static.countdown.co.nz/assets/product-images/zoom/9342866000932.jpg"
+        },
+        "priceData": {
+            "bestPrice": 3.0,
+            "price": 3.0,
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
+        }
+    },
+    {
+        "productData": {
+            "name": "monster energy drink pipeline punch",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=803888",
+            "volume": "500ml",
+            "productId": "803888",
+            "productDescription": null,
+            "productImageURL": "https://static.countdown.co.nz/assets/product-images/zoom/9342866000772.jpg"
+        },
+        "priceData": {
+            "bestPrice": 3.0,
+            "price": 3.0,
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
+        }
+    },
+    {
+        "productData": {
+            "name": "monster energy drink sunrise",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=532955",
+            "volume": "500ml",
+            "productId": "532955",
+            "productDescription": null,
+            "productImageURL": "https://static.countdown.co.nz/assets/product-images/zoom/9342866000543.jpg"
+        },
+        "priceData": {
+            "bestPrice": 3.0,
+            "price": 3.0,
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
+        }
+    },
+    {
+        "productData": {
+            "name": "monster energy drink mule",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=82273",
+            "volume": "500ml",
+            "productId": "82273",
+            "productDescription": null,
+            "productImageURL": "https://static.countdown.co.nz/assets/product-images/zoom/9342866000963.jpg"
+        },
+        "priceData": {
+            "bestPrice": 3.0,
+            "price": 3.0,
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
+        }
+    },
+    {
+        "productData": {
+            "name": "live plus energy drink persist",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=694549",
+            "volume": "355ml",
+            "productId": "694549",
+            "productDescription": null,
+            "productImageURL": "https://static.countdown.co.nz/assets/product-images/zoom/1220000061309.jpg"
+        },
+        "priceData": {
+            "bestPrice": 2.8,
+            "price": 2.8,
+            "pricePerLitre": 7.9,
+            "bestPricePerLitre": 7.9
+        }
+    },
+    {
+        "productData": {
+            "name": "mother energy drink kicked apple",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=590411",
+            "volume": "500ml",
+            "productId": "590411",
+            "productDescription": null,
+            "productImageURL": "https://static.countdown.co.nz/assets/product-images/zoom/1220000060234.jpg"
+        },
+        "priceData": {
+            "bestPrice": 2.0,
+            "price": 3.0,
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 4.0,
+            "multiBuy": {
+                "quantity": 2.0,
+                "value": 4.0,
+                "perUnit": 2.0
+            }
+        }
+    },
+    {
+        "productData": {
+            "name": "mother energy drink passion",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=678202",
+            "volume": "500ml",
+            "productId": "678202",
+            "productDescription": null,
+            "productImageURL": "https://static.countdown.co.nz/assets/product-images/zoom/1220000061200.jpg"
+        },
+        "priceData": {
+            "bestPrice": 2.0,
+            "price": 3.0,
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 4.0,
+            "multiBuy": {
+                "quantity": 2.0,
+                "value": 4.0,
+                "perUnit": 2.0
+            }
+        }
+    },
+    {
+        "productData": {
+            "name": "mother energy drink epic swell",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=82274",
+            "volume": "500ml",
+            "productId": "82274",
+            "productDescription": null,
+            "productImageURL": "https://static.countdown.co.nz/assets/product-images/zoom/1220000062009.jpg"
+        },
+        "priceData": {
+            "bestPrice": 2.0,
+            "price": 3.0,
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 4.0,
+            "multiBuy": {
+                "quantity": 2.0,
+                "value": 4.0,
+                "perUnit": 2.0
+            }
+        }
+    },
+    {
+        "productData": {
+            "name": "mother energy drink frosty berry",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=744335",
+            "volume": "500ml",
+            "productId": "744335",
+            "productDescription": null,
+            "productImageURL": "https://static.countdown.co.nz/assets/product-images/zoom/1220000060845.jpg"
+        },
+        "priceData": {
+            "bestPrice": 2.0,
+            "price": 3.0,
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 4.0,
+            "multiBuy": {
+                "quantity": 2.0,
+                "value": 4.0,
+                "perUnit": 2.0
+            }
+        }
+    },
+    {
+        "productData": {
+            "name": "mother energy drink tropical blast",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=820268",
+            "volume": "500ml",
+            "productId": "820268",
+            "productDescription": null,
+            "productImageURL": "https://static.countdown.co.nz/assets/product-images/zoom/1220000061804.jpg"
+        },
+        "priceData": {
+            "bestPrice": 2.0,
+            "price": 3.0,
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 4.0,
+            "multiBuy": {
+                "quantity": 2.0,
+                "value": 4.0,
+                "perUnit": 2.0
+            }
+        }
+    }
+]

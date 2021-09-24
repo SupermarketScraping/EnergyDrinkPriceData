@@ -1,0 +1,18 @@
+[
+    {
+        "productData": {
+            "name": "rockstar energy drink bluberry pomegranate acai",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=84822",
+            "volume": "500ml",
+            "productId": "84822",
+            "productDescription": null,
+            "productImageURL": "https://static.countdown.co.nz/assets/product-images/zoom/9415767017351.jpg"
+        },
+        "priceData": {
+            "bestPrice": 2.0,
+            "price": 2.0,
+            "pricePerLitre": 4.0,
+            "bestPricePerLitre": 4.0
+        }
+    }
+]

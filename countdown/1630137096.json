@@ -1,0 +1,30 @@
+[
+    {
+        "productData": {
+            "name": "FILEMETA",
+            "productId": "FILEMETA",
+            "productShopPage": "",
+            "productImageURL": "",
+            "productDescription": "THIS IS NOT A REAL PRODUCT, THIS IS METADATA OF THIS FILE"
+        },
+        "priceData": {
+            "bestPrice": "0.00",
+            "price": "0.00",
+            "pricePerLitre": 0,
+            "bestPricePerLitre": 0
+        },
+        "timestamp": "2021-08-28T19:51:33.410563",
+        "siteconfig": {
+            "siteMeta": {
+                "name": "countdown",
+                "mainURL": "shop.countdown.co.nz"
+            },
+            "regex": {
+                "multiPack": "(\\d{1,})pk",
+                "packageType": "(.{1,}ml) cans",
+                "volumeSize": "(.{1,}ml)",
+                "productNameVolume": ". (\\d{1,}ml)"
+            }
+        }
+    }
+]
