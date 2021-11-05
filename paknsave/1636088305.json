@@ -13,7 +13,7 @@
             "pricePerLitre": 0,
             "bestPricePerLitre": 0
         },
-        "timestamp": "2021-11-05T18:42:16.712540",
+        "timestamp": "2021-11-05T17:50:21.092743",
         "siteconfig": {
             "siteMeta": {
                 "name": "Paknsave",
@@ -52,29 +52,6 @@
     },
     {
         "productData": {
-            "name": "Mother Frosty Berry Energy Drink 500ml",
-            "productId": "5020630_ea_000",
-            "productShopPage": "https://www.paknsave.co.nz/shop/product/5020630_ea_000pns",
-            "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5020630.png",
-            "productDescription": "Contains Caffeine.\n\nProduct of New Zealand",
-            "volume": "500mL",
-            "multipack": {
-                "quantity": "1"
-            }
-        },
-        "priceData": {
-            "bestPrice": "3.39",
-            "price": "3.39",
-            "pricePerLitre": 6.78,
-            "bestPricePerLitre": 6.78
-        },
-        "store": {
-            "id": "076e8177-943b-41fc-a885-ba3d28297acf",
-            "name": "PAK'nSAVE Mill Street"
-        }
-    },
-    {
-        "productData": {
             "name": "V Sugarfree Guarana Energy Drink 10pk",
             "productId": "5289890_ea_000",
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5289890_ea_000pns",
@@ -90,75 +67,6 @@
             "price": "16.99",
             "pricePerLitre": 67.96,
             "bestPricePerLitre": 67.96
-        },
-        "store": {
-            "id": "076e8177-943b-41fc-a885-ba3d28297acf",
-            "name": "PAK'nSAVE Mill Street"
-        }
-    },
-    {
-        "productData": {
-            "name": "V Raspberry Lemonade Bottle 350ml",
-            "productId": "5264524_ea_000",
-            "productShopPage": "https://www.paknsave.co.nz/shop/product/5264524_ea_000pns",
-            "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5264524.png",
-            "productDescription": "Product of New Zealand",
-            "volume": "350mL",
-            "multipack": {
-                "quantity": "1"
-            }
-        },
-        "priceData": {
-            "bestPrice": "3.39",
-            "price": "3.39",
-            "pricePerLitre": 9.69,
-            "bestPricePerLitre": 9.69
-        },
-        "store": {
-            "id": "076e8177-943b-41fc-a885-ba3d28297acf",
-            "name": "PAK'nSAVE Mill Street"
-        }
-    },
-    {
-        "productData": {
-            "name": "Mother Energy Drink Can 250ml",
-            "productId": "5008742_ea_000",
-            "productShopPage": "https://www.paknsave.co.nz/shop/product/5008742_ea_000pns",
-            "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5008742.png",
-            "productDescription": "We took the time to get the ORIGINAL flavour just right, and our fans love it.\n\nProduct of New Zealand",
-            "volume": "",
-            "multipack": {
-                "quantity": ""
-            }
-        },
-        "priceData": {
-            "bestPrice": "1.99",
-            "price": "1.99",
-            "pricePerLitre": 7.96,
-            "bestPricePerLitre": 7.96
-        },
-        "store": {
-            "id": "076e8177-943b-41fc-a885-ba3d28297acf",
-            "name": "PAK'nSAVE Mill Street"
-        }
-    },
-    {
-        "productData": {
-            "name": "V Sugarfree Guarana Energy Drink 350ml",
-            "productId": "5001640_ea_000",
-            "productShopPage": "https://www.paknsave.co.nz/shop/product/5001640_ea_000pns",
-            "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5001640.png",
-            "productDescription": "Sugar Free. Contains Caffeine.\n\nProduct of New Zealand",
-            "volume": "350mL",
-            "multipack": {
-                "quantity": "1"
-            }
-        },
-        "priceData": {
-            "bestPrice": "3.39",
-            "price": "3.39",
-            "pricePerLitre": 9.69,
-            "bestPricePerLitre": 9.69
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -389,29 +297,6 @@
             "price": "7.79",
             "pricePerLitre": 7.79,
             "bestPricePerLitre": 7.79
-        },
-        "store": {
-            "id": "076e8177-943b-41fc-a885-ba3d28297acf",
-            "name": "PAK'nSAVE Mill Street"
-        }
-    },
-    {
-        "productData": {
-            "name": "Rockstar X Durance Energy Drink 500ml",
-            "productId": "5267514_ea_000",
-            "productShopPage": "https://www.paknsave.co.nz/shop/product/5267514_ea_000pns",
-            "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5267514.png",
-            "productDescription": "Product of New Zealand",
-            "volume": "500mL",
-            "multipack": {
-                "quantity": "1"
-            }
-        },
-        "priceData": {
-            "bestPrice": "2.69",
-            "price": "2.69",
-            "pricePerLitre": 5.38,
-            "bestPricePerLitre": 5.38
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -1000,29 +885,6 @@
     },
     {
         "productData": {
-            "name": "Rockstar X Durance Energy Drink 500ml",
-            "productId": "5267514_ea_000",
-            "productShopPage": "https://www.paknsave.co.nz/shop/product/5267514_ea_000pns",
-            "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5267514.png",
-            "productDescription": "Product of New Zealand",
-            "volume": "500mL",
-            "multipack": {
-                "quantity": "1"
-            }
-        },
-        "priceData": {
-            "bestPrice": "1.99",
-            "price": "1.99",
-            "pricePerLitre": 3.98,
-            "bestPricePerLitre": 3.98
-        },
-        "store": {
-            "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
-            "name": "PAK'nSAVE Clarence St"
-        }
-    },
-    {
-        "productData": {
             "name": "Rockstar Watermelon Freeze Energy Drink 500ml",
             "productId": "5257298_ea_000",
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5257298_ea_000pns",
@@ -1084,29 +946,6 @@
             "price": "11.49",
             "pricePerLitre": 5.803333333333334,
             "bestPricePerLitre": 5.803333333333334
-        },
-        "store": {
-            "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
-            "name": "PAK'nSAVE Clarence St"
-        }
-    },
-    {
-        "productData": {
-            "name": "Live Plus Zero Sugar Energy Drink 500ml",
-            "productId": "5283730_ea_000",
-            "productShopPage": "https://www.paknsave.co.nz/shop/product/5283730_ea_000pns",
-            "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5283730.png",
-            "productDescription": "Product of New Zealand",
-            "volume": "500mL",
-            "multipack": {
-                "quantity": "1"
-            }
-        },
-        "priceData": {
-            "bestPrice": "2.80",
-            "price": "2.80",
-            "pricePerLitre": 5.6,
-            "bestPricePerLitre": 5.6
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -1564,29 +1403,6 @@
     },
     {
         "productData": {
-            "name": "V Sugarfree Guarana Energy Drink 350ml",
-            "productId": "5001640_ea_000",
-            "productShopPage": "https://www.paknsave.co.nz/shop/product/5001640_ea_000pns",
-            "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5001640.png",
-            "productDescription": "Sugar Free. Contains Caffeine.\n\nProduct of New Zealand",
-            "volume": "350mL",
-            "multipack": {
-                "quantity": "1"
-            }
-        },
-        "priceData": {
-            "bestPrice": "2.29",
-            "price": "2.29",
-            "pricePerLitre": 6.54,
-            "bestPricePerLitre": 6.54
-        },
-        "store": {
-            "id": "3bb30799-82ce-4648-8c02-5113228963ed",
-            "name": "PAK'nSAVE Te Awamutu"
-        }
-    },
-    {
-        "productData": {
             "name": "V Green Guarana Energy Drink 10pk",
             "productId": "5289889_ea_000",
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5289889_ea_000pns",
@@ -1832,29 +1648,6 @@
             "price": "2.59",
             "pricePerLitre": 5.18,
             "bestPricePerLitre": 5.18
-        },
-        "store": {
-            "id": "3bb30799-82ce-4648-8c02-5113228963ed",
-            "name": "PAK'nSAVE Te Awamutu"
-        }
-    },
-    {
-        "productData": {
-            "name": "Live Plus Zero Sugar Energy Drink 500ml",
-            "productId": "5283730_ea_000",
-            "productShopPage": "https://www.paknsave.co.nz/shop/product/5283730_ea_000pns",
-            "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5283730.png",
-            "productDescription": "Product of New Zealand",
-            "volume": "500mL",
-            "multipack": {
-                "quantity": "1"
-            }
-        },
-        "priceData": {
-            "bestPrice": "2.80",
-            "price": "2.80",
-            "pricePerLitre": 5.6,
-            "bestPricePerLitre": 5.6
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
