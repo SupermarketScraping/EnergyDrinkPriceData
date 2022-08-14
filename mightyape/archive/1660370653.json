@@ -13,7 +13,7 @@
             "pricePerLitre": 0,
             "bestPricePerLitre": 0
         },
-        "timestamp": "2022-08-14T18:48:49.426582",
+        "timestamp": "2022-08-13T18:03:37.809739",
         "siteconfig": {
             "siteMeta": {
                 "name": "Mighty Ape",
@@ -23,31 +23,12 @@
             "regex": {
                 "dollars": "(\\d{1,})",
                 "cents": "(\\d{2,})",
-                "multipackDetect": "(\\d{1,}\\.{0,}\\d{0,}(?:l|ml)).{0,}\\((\\d{1,}).{0,}p.{0,}k\\)",
+                "multipackDetect": "(\\d{1,}ml).{0,}\\((\\d{1,}).{0,}p.{0,}k\\)",
                 "altMultipackDetect": "(\\d{1,}).{0,2}(?:x|X).{0,2}(\\d{1,}ml|ML|mL)",
                 "multipackDetect3": "(\\d{1,}).{0,}p.{0,}k",
                 "volume": "(.{1,})(\\d{3,})(?:ml|ML|mL)"
             },
             "endpoints": {}
-        }
-    },
-    {
-        "productData": {
-            "name": "Monster Energy Absolutely Zero - 500ml",
-            "productId": "34598795",
-            "productShopPage": "https://www.mightyape.co.nz/product/name/34598795",
-            "productDescription": "",
-            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/ca4/268932273.jpeg",
-            "multipack": {
-                "quantity": "12"
-            },
-            "volume": "500"
-        },
-        "priceData": {
-            "bestPrice": "59.99",
-            "price": "59.99",
-            "pricePerLitre": 9.998333333333333,
-            "bestPricePerLitre": 9.998333333333333
         }
     },
     {
@@ -945,25 +926,6 @@
     },
     {
         "productData": {
-            "name": "Optimum Nutrition Amino Energy Sparkling RTD - Orange Blast",
-            "productId": "35648674",
-            "productShopPage": "https://www.mightyape.co.nz/product/name/35648674",
-            "productDescription": "",
-            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/867/263221406.jpeg",
-            "multipack": {
-                "quantity": "12"
-            },
-            "volume": "355"
-        },
-        "priceData": {
-            "bestPrice": "58.99",
-            "price": "58.99",
-            "pricePerLitre": 13.847417840375588,
-            "bestPricePerLitre": 13.847417840375588
-        }
-    },
-    {
-        "productData": {
             "name": "Red Bull Energy Drink, 473ml (12 pack)",
             "productId": "21956981",
             "productShopPage": "https://www.mightyape.co.nz/product/name/21956981",
@@ -1007,16 +969,13 @@
             "productShopPage": "https://www.mightyape.co.nz/product/name/31425179",
             "productDescription": "",
             "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/c04/263221478.jpeg",
-            "multipack": {
-                "quantity": "12"
-            },
             "volume": "355"
         },
         "priceData": {
             "bestPrice": "58.99",
             "price": "58.99",
-            "pricePerLitre": 13.847417840375588,
-            "bestPricePerLitre": 13.847417840375588
+            "pricePerLitre": 166.16901408450704,
+            "bestPricePerLitre": 166.16901408450704
         }
     },
     {
@@ -1036,25 +995,6 @@
             "price": "59.00",
             "pricePerLitre": 8.93939393939394,
             "bestPricePerLitre": 8.93939393939394
-        }
-    },
-    {
-        "productData": {
-            "name": "Optimum Nutrition Amino Energy Sparkling RTD - Peach Bellini",
-            "productId": "35648677",
-            "productShopPage": "https://www.mightyape.co.nz/product/name/35648677",
-            "productDescription": "",
-            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/04c/263221385.jpeg",
-            "multipack": {
-                "quantity": "12"
-            },
-            "volume": "355"
-        },
-        "priceData": {
-            "bestPrice": "58.99",
-            "price": "58.99",
-            "pricePerLitre": 13.847417840375588,
-            "bestPricePerLitre": 13.847417840375588
         }
     },
     {

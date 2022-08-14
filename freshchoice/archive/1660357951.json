@@ -13,7 +13,7 @@
             "pricePerLitre": 0,
             "bestPricePerLitre": 0
         },
-        "timestamp": "2022-08-13T11:44:57.044433",
+        "timestamp": "2022-08-13T13:21:33.621403",
         "siteconfig": {
             "siteMeta": {
                 "name": "Fresh Choice",
@@ -21,7 +21,7 @@
                 "productPrefix": ""
             },
             "regex": {
-                "pricePerLitre": "\\(\\$(\\d{1,}.\\d{1,}) (?:per ){0,}100(ml|ML|mL)\\)"
+                "pricePerLitre": "\\(\\$(\\d{1,}.\\d{1,}) (?:per ){0,}100[M-m][L-l]\\)"
             },
             "endpoints": {
                 "storeList": "https://store.freshchoice.co.nz/multipage"

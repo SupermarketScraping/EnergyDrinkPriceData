@@ -13,7 +13,7 @@
             "pricePerLitre": 0,
             "bestPricePerLitre": 0
         },
-        "timestamp": "2022-08-14T18:48:49.426582",
+        "timestamp": "2022-08-13T17:08:22.087330",
         "siteconfig": {
             "siteMeta": {
                 "name": "Mighty Ape",
@@ -23,10 +23,7 @@
             "regex": {
                 "dollars": "(\\d{1,})",
                 "cents": "(\\d{2,})",
-                "multipackDetect": "(\\d{1,}\\.{0,}\\d{0,}(?:l|ml)).{0,}\\((\\d{1,}).{0,}p.{0,}k\\)",
-                "altMultipackDetect": "(\\d{1,}).{0,2}(?:x|X).{0,2}(\\d{1,}ml|ML|mL)",
-                "multipackDetect3": "(\\d{1,}).{0,}p.{0,}k",
-                "volume": "(.{1,})(\\d{3,})(?:ml|ML|mL)"
+                "multipackDetect": "(\\d{1,}ml).{0,}\\((\\d{1,}).{0,}p.{0,}k\\)"
             },
             "endpoints": {}
         }
@@ -38,16 +35,13 @@
             "productShopPage": "https://www.mightyape.co.nz/product/name/34598795",
             "productDescription": "",
             "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/ca4/268932273.jpeg",
-            "multipack": {
-                "quantity": "12"
-            },
-            "volume": "500"
+            "volume": "500ml"
         },
         "priceData": {
             "bestPrice": "59.99",
             "price": "59.99",
-            "pricePerLitre": 9.998333333333333,
-            "bestPricePerLitre": 9.998333333333333
+            "pricePerLitre": 119.98,
+            "bestPricePerLitre": 119.98
         }
     },
     {
@@ -60,7 +54,7 @@
             "multipack": {
                 "quantity": "12"
             },
-            "volume": "500"
+            "volume": "500ml"
         },
         "priceData": {
             "bestPrice": "59.99",
@@ -79,7 +73,7 @@
             "multipack": {
                 "quantity": "24"
             },
-            "volume": "500"
+            "volume": "500ml"
         },
         "priceData": {
             "bestPrice": "74.99",
@@ -98,7 +92,7 @@
             "multipack": {
                 "quantity": "12"
             },
-            "volume": "500"
+            "volume": "500ml"
         },
         "priceData": {
             "bestPrice": "41.99",
@@ -117,7 +111,7 @@
             "multipack": {
                 "quantity": "12"
             },
-            "volume": "500"
+            "volume": "500ml"
         },
         "priceData": {
             "bestPrice": "30.00",
@@ -136,7 +130,7 @@
             "multipack": {
                 "quantity": "24"
             },
-            "volume": "500"
+            "volume": "500ml"
         },
         "priceData": {
             "bestPrice": "74.99",
@@ -155,7 +149,7 @@
             "multipack": {
                 "quantity": "12"
             },
-            "volume": "500"
+            "volume": "500ml"
         },
         "priceData": {
             "bestPrice": "30.00",
@@ -174,7 +168,7 @@
             "multipack": {
                 "quantity": "12"
             },
-            "volume": "500"
+            "volume": "500ml"
         },
         "priceData": {
             "bestPrice": "40.00",
@@ -193,7 +187,7 @@
             "multipack": {
                 "quantity": "12"
             },
-            "volume": "500"
+            "volume": "500ml"
         },
         "priceData": {
             "bestPrice": "40.00",
@@ -212,7 +206,7 @@
             "multipack": {
                 "quantity": "30"
             },
-            "volume": "250"
+            "volume": "250ml"
         },
         "priceData": {
             "bestPrice": "45.00",
@@ -231,7 +225,7 @@
             "multipack": {
                 "quantity": "12"
             },
-            "volume": "500"
+            "volume": "500ml"
         },
         "priceData": {
             "bestPrice": "30.00",
@@ -250,7 +244,7 @@
             "multipack": {
                 "quantity": "12"
             },
-            "volume": "500"
+            "volume": "500ml"
         },
         "priceData": {
             "bestPrice": "40.00",
@@ -269,7 +263,7 @@
             "multipack": {
                 "quantity": "24"
             },
-            "volume": "250"
+            "volume": "250ml"
         },
         "priceData": {
             "bestPrice": "60.00",
@@ -288,7 +282,7 @@
             "multipack": {
                 "quantity": "24"
             },
-            "volume": "500"
+            "volume": "500ml"
         },
         "priceData": {
             "bestPrice": "60.00",
@@ -307,7 +301,7 @@
             "multipack": {
                 "quantity": "12"
             },
-            "volume": "500"
+            "volume": "500ml"
         },
         "priceData": {
             "bestPrice": "29.99",
@@ -326,7 +320,7 @@
             "multipack": {
                 "quantity": "24"
             },
-            "volume": "500"
+            "volume": "500ml"
         },
         "priceData": {
             "bestPrice": "74.99",
@@ -345,7 +339,7 @@
             "multipack": {
                 "quantity": "24"
             },
-            "volume": "500"
+            "volume": "500ml"
         },
         "priceData": {
             "bestPrice": "74.99",
@@ -364,7 +358,7 @@
             "multipack": {
                 "quantity": "30"
             },
-            "volume": "250"
+            "volume": "250ml"
         },
         "priceData": {
             "bestPrice": "45.00",
@@ -383,7 +377,7 @@
             "multipack": {
                 "quantity": "12"
             },
-            "volume": "500"
+            "volume": "500ml"
         },
         "priceData": {
             "bestPrice": "30.00",
@@ -402,7 +396,7 @@
             "multipack": {
                 "quantity": "12"
             },
-            "volume": "500"
+            "volume": "500ml"
         },
         "priceData": {
             "bestPrice": "40.00",
@@ -421,7 +415,7 @@
             "multipack": {
                 "quantity": "24"
             },
-            "volume": "250"
+            "volume": "250ml"
         },
         "priceData": {
             "bestPrice": "60.00",
@@ -440,7 +434,7 @@
             "multipack": {
                 "quantity": "12"
             },
-            "volume": "500"
+            "volume": "500ml"
         },
         "priceData": {
             "bestPrice": "40.00",
@@ -459,7 +453,7 @@
             "multipack": {
                 "quantity": "24"
             },
-            "volume": "500"
+            "volume": "500ml"
         },
         "priceData": {
             "bestPrice": "59.00",
@@ -478,7 +472,7 @@
             "multipack": {
                 "quantity": "24"
             },
-            "volume": "500"
+            "volume": "500ml"
         },
         "priceData": {
             "bestPrice": "60.00",
@@ -497,7 +491,7 @@
             "multipack": {
                 "quantity": "24"
             },
-            "volume": "250"
+            "volume": "250ml"
         },
         "priceData": {
             "bestPrice": "60.00",
@@ -516,7 +510,7 @@
             "multipack": {
                 "quantity": "24"
             },
-            "volume": "500"
+            "volume": "500ml"
         },
         "priceData": {
             "bestPrice": "74.99",
@@ -535,7 +529,7 @@
             "multipack": {
                 "quantity": "24"
             },
-            "volume": "500"
+            "volume": "500ml"
         },
         "priceData": {
             "bestPrice": "74.99",
@@ -554,7 +548,7 @@
             "multipack": {
                 "quantity": "30"
             },
-            "volume": "250"
+            "volume": "250ml"
         },
         "priceData": {
             "bestPrice": "45.00",
@@ -573,7 +567,7 @@
             "multipack": {
                 "quantity": "24"
             },
-            "volume": "500"
+            "volume": "500ml"
         },
         "priceData": {
             "bestPrice": "60.00",
@@ -592,7 +586,7 @@
             "multipack": {
                 "quantity": "24"
             },
-            "volume": "500"
+            "volume": "500ml"
         },
         "priceData": {
             "bestPrice": "60.00",
@@ -611,7 +605,7 @@
             "multipack": {
                 "quantity": "30"
             },
-            "volume": "250"
+            "volume": "250ml"
         },
         "priceData": {
             "bestPrice": "45.00",
@@ -630,7 +624,7 @@
             "multipack": {
                 "quantity": "24"
             },
-            "volume": "500"
+            "volume": "500ml"
         },
         "priceData": {
             "bestPrice": "60.00",
@@ -649,7 +643,7 @@
             "multipack": {
                 "quantity": "12"
             },
-            "volume": "330"
+            "volume": "330ml"
         },
         "priceData": {
             "bestPrice": "42.00",
@@ -668,7 +662,7 @@
             "multipack": {
                 "quantity": "12"
             },
-            "volume": "500"
+            "volume": "500ml"
         },
         "priceData": {
             "bestPrice": "30.00",
@@ -687,7 +681,7 @@
             "multipack": {
                 "quantity": "24"
             },
-            "volume": "500"
+            "volume": "500ml"
         },
         "priceData": {
             "bestPrice": "84.00",
@@ -706,7 +700,7 @@
             "multipack": {
                 "quantity": "24"
             },
-            "volume": "500"
+            "volume": "500ml"
         },
         "priceData": {
             "bestPrice": "59.00",
@@ -725,7 +719,7 @@
             "multipack": {
                 "quantity": "24"
             },
-            "volume": "250"
+            "volume": "250ml"
         },
         "priceData": {
             "bestPrice": "55.00",
@@ -744,7 +738,7 @@
             "multipack": {
                 "quantity": "12"
             },
-            "volume": "500"
+            "volume": "500ml"
         },
         "priceData": {
             "bestPrice": "32.99",
@@ -763,7 +757,7 @@
             "multipack": {
                 "quantity": "12"
             },
-            "volume": "473"
+            "volume": "473ml"
         },
         "priceData": {
             "bestPrice": "44.99",
@@ -782,7 +776,7 @@
             "multipack": {
                 "quantity": "12"
             },
-            "volume": "500"
+            "volume": "500ml"
         },
         "priceData": {
             "bestPrice": "32.99",
@@ -801,7 +795,7 @@
             "multipack": {
                 "quantity": "24"
             },
-            "volume": "250"
+            "volume": "250ml"
         },
         "priceData": {
             "bestPrice": "55.00",
@@ -817,16 +811,13 @@
             "productShopPage": "https://www.mightyape.co.nz/product/name/29233915",
             "productDescription": "",
             "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/b9c/263221443.jpeg",
-            "multipack": {
-                "quantity": "12"
-            },
-            "volume": "355"
+            "volume": "355ml"
         },
         "priceData": {
             "bestPrice": "58.99",
             "price": "58.99",
-            "pricePerLitre": 13.847417840375588,
-            "bestPricePerLitre": 13.847417840375588
+            "pricePerLitre": 166.16901408450704,
+            "bestPricePerLitre": 166.16901408450704
         }
     },
     {
@@ -836,16 +827,13 @@
             "productShopPage": "https://www.mightyape.co.nz/product/name/26859075",
             "productDescription": "",
             "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/f96/232562923.jpeg",
-            "multipack": {
-                "quantity": "12"
-            },
-            "volume": "500"
+            "volume": "500ml"
         },
         "priceData": {
             "bestPrice": "44.00",
             "price": "44.00",
-            "pricePerLitre": 7.333333333333333,
-            "bestPricePerLitre": 7.333333333333333
+            "pricePerLitre": 88.0,
+            "bestPricePerLitre": 88.0
         }
     },
     {
@@ -858,7 +846,7 @@
             "multipack": {
                 "quantity": "12"
             },
-            "volume": "500"
+            "volume": "500ml"
         },
         "priceData": {
             "bestPrice": "30.00",
@@ -877,7 +865,7 @@
             "multipack": {
                 "quantity": "12"
             },
-            "volume": "500"
+            "volume": "500ml"
         },
         "priceData": {
             "bestPrice": "32.99",
@@ -893,16 +881,13 @@
             "productShopPage": "https://www.mightyape.co.nz/product/name/29233912",
             "productDescription": "",
             "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/86f/263221428.jpeg",
-            "multipack": {
-                "quantity": "12"
-            },
-            "volume": "355"
+            "volume": "355ml"
         },
         "priceData": {
             "bestPrice": "58.99",
             "price": "58.99",
-            "pricePerLitre": 13.847417840375588,
-            "bestPricePerLitre": 13.847417840375588
+            "pricePerLitre": 166.16901408450704,
+            "bestPricePerLitre": 166.16901408450704
         }
     },
     {
@@ -915,7 +900,7 @@
             "multipack": {
                 "quantity": "24"
             },
-            "volume": "500"
+            "volume": "500ml"
         },
         "priceData": {
             "bestPrice": "74.99",
@@ -934,7 +919,7 @@
             "multipack": {
                 "quantity": "24"
             },
-            "volume": "250"
+            "volume": "250ml"
         },
         "priceData": {
             "bestPrice": "55.00",
@@ -949,17 +934,11 @@
             "productId": "35648674",
             "productShopPage": "https://www.mightyape.co.nz/product/name/35648674",
             "productDescription": "",
-            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/867/263221406.jpeg",
-            "multipack": {
-                "quantity": "12"
-            },
-            "volume": "355"
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/867/263221406.jpeg"
         },
         "priceData": {
             "bestPrice": "58.99",
-            "price": "58.99",
-            "pricePerLitre": 13.847417840375588,
-            "bestPricePerLitre": 13.847417840375588
+            "price": "58.99"
         }
     },
     {
@@ -972,7 +951,7 @@
             "multipack": {
                 "quantity": "12"
             },
-            "volume": "473"
+            "volume": "473ml"
         },
         "priceData": {
             "bestPrice": "44.99",
@@ -988,16 +967,13 @@
             "productShopPage": "https://www.mightyape.co.nz/product/name/29233914",
             "productDescription": "",
             "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/832/263221413.jpeg",
-            "multipack": {
-                "quantity": "12"
-            },
-            "volume": "355"
+            "volume": "355ml"
         },
         "priceData": {
             "bestPrice": "58.99",
             "price": "58.99",
-            "pricePerLitre": 13.847417840375588,
-            "bestPricePerLitre": 13.847417840375588
+            "pricePerLitre": 166.16901408450704,
+            "bestPricePerLitre": 166.16901408450704
         }
     },
     {
@@ -1006,17 +982,11 @@
             "productId": "31425179",
             "productShopPage": "https://www.mightyape.co.nz/product/name/31425179",
             "productDescription": "",
-            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/c04/263221478.jpeg",
-            "multipack": {
-                "quantity": "12"
-            },
-            "volume": "355"
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/c04/263221478.jpeg"
         },
         "priceData": {
             "bestPrice": "58.99",
-            "price": "58.99",
-            "pricePerLitre": 13.847417840375588,
-            "bestPricePerLitre": 13.847417840375588
+            "price": "58.99"
         }
     },
     {
@@ -1026,16 +996,13 @@
             "productShopPage": "https://www.mightyape.co.nz/product/name/34747077",
             "productDescription": "",
             "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/a27/262814831.jpeg",
-            "multipack": {
-                "quantity": "12"
-            },
-            "volume": "550"
+            "volume": "550ml"
         },
         "priceData": {
             "bestPrice": "59.00",
             "price": "59.00",
-            "pricePerLitre": 8.93939393939394,
-            "bestPricePerLitre": 8.93939393939394
+            "pricePerLitre": 107.27272727272727,
+            "bestPricePerLitre": 107.27272727272727
         }
     },
     {
@@ -1044,17 +1011,11 @@
             "productId": "35648677",
             "productShopPage": "https://www.mightyape.co.nz/product/name/35648677",
             "productDescription": "",
-            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/04c/263221385.jpeg",
-            "multipack": {
-                "quantity": "12"
-            },
-            "volume": "355"
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/04c/263221385.jpeg"
         },
         "priceData": {
             "bestPrice": "58.99",
-            "price": "58.99",
-            "pricePerLitre": 13.847417840375588,
-            "bestPricePerLitre": 13.847417840375588
+            "price": "58.99"
         }
     },
     {
@@ -1067,7 +1028,7 @@
             "multipack": {
                 "quantity": "24"
             },
-            "volume": "250"
+            "volume": "250ml"
         },
         "priceData": {
             "bestPrice": "48.00",
@@ -1086,7 +1047,7 @@
             "multipack": {
                 "quantity": "12"
             },
-            "volume": "500"
+            "volume": "500ml"
         },
         "priceData": {
             "bestPrice": "39.99",

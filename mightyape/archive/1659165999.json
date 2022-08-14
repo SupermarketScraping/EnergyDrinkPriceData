@@ -1,0 +1,117 @@
+[
+    {
+        "productData": {
+            "name": "FILEMETA",
+            "productId": "FILEMETA",
+            "productShopPage": "",
+            "productImageURL": "",
+            "productDescription": "THIS IS NOT A REAL PRODUCT, THIS IS METADATA OF THIS FILE"
+        },
+        "priceData": {
+            "bestPrice": "0.00",
+            "price": "0.00",
+            "pricePerLitre": 0,
+            "bestPricePerLitre": 0
+        },
+        "timestamp": "2022-07-30T19:26:35.730737",
+        "siteconfig": {
+            "siteMeta": {
+                "name": "Mighty Ape",
+                "mainURL": "www.mightyape.co.nz",
+                "productPrefix": ""
+            },
+            "regex": {
+                "dollars": "(\\d{1,})",
+                "cents": "(\\d{2,})",
+                "multipackDetect": "(\\d{1,}ml).{0,}\\((\\d{1,}).{0,}p.{0,}k\\)"
+            },
+            "endpoints": {}
+        }
+    },
+    {
+        "productData": {
+            "name": "Charlie's Honest Fizz- Orange Mango 320ml",
+            "productId": "22993172",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/22993172",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/270/226302652.jpeg",
+            "multipack": {
+                "quantity": "12"
+            },
+            "volume": "320ml"
+        },
+        "priceData": {
+            "bestPrice": "18.00",
+            "price": "18.00",
+            "pricePerLitre": 4.6875,
+            "bestPricePerLitre": 4.6875
+        }
+    },
+    {
+        "productData": {
+            "name": "Charlie’s Straight Up Cola",
+            "productId": "31928615",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/31928615",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/b20/232471174.jpeg",
+            "multipack": {
+                "quantity": "12"
+            }
+        },
+        "priceData": {
+            "bestPrice": "18.00",
+            "price": "18.00"
+        }
+    },
+    {
+        "productData": {
+            "name": "Pepsi Cans 330ml (24 Pack)",
+            "productId": "30819341",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/30819341",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/c2e/254399117.jpeg",
+            "multipack": {
+                "quantity": "24"
+            },
+            "volume": "330ml"
+        },
+        "priceData": {
+            "bestPrice": "24.00",
+            "price": "24.00",
+            "pricePerLitre": 3.0303030303030303,
+            "bestPricePerLitre": 3.0303030303030303
+        }
+    },
+    {
+        "productData": {
+            "name": "Coca-Cola Soft Drink Cans 330ml",
+            "productId": "34406133",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/34406133",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/425/247723474.jpeg",
+            "multipack": {
+                "quantity": "24"
+            },
+            "volume": "330ml"
+        },
+        "priceData": {
+            "bestPrice": "29.00",
+            "price": "29.00",
+            "pricePerLitre": 3.6616161616161618,
+            "bestPricePerLitre": 3.6616161616161618
+        }
+    },
+    {
+        "productData": {
+            "name": "Coca-Cola Soft Drink 1.5l (8 Pack)",
+            "productId": "26852718",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/26852718",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/719/232473974.jpeg"
+        },
+        "priceData": {
+            "bestPrice": "35.00",
+            "price": "35.00"
+        }
+    }
+]

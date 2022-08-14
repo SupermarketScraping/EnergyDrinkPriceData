@@ -13,7 +13,7 @@
             "pricePerLitre": 0,
             "bestPricePerLitre": 0
         },
-        "timestamp": "2022-08-14T18:35:08.780164",
+        "timestamp": "2022-08-13T11:21:41.783084",
         "siteconfig": {
             "siteMeta": {
                 "name": "Paknsave",
@@ -23,8 +23,7 @@
             "regex": {
                 "dollars": ">([0-9][0-9]?)",
                 "cents": ">([0-9][0-9])",
-                "volumeData": "Serving.pack: (\\d{1,}) Serving size: (.{1,})",
-                "volume": "(.{1,})(\\d{3,})(?:ml|ML|mL)"
+                "volumeData": "Serving.pack: (\\d{1,}) Serving size: (.{1,})"
             }
         }
     },
@@ -42,9 +41,7 @@
         },
         "priceData": {
             "bestPrice": "16.99",
-            "price": "16.99",
-            "pricePerLitre": 6.795999999999999,
-            "bestPricePerLitre": 6.795999999999999
+            "price": "16.99"
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -58,16 +55,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5007495_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5007495.png",
             "productDescription": "Contains Caffeine, Wheat Derivatives.",
-            "volume": "250",
+            "volume": "250mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "1.89",
-            "price": "1.89",
-            "pricePerLitre": 7.56,
-            "bestPricePerLitre": 7.56
+            "price": "1.89"
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -81,16 +76,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5020630_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5020630.png",
             "productDescription": "Contains Caffeine.",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "3.39",
-            "price": "3.39",
-            "pricePerLitre": 6.78,
-            "bestPricePerLitre": 6.78
+            "price": "3.39"
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -104,16 +97,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5264524_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5264524.png",
             "productDescription": "",
-            "volume": "350",
+            "volume": "350mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "2.99",
-            "price": "2.99",
-            "pricePerLitre": 8.54,
-            "bestPricePerLitre": 8.54
+            "price": "2.99"
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -127,16 +118,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5008742_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5008742.png",
             "productDescription": "We took the time to get the ORIGINAL flavour just right, and our fans love it.",
-            "volume": "250",
+            "volume": "",
             "multipack": {
                 "quantity": ""
             }
         },
         "priceData": {
             "bestPrice": "1.99",
-            "price": "1.99",
-            "pricePerLitre": 7.96,
-            "bestPricePerLitre": 7.96
+            "price": "1.99"
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -157,9 +146,7 @@
         },
         "priceData": {
             "bestPrice": "11.49",
-            "price": "11.49",
-            "pricePerLitre": 5.803333333333334,
-            "bestPricePerLitre": 5.803333333333334
+            "price": "11.49"
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -173,16 +160,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5001640_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5001640.png",
             "productDescription": "Sugar Free. Contains Caffeine.",
-            "volume": "350",
+            "volume": "350mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "2.99",
-            "price": "2.99",
-            "pricePerLitre": 8.54,
-            "bestPricePerLitre": 8.54
+            "price": "2.99"
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -196,16 +181,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5236678_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5236678.png",
             "productDescription": "",
-            "volume": "250",
+            "volume": "250mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "1.99",
-            "price": "1.99",
-            "pricePerLitre": 7.96,
-            "bestPricePerLitre": 7.96
+            "price": "1.99"
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -226,9 +209,7 @@
         },
         "priceData": {
             "bestPrice": "16.99",
-            "price": "16.99",
-            "pricePerLitre": 6.795999999999999,
-            "bestPricePerLitre": 6.795999999999999
+            "price": "16.99"
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -242,16 +223,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5283362_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5283362.png",
             "productDescription": "Sugar free",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "2.52",
-            "price": "2.52",
-            "pricePerLitre": 5.04,
-            "bestPricePerLitre": 5.04
+            "price": "2.52"
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -265,16 +244,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5003156_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5003156.png",
             "productDescription": "Contains Caffeine.",
-            "volume": "350",
+            "volume": "350mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "2.99",
-            "price": "2.99",
-            "pricePerLitre": 8.54,
-            "bestPricePerLitre": 8.54
+            "price": "2.99"
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -288,16 +265,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5283363_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5283363.png",
             "productDescription": "Sugarfree",
-            "volume": "250",
+            "volume": "250mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "1.89",
-            "price": "1.89",
-            "pricePerLitre": 7.56,
-            "bestPricePerLitre": 7.56
+            "price": "1.89"
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -311,16 +286,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5007492_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5007492.png",
             "productDescription": "Contains Caffeine, Wheat Derivatives.",
-            "volume": "350",
+            "volume": "350mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "2.99",
-            "price": "2.99",
-            "pricePerLitre": 8.54,
-            "bestPricePerLitre": 8.54
+            "price": "2.99"
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -334,16 +307,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5020662_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5020662.png",
             "productDescription": "",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "3.29",
-            "price": "3.29",
-            "pricePerLitre": 6.58,
-            "bestPricePerLitre": 6.58
+            "price": "3.29"
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -357,16 +328,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5007494_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5007494.png",
             "productDescription": "Contains Wheat Derivatives, Caffeine.",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "2.52",
-            "price": "2.52",
-            "pricePerLitre": 5.04,
-            "bestPricePerLitre": 5.04
+            "price": "2.52"
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -380,16 +349,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5005255_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5005255.png",
             "productDescription": "Red Bull Energy Drink's special formula contains ingredients of high quality: Caffeine, Taurine, B-Group Vitamins, Sugars, Alpine Water.One 250ml can of Red Bull Energy Drinks contains 80 mg of caffeine, about the same amount as in a cup of home-brewed coffee.The amount of sugars in a can of Red Bull Energy Drink is comparable to the level of sugars in an equivalent amount of apple or orange juice – 11 g per 100ml.Red Bull cans are made of 100% recyclable aluminium.Red Bull Energy Drink 473ml canVitalizes Body and Mind.®RED BULL GIVES YOU WINGSInspired by functional drinks from the Far East, Dietrich Mateschitz founded Red Bull in the mid-1980s. He developed a new product and a unique marketing concept and launched Red Bull Energy Drink on April 1, 1987 in Austria. A brand new product category - Energy Drinks - was born.",
-            "volume": "473",
+            "volume": "473mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "3.59",
-            "price": "3.59",
-            "pricePerLitre": 7.59,
-            "bestPricePerLitre": 7.59
+            "price": "3.59"
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -403,16 +370,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5003151_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5003151.png",
             "productDescription": "Contains Caffeine.",
-            "volume": "250",
+            "volume": "250mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "1.89",
-            "price": "1.89",
-            "pricePerLitre": 7.56,
-            "bestPricePerLitre": 7.56
+            "price": "1.89"
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -426,16 +391,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5001443_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5001443.png",
             "productDescription": "Red Bull Energy Drink's special formula contains ingredients of high quality: Caffeine, Taurine, B-Group Vitamins, Sugars, Alpine Water.One 250ml can of Red Bull Energy Drinks contains 80 mg of caffeine, about the same amount as in a cup of home-brewed coffee.The amount of sugars in a can of Red Bull Energy Drink is comparable to the level of sugars in an equivalent amount of apple or orange juice – 11 g per 100ml.Red Bull cans are made of 100% recyclable aluminium.Pack of four 250ml Red Bull Energy Drink cansVitalizes Body and Mind.®RED BULL GIVES YOU WINGSInspired by functional drinks from the Far East, Dietrich Mateschitz founded Red Bull in the mid-1980s. He developed a new product and a unique marketing concept and launched Red Bull Energy Drink on April 1, 1987 in Austria. A brand new product category - Energy Drinks - was born.",
-            "volume": "250",
+            "volume": "250mL",
             "multipack": {
                 "quantity": "4"
             }
         },
         "priceData": {
             "bestPrice": "7.79",
-            "price": "7.79",
-            "pricePerLitre": 7.79,
-            "bestPricePerLitre": 7.79
+            "price": "7.79"
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -449,16 +412,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5030250_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5030250.png",
             "productDescription": "Contains Wheat Derivatives",
-            "volume": "710",
+            "volume": "250mL",
             "multipack": {
                 "quantity": "3"
             }
         },
         "priceData": {
             "bestPrice": "5.19",
-            "price": "5.19",
-            "pricePerLitre": 7.31,
-            "bestPricePerLitre": 7.31
+            "price": "5.19"
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -472,16 +433,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5267514_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5267514.png",
             "productDescription": "",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
-            "bestPrice": "2.25",
-            "price": "2.25",
-            "pricePerLitre": 4.5,
-            "bestPricePerLitre": 4.5
+            "bestPrice": "1.89",
+            "price": "1.89"
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -495,16 +454,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5237753_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5237753.png",
             "productDescription": "Nothing artificial",
-            "volume": "330",
+            "volume": "330mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "3.27",
-            "price": "3.27",
-            "pricePerLitre": 9.91,
-            "bestPricePerLitre": 9.91
+            "price": "3.27"
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -518,16 +475,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5257298_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5257298.png",
             "productDescription": "",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "2.69",
-            "price": "2.69",
-            "pricePerLitre": 5.38,
-            "bestPricePerLitre": 5.38
+            "price": "2.69"
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -541,16 +496,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5215383_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5215383.png",
             "productDescription": "Caffeine; B vitamins; Vitamin C; Taurine; Ginseng",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "2.69",
-            "price": "2.69",
-            "pricePerLitre": 5.38,
-            "bestPricePerLitre": 5.38
+            "price": "2.69"
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -571,9 +524,7 @@
         },
         "priceData": {
             "bestPrice": "11.49",
-            "price": "11.49",
-            "pricePerLitre": 5.803333333333334,
-            "bestPricePerLitre": 5.803333333333334
+            "price": "11.49"
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -594,9 +545,7 @@
         },
         "priceData": {
             "bestPrice": "7.49",
-            "price": "7.49",
-            "pricePerLitre": 7.49,
-            "bestPricePerLitre": 7.49
+            "price": "7.49"
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -617,9 +566,7 @@
         },
         "priceData": {
             "bestPrice": "7.49",
-            "price": "7.49",
-            "pricePerLitre": 7.49,
-            "bestPricePerLitre": 7.49
+            "price": "7.49"
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -633,16 +580,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5269459_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5269459.png",
             "productDescription": "",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "3.29",
-            "price": "3.29",
-            "pricePerLitre": 6.58,
-            "bestPricePerLitre": 6.58
+            "price": "3.29"
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -663,9 +608,7 @@
         },
         "priceData": {
             "bestPrice": "7.49",
-            "price": "7.49",
-            "pricePerLitre": 7.49,
-            "bestPricePerLitre": 7.49
+            "price": "7.49"
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -679,16 +622,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5090618_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5090618.png",
             "productDescription": "A little less sweet, lighter-tasting, zero calories, but with a full load of our Monster energy blend. Sure, white is the new black. Monster Energy Zero Ultra. Unleash the Ultra Beast!",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "3.29",
-            "price": "3.29",
-            "pricePerLitre": 6.58,
-            "bestPricePerLitre": 6.58
+            "price": "3.29"
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -709,9 +650,7 @@
         },
         "priceData": {
             "bestPrice": "7.19",
-            "price": "7.19",
-            "pricePerLitre": 4.79,
-            "bestPricePerLitre": 4.79
+            "price": "7.19"
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -725,16 +664,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5242373_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5242373.png",
             "productDescription": "",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "3.29",
-            "price": "3.29",
-            "pricePerLitre": 6.58,
-            "bestPricePerLitre": 6.58
+            "price": "3.29"
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -748,16 +685,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5007647_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5007647.png",
             "productDescription": "Contains Caffeine.",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "3.29",
-            "price": "3.29",
-            "pricePerLitre": 6.58,
-            "bestPricePerLitre": 6.58
+            "price": "3.29"
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -771,16 +706,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5007644_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5007644.png",
             "productDescription": "Sugar Free.",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "2.52",
-            "price": "2.52",
-            "pricePerLitre": 5.04,
-            "bestPricePerLitre": 5.04
+            "price": "2.52"
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -794,16 +727,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5004703_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5004703.png",
             "productDescription": "Contains Caffeine.",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "2.52",
-            "price": "2.52",
-            "pricePerLitre": 5.04,
-            "bestPricePerLitre": 5.04
+            "price": "2.52"
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -817,16 +748,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5007441_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5007441.png",
             "productDescription": "Contains Wheat Derivatives, Caffeine.",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "3.29",
-            "price": "3.29",
-            "pricePerLitre": 6.58,
-            "bestPricePerLitre": 6.58
+            "price": "3.29"
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -840,16 +769,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5010699_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5010699.png",
             "productDescription": "A combination of electrolytes and carbohydrates that provide effective hydration and energy. Powerade isotonic sports drinks contain four electrolytes - Sodium, Potassium, Calcium and Magnesium - designed to be in balance with your body’s fluids to hydrate and provide energy when you need it most. Sipper cap bottle.",
-            "volume": "750",
+            "volume": "750mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "2.89",
-            "price": "2.89",
-            "pricePerLitre": 3.85,
-            "bestPricePerLitre": 3.85
+            "price": "2.89"
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -863,16 +790,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5009692_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5009692.png",
             "productDescription": "e2 is a fruit flavoured refreshing drink offered in sipper bottles. Its non-carbonated taste is combined with vitamins to give consumers a delicious fruity blast.",
-            "volume": "800",
+            "volume": "800mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "3.49",
-            "price": "3.49",
-            "pricePerLitre": 4.36,
-            "bestPricePerLitre": 4.36
+            "price": "3.49"
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -886,16 +811,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5236679_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5236679.png",
             "productDescription": "",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "1.89",
-            "price": "1.89",
-            "pricePerLitre": 3.78,
-            "bestPricePerLitre": 3.78
+            "price": "1.89"
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -909,39 +832,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5011173_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5011173.png",
             "productDescription": "Contains Caffeine.",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "2.69",
-            "price": "2.69",
-            "pricePerLitre": 5.38,
-            "bestPricePerLitre": 5.38
-        },
-        "store": {
-            "id": "076e8177-943b-41fc-a885-ba3d28297acf",
-            "name": "PAK'nSAVE Mill Street"
-        }
-    },
-    {
-        "productData": {
-            "name": "Powerade Berry Ice Ion4 Sports Drink 750ml",
-            "productId": "5010696_ea_000",
-            "productShopPage": "https://www.paknsave.co.nz/shop/product/5010696_ea_000pns",
-            "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5010696.png",
-            "productDescription": "A combination of electrolytes and carbohydrates that provide effective hydration and energy. Powerade isotonic sports drinks contain four electrolytes - Sodium, Potassium, Calcium and Magnesium - designed to be in balance with your body’s fluids to hydrate and provide energy when you need it most. Sipper cap bottle, Berry flavour.",
-            "volume": "750",
-            "multipack": {
-                "quantity": "1"
-            }
-        },
-        "priceData": {
-            "bestPrice": "3.15",
-            "price": "3.15",
-            "pricePerLitre": 4.2,
-            "bestPricePerLitre": 4.2
+            "price": "2.69"
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -955,16 +853,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5008928_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5008928.png",
             "productDescription": "Powerade Zero Sugar sports drink is scientifically formulated to replace an essential electrolyte lost in sweat.. Sipper cap bottle, Mountain Blast flavour, Zero sugar.",
-            "volume": "750",
+            "volume": "750mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "2.89",
-            "price": "2.89",
-            "pricePerLitre": 3.85,
-            "bestPricePerLitre": 3.85
+            "price": "2.89"
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -985,9 +881,7 @@
         },
         "priceData": {
             "bestPrice": "2.79",
-            "price": "2.79",
-            "pricePerLitre": 2.79,
-            "bestPricePerLitre": 2.79
+            "price": "2.79"
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -1001,16 +895,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5009694_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5009694.png",
             "productDescription": "e2 is a fruit flavoured refreshing drink offered in sipper bottles. Its non-carbonated taste is combined with vitamins to give consumers a delicious fruity blast.",
-            "volume": "800",
+            "volume": "800mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "3.49",
-            "price": "3.49",
-            "pricePerLitre": 4.36,
-            "bestPricePerLitre": 4.36
+            "price": "3.49"
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -1024,16 +916,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5009695_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5009695.png",
             "productDescription": "e2 is a fruit flavoured refreshing drink offered in sipper bottles. Its non-carbonated taste is combined with vitamins to give consumers a delicious fruity blast.",
-            "volume": "800",
+            "volume": "800mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "3.49",
-            "price": "3.49",
-            "pricePerLitre": 4.36,
-            "bestPricePerLitre": 4.36
+            "price": "3.49"
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -1054,9 +944,7 @@
         },
         "priceData": {
             "bestPrice": "7.19",
-            "price": "7.19",
-            "pricePerLitre": 4.79,
-            "bestPricePerLitre": 4.79
+            "price": "7.19"
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -1077,9 +965,7 @@
         },
         "priceData": {
             "bestPrice": "2.79",
-            "price": "2.79",
-            "pricePerLitre": 2.79,
-            "bestPricePerLitre": 2.79
+            "price": "2.79"
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -1093,16 +979,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5236682_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5236682.png",
             "productDescription": "",
-            "volume": "355",
+            "volume": "355mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "2.49",
-            "price": "2.49",
-            "pricePerLitre": 7.01,
-            "bestPricePerLitre": 7.01
+            "price": "2.49"
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -1116,16 +1000,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5286151_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5286151.png",
             "productDescription": "",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "3.39",
-            "price": "3.39",
-            "pricePerLitre": 6.78,
-            "bestPricePerLitre": 6.78
+            "price": "3.39"
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -1139,16 +1021,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5258231_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5258231.png",
             "productDescription": "Powerade Active Water contains ION4 electrolytes - Sodium, Potassium, Calcium and Magnesium – to replace those lost in sweat, B vitamins for energy and no sugar. Sipper cap bottle, Peach and Apple flavour, Zero sugar.",
-            "volume": "750",
+            "volume": "",
             "multipack": {
                 "quantity": ""
             }
         },
         "priceData": {
             "bestPrice": "2.89",
-            "price": "2.89",
-            "pricePerLitre": 3.85,
-            "bestPricePerLitre": 3.85
+            "price": "2.89"
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -1169,9 +1049,7 @@
         },
         "priceData": {
             "bestPrice": "3.09",
-            "price": "3.09",
-            "pricePerLitre": 3.09,
-            "bestPricePerLitre": 3.09
+            "price": "3.09"
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -1185,16 +1063,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5292919_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5292919.png",
             "productDescription": "Product contains caffeine. This product is not recommended for children under 15 years of age, pregnant or lactating women, or individuals sensitive to caffeine.",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "3.89",
-            "price": "3.89",
-            "pricePerLitre": 7.800000000000001,
-            "bestPricePerLitre": 7.800000000000001
+            "price": "3.89"
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -1215,9 +1091,7 @@
         },
         "priceData": {
             "bestPrice": "3.99",
-            "price": "3.99",
-            "pricePerLitre": 3.99,
-            "bestPricePerLitre": 3.99
+            "price": "3.99"
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -1231,16 +1105,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5292918_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5292918.png",
             "productDescription": "Product contains caffeine. This product is not recommended for children under 15 years of age, pregnant or lactating women, or individuals sensitive to caffeine.",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "3.89",
-            "price": "3.89",
-            "pricePerLitre": 7.800000000000001,
-            "bestPricePerLitre": 7.800000000000001
+            "price": "3.89"
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -1261,9 +1133,7 @@
         },
         "priceData": {
             "bestPrice": "3.09",
-            "price": "3.09",
-            "pricePerLitre": 3.09,
-            "bestPricePerLitre": 3.09
+            "price": "3.09"
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -1298,16 +1168,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5289888_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5289888.png",
             "productDescription": "",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "2.69",
-            "price": "2.69",
-            "pricePerLitre": 5.38,
-            "bestPricePerLitre": 5.38
+            "price": "2.69"
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -1321,16 +1189,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5302196_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5302196.png",
             "productDescription": "",
-            "volume": "500",
+            "volume": "",
             "multipack": {
                 "quantity": ""
             }
         },
         "priceData": {
             "bestPrice": "2.69",
-            "price": "2.69",
-            "pricePerLitre": 5.38,
-            "bestPricePerLitre": 5.38
+            "price": "2.69"
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -1344,16 +1210,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5299010_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5299010.png",
             "productDescription": "No artificial sweeteners, colours or preservatives",
-            "volume": "330",
+            "volume": "330mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "5.29",
-            "price": "5.29",
-            "pricePerLitre": 16.03,
-            "bestPricePerLitre": 16.03
+            "price": "5.29"
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -1367,16 +1231,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5307070_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5307070.png",
             "productDescription": "",
-            "volume": "250",
+            "volume": "",
             "multipack": {
                 "quantity": ""
             }
         },
         "priceData": {
             "bestPrice": "1.89",
-            "price": "1.89",
-            "pricePerLitre": 7.56,
-            "bestPricePerLitre": 7.56
+            "price": "1.89"
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -1390,16 +1252,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5307069_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5307069.png",
             "productDescription": "",
-            "volume": "250",
+            "volume": "",
             "multipack": {
                 "quantity": ""
             }
         },
         "priceData": {
             "bestPrice": "1.89",
-            "price": "1.89",
-            "pricePerLitre": 7.56,
-            "bestPricePerLitre": 7.56
+            "price": "1.89"
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -1413,16 +1273,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5307068_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5307068.png",
             "productDescription": "",
-            "volume": "500",
+            "volume": "",
             "multipack": {
                 "quantity": ""
             }
         },
         "priceData": {
             "bestPrice": "2.52",
-            "price": "2.52",
-            "pricePerLitre": 5.04,
-            "bestPricePerLitre": 5.04
+            "price": "2.52"
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -1436,16 +1294,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5307067_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5307067.png",
             "productDescription": "",
-            "volume": "500",
+            "volume": "",
             "multipack": {
                 "quantity": ""
             }
         },
         "priceData": {
             "bestPrice": "2.69",
-            "price": "2.69",
-            "pricePerLitre": 5.38,
-            "bestPricePerLitre": 5.38
+            "price": "2.69"
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -1459,16 +1315,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5302196_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5302196.png",
             "productDescription": "",
-            "volume": "500",
+            "volume": "",
             "multipack": {
                 "quantity": ""
             }
         },
         "priceData": {
             "bestPrice": "2.69",
-            "price": "2.69",
-            "pricePerLitre": 5.38,
-            "bestPricePerLitre": 5.38
+            "price": "2.69"
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -1482,16 +1336,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5294634_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5294634.png",
             "productDescription": "",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "2.79",
-            "price": "2.79",
-            "pricePerLitre": 5.58,
-            "bestPricePerLitre": 5.58
+            "price": "2.79"
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -1512,9 +1364,7 @@
         },
         "priceData": {
             "bestPrice": "16.99",
-            "price": "16.99",
-            "pricePerLitre": 6.795999999999999,
-            "bestPricePerLitre": 6.795999999999999
+            "price": "16.99"
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -1528,16 +1378,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5020630_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5020630.png",
             "productDescription": "Contains Caffeine.",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "1.99",
-            "price": "1.99",
-            "pricePerLitre": 3.98,
-            "bestPricePerLitre": 3.98
+            "price": "1.99"
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -1551,16 +1399,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5249537_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5249537.png",
             "productDescription": "",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "1.99",
-            "price": "1.99",
-            "pricePerLitre": 3.98,
-            "bestPricePerLitre": 3.98
+            "price": "1.99"
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -1581,9 +1427,7 @@
         },
         "priceData": {
             "bestPrice": "9.99",
-            "price": "9.99",
-            "pricePerLitre": 5.045,
-            "bestPricePerLitre": 5.045
+            "price": "9.99"
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -1597,16 +1441,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5236678_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5236678.png",
             "productDescription": "",
-            "volume": "250",
+            "volume": "250mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "0.99",
-            "price": "0.99",
-            "pricePerLitre": 3.96,
-            "bestPricePerLitre": 3.96
+            "price": "0.99"
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -1627,9 +1469,7 @@
         },
         "priceData": {
             "bestPrice": "16.99",
-            "price": "16.99",
-            "pricePerLitre": 6.795999999999999,
-            "bestPricePerLitre": 6.795999999999999
+            "price": "16.99"
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -1643,16 +1483,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5283362_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5283362.png",
             "productDescription": "Sugar free",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "2.89",
-            "price": "2.89",
-            "pricePerLitre": 5.78,
-            "bestPricePerLitre": 5.78
+            "price": "2.89"
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -1666,18 +1504,16 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5003156_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5003156.png",
             "productDescription": "Buy 2 for $5.00.\nView all\n\n\nContains Caffeine.",
-            "volume": "350"
+            "volume": "350mL",
+            "multipack": {
+                "quantity": "1"
+            }
         },
         "priceData": {
-            "bestPrice": 2.5,
-            "price": 2.99,
+            "bestPrice": "2.99",
+            "price": "2.99",
             "pricePerLitre": 8.542857142857144,
-            "bestPricePerLitre": 7.142857142857143,
-            "multiBuy": {
-                "quantity": 2.0,
-                "value": 5.0,
-                "perUnit": 2.5
-            }
+            "bestPricePerLitre": 8.542857142857144
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -1691,18 +1527,16 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5007492_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5007492.png",
             "productDescription": "Buy 2 for $5.00.\nView all\n\n\nContains Caffeine, Wheat Derivatives.",
-            "volume": "350"
+            "volume": "350mL",
+            "multipack": {
+                "quantity": "1"
+            }
         },
         "priceData": {
-            "bestPrice": 2.5,
-            "price": 2.99,
+            "bestPrice": "2.99",
+            "price": "2.99",
             "pricePerLitre": 8.542857142857144,
-            "bestPricePerLitre": 7.142857142857143,
-            "multiBuy": {
-                "quantity": 2.0,
-                "value": 5.0,
-                "perUnit": 2.5
-            }
+            "bestPricePerLitre": 8.542857142857144
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -1716,16 +1550,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5020662_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5020662.png",
             "productDescription": "",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "3.29",
-            "price": "3.29",
-            "pricePerLitre": 6.58,
-            "bestPricePerLitre": 6.58
+            "price": "3.29"
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -1739,16 +1571,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5007494_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5007494.png",
             "productDescription": "Contains Wheat Derivatives, Caffeine.",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "2.89",
-            "price": "2.89",
-            "pricePerLitre": 5.78,
-            "bestPricePerLitre": 5.78
+            "price": "2.89"
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -1762,16 +1592,35 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5005255_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5005255.png",
             "productDescription": "Red Bull Energy Drink's special formula contains ingredients of high quality: Caffeine, Taurine, B-Group Vitamins, Sugars, Alpine Water.One 250ml can of Red Bull Energy Drinks contains 80 mg of caffeine, about the same amount as in a cup of home-brewed coffee.The amount of sugars in a can of Red Bull Energy Drink is comparable to the level of sugars in an equivalent amount of apple or orange juice – 11 g per 100ml.Red Bull cans are made of 100% recyclable aluminium.Red Bull Energy Drink 473ml canVitalizes Body and Mind.®RED BULL GIVES YOU WINGSInspired by functional drinks from the Far East, Dietrich Mateschitz founded Red Bull in the mid-1980s. He developed a new product and a unique marketing concept and launched Red Bull Energy Drink on April 1, 1987 in Austria. A brand new product category - Energy Drinks - was born.",
-            "volume": "473",
+            "volume": "473mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "3.19",
-            "price": "3.19",
-            "pricePerLitre": 6.74,
-            "bestPricePerLitre": 6.74
+            "price": "3.19"
+        },
+        "store": {
+            "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
+            "name": "PAK'nSAVE Clarence St"
+        }
+    },
+    {
+        "productData": {
+            "name": "V Original Guarana Energy Drink 250ml",
+            "productId": "5003151_ea_000",
+            "productShopPage": "https://www.paknsave.co.nz/shop/product/5003151_ea_000pns",
+            "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5003151.png",
+            "productDescription": "Contains Caffeine.",
+            "volume": "250mL",
+            "multipack": {
+                "quantity": "1"
+            }
+        },
+        "priceData": {
+            "bestPrice": "1.89",
+            "price": "1.89"
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -1785,16 +1634,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5001443_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5001443.png",
             "productDescription": "Red Bull Energy Drink's special formula contains ingredients of high quality: Caffeine, Taurine, B-Group Vitamins, Sugars, Alpine Water.One 250ml can of Red Bull Energy Drinks contains 80 mg of caffeine, about the same amount as in a cup of home-brewed coffee.The amount of sugars in a can of Red Bull Energy Drink is comparable to the level of sugars in an equivalent amount of apple or orange juice – 11 g per 100ml.Red Bull cans are made of 100% recyclable aluminium.Pack of four 250ml Red Bull Energy Drink cansVitalizes Body and Mind.®RED BULL GIVES YOU WINGSInspired by functional drinks from the Far East, Dietrich Mateschitz founded Red Bull in the mid-1980s. He developed a new product and a unique marketing concept and launched Red Bull Energy Drink on April 1, 1987 in Austria. A brand new product category - Energy Drinks - was born.",
-            "volume": "250",
+            "volume": "250mL",
             "multipack": {
                 "quantity": "4"
             }
         },
         "priceData": {
             "bestPrice": "7.79",
-            "price": "7.79",
-            "pricePerLitre": 7.79,
-            "bestPricePerLitre": 7.79
+            "price": "7.79"
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -1808,41 +1655,16 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5030250_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5030250.png",
             "productDescription": "Buy 3 for $5.00.\n\n\nContains Wheat Derivatives",
-            "volume": "710"
-        },
-        "priceData": {
-            "bestPrice": 1.6666666666666667,
-            "price": 2.79,
-            "pricePerLitre": 3.929577464788732,
-            "bestPricePerLitre": 2.3474178403755865,
-            "multiBuy": {
-                "quantity": 3.0,
-                "value": 5.0,
-                "perUnit": 1.6666666666666667
-            }
-        },
-        "store": {
-            "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
-            "name": "PAK'nSAVE Clarence St"
-        }
-    },
-    {
-        "productData": {
-            "name": "Lucozade Orange Energy Drink 380ml",
-            "productId": "5009239_ea_000",
-            "productShopPage": "https://www.paknsave.co.nz/shop/product/5009239_ea_000pns",
-            "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5009239.png",
-            "productDescription": "Powered by Glucose.",
-            "volume": "380",
+            "volume": "250mL",
             "multipack": {
-                "quantity": "1"
+                "quantity": "3"
             }
         },
         "priceData": {
-            "bestPrice": "2.89",
-            "price": "2.89",
-            "pricePerLitre": 7.61,
-            "bestPricePerLitre": 7.61
+            "bestPrice": "2.79",
+            "price": "2.79",
+            "pricePerLitre": 3.7199999999999998,
+            "bestPricePerLitre": 3.7199999999999998
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -1856,16 +1678,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5267514_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5267514.png",
             "productDescription": "",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "1.99",
-            "price": "1.99",
-            "pricePerLitre": 3.98,
-            "bestPricePerLitre": 3.98
+            "price": "1.99"
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -1879,16 +1699,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5257298_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5257298.png",
             "productDescription": "",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "1.99",
-            "price": "1.99",
-            "pricePerLitre": 3.98,
-            "bestPricePerLitre": 3.98
+            "price": "1.99"
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -1902,16 +1720,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5215383_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5215383.png",
             "productDescription": "Caffeine; B vitamins; Vitamin C; Taurine; Ginseng",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "1.99",
-            "price": "1.99",
-            "pricePerLitre": 3.98,
-            "bestPricePerLitre": 3.98
+            "price": "1.99"
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -1932,9 +1748,7 @@
         },
         "priceData": {
             "bestPrice": "7.49",
-            "price": "7.49",
-            "pricePerLitre": 7.49,
-            "bestPricePerLitre": 7.49
+            "price": "7.49"
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -1955,9 +1769,7 @@
         },
         "priceData": {
             "bestPrice": "7.49",
-            "price": "7.49",
-            "pricePerLitre": 7.49,
-            "bestPricePerLitre": 7.49
+            "price": "7.49"
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -1971,16 +1783,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5242374_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5242374.png",
             "productDescription": "",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "2.79",
-            "price": "2.79",
-            "pricePerLitre": 5.58,
-            "bestPricePerLitre": 5.58
+            "price": "2.79"
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -1994,16 +1804,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5278094_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5278094.png",
             "productDescription": "",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "2.79",
-            "price": "2.79",
-            "pricePerLitre": 5.58,
-            "bestPricePerLitre": 5.58
+            "price": "2.79"
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -2017,16 +1825,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5269459_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5269459.png",
             "productDescription": "",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "2.79",
-            "price": "2.79",
-            "pricePerLitre": 5.58,
-            "bestPricePerLitre": 5.58
+            "price": "2.79"
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -2040,16 +1846,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5261257_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5261257.png",
             "productDescription": "",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "2.79",
-            "price": "2.79",
-            "pricePerLitre": 5.58,
-            "bestPricePerLitre": 5.58
+            "price": "2.79"
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -2070,9 +1874,7 @@
         },
         "priceData": {
             "bestPrice": "7.49",
-            "price": "7.49",
-            "pricePerLitre": 7.49,
-            "bestPricePerLitre": 7.49
+            "price": "7.49"
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -2086,16 +1888,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5090618_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5090618.png",
             "productDescription": "A little less sweet, lighter-tasting, zero calories, but with a full load of our Monster energy blend. Sure, white is the new black. Monster Energy Zero Ultra. Unleash the Ultra Beast!",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "2.79",
-            "price": "2.79",
-            "pricePerLitre": 5.58,
-            "bestPricePerLitre": 5.58
+            "price": "2.79"
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -2109,16 +1909,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5011153_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5011153.png",
             "productDescription": "Contains Caffeine.",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "1.99",
-            "price": "1.99",
-            "pricePerLitre": 3.98,
-            "bestPricePerLitre": 3.98
+            "price": "1.99"
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -2132,16 +1930,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5284332_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5284332.png",
             "productDescription": "",
-            "volume": "550",
+            "volume": "550mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "3.49",
-            "price": "3.49",
-            "pricePerLitre": 6.35,
-            "bestPricePerLitre": 6.35
+            "price": "3.49"
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -2162,9 +1958,7 @@
         },
         "priceData": {
             "bestPrice": "6.29",
-            "price": "6.29",
-            "pricePerLitre": 4.19,
-            "bestPricePerLitre": 4.19
+            "price": "6.29"
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -2178,16 +1972,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5242373_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5242373.png",
             "productDescription": "",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "2.79",
-            "price": "2.79",
-            "pricePerLitre": 5.58,
-            "bestPricePerLitre": 5.58
+            "price": "2.79"
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -2201,16 +1993,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5007647_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5007647.png",
             "productDescription": "Contains Caffeine.",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "2.79",
-            "price": "2.79",
-            "pricePerLitre": 5.58,
-            "bestPricePerLitre": 5.58
+            "price": "2.79"
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -2224,16 +2014,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5007644_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5007644.png",
             "productDescription": "Sugar Free.",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "2.89",
-            "price": "2.89",
-            "pricePerLitre": 5.78,
-            "bestPricePerLitre": 5.78
+            "price": "2.89"
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -2247,16 +2035,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5004703_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5004703.png",
             "productDescription": "Contains Caffeine.",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "2.89",
-            "price": "2.89",
-            "pricePerLitre": 5.78,
-            "bestPricePerLitre": 5.78
+            "price": "2.89"
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -2270,16 +2056,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5007441_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5007441.png",
             "productDescription": "Contains Wheat Derivatives, Caffeine.",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "3.29",
-            "price": "3.29",
-            "pricePerLitre": 6.58,
-            "bestPricePerLitre": 6.58
+            "price": "3.29"
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -2293,16 +2077,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5304029_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5304029.png",
             "productDescription": "",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "1.99",
-            "price": "1.99",
-            "pricePerLitre": 3.98,
-            "bestPricePerLitre": 3.98
+            "price": "1.99"
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -2316,39 +2098,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5010699_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5010699.png",
             "productDescription": "A combination of electrolytes and carbohydrates that provide effective hydration and energy. Powerade isotonic sports drinks contain four electrolytes - Sodium, Potassium, Calcium and Magnesium - designed to be in balance with your body’s fluids to hydrate and provide energy when you need it most. Sipper cap bottle.",
-            "volume": "750",
+            "volume": "750mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
-            "bestPrice": "2.79",
-            "price": "2.79",
-            "pricePerLitre": 3.72,
-            "bestPricePerLitre": 3.72
-        },
-        "store": {
-            "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
-            "name": "PAK'nSAVE Clarence St"
-        }
-    },
-    {
-        "productData": {
-            "name": "e2 Blackcurrant & Apple Liquid Energy Fruit Drink 800ml",
-            "productId": "5009692_ea_000",
-            "productShopPage": "https://www.paknsave.co.nz/shop/product/5009692_ea_000pns",
-            "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5009692.png",
-            "productDescription": "e2 is a fruit flavoured refreshing drink offered in sipper bottles. Its non-carbonated taste is combined with vitamins to give consumers a delicious fruity blast.",
-            "volume": "800",
-            "multipack": {
-                "quantity": "1"
-            }
-        },
-        "priceData": {
-            "bestPrice": "2.49",
-            "price": "2.49",
-            "pricePerLitre": 3.11,
-            "bestPricePerLitre": 3.11
+            "bestPrice": "3.99",
+            "price": "3.99"
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -2362,16 +2119,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5236679_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5236679.png",
             "productDescription": "",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "1.99",
-            "price": "1.99",
-            "pricePerLitre": 3.98,
-            "bestPricePerLitre": 3.98
+            "price": "1.99"
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -2385,16 +2140,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5011173_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5011173.png",
             "productDescription": "Contains Caffeine.",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
-            "bestPrice": "2.25",
-            "price": "2.25",
-            "pricePerLitre": 4.5,
-            "bestPricePerLitre": 4.5
+            "bestPrice": "1.99",
+            "price": "1.99"
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -2408,16 +2161,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5010696_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5010696.png",
             "productDescription": "A combination of electrolytes and carbohydrates that provide effective hydration and energy. Powerade isotonic sports drinks contain four electrolytes - Sodium, Potassium, Calcium and Magnesium - designed to be in balance with your body’s fluids to hydrate and provide energy when you need it most. Sipper cap bottle, Berry flavour.",
-            "volume": "750",
+            "volume": "750mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "2.79",
-            "price": "2.79",
-            "pricePerLitre": 3.72,
-            "bestPricePerLitre": 3.72
+            "price": "2.79"
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -2431,16 +2182,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5008928_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5008928.png",
             "productDescription": "Powerade Zero Sugar sports drink is scientifically formulated to replace an essential electrolyte lost in sweat.. Sipper cap bottle, Mountain Blast flavour, Zero sugar.",
-            "volume": "750",
+            "volume": "750mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "2.79",
-            "price": "2.79",
-            "pricePerLitre": 3.72,
-            "bestPricePerLitre": 3.72
+            "price": "2.79"
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -2454,16 +2203,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5009694_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5009694.png",
             "productDescription": "e2 is a fruit flavoured refreshing drink offered in sipper bottles. Its non-carbonated taste is combined with vitamins to give consumers a delicious fruity blast.",
-            "volume": "800",
+            "volume": "800mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "2.49",
-            "price": "2.49",
-            "pricePerLitre": 3.11,
-            "bestPricePerLitre": 3.11
+            "price": "2.49"
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -2477,16 +2224,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5001300_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5001300.png",
             "productDescription": "Red Bull Energy Drink's special formula contains ingredients of high quality: Caffeine, Taurine, B-Group Vitamins, Sugars, Alpine Water.One 250ml can of Red Bull Energy Drinks contains 80 mg of caffeine, about the same amount as in a cup of home-brewed coffee.The amount of sugars in a can of Red Bull Energy Drink is comparable to the level of sugars in an equivalent amount of apple or orange juice – 11 g per 100ml.Red Bull cans are made of 100% recyclable aluminiumRed Bull Energy Drink 250ml canVitalizes Body and Mind.®RED BULL GIVES YOU WINGSInspired by functional drinks from the Far East, Dietrich Mateschitz founded Red Bull in the mid-1980s. He developed a new product and a unique marketing concept and launched Red Bull Energy Drink on April 1, 1987 in Austria. A brand new product category - Energy Drinks - was born.",
-            "volume": "250",
+            "volume": "250mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "1.66",
-            "price": "1.66",
-            "pricePerLitre": 6.64,
-            "bestPricePerLitre": 6.64
+            "price": "1.66"
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -2500,16 +2245,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5009695_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5009695.png",
             "productDescription": "e2 is a fruit flavoured refreshing drink offered in sipper bottles. Its non-carbonated taste is combined with vitamins to give consumers a delicious fruity blast.",
-            "volume": "800",
+            "volume": "800mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "2.49",
-            "price": "2.49",
-            "pricePerLitre": 3.11,
-            "bestPricePerLitre": 3.11
+            "price": "2.49"
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -2530,9 +2273,7 @@
         },
         "priceData": {
             "bestPrice": "7.19",
-            "price": "7.19",
-            "pricePerLitre": 4.79,
-            "bestPricePerLitre": 4.79
+            "price": "7.19"
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -2546,16 +2287,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5213127_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5213127.png",
             "productDescription": "",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "1.99",
-            "price": "1.99",
-            "pricePerLitre": 3.98,
-            "bestPricePerLitre": 3.98
+            "price": "1.99"
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -2569,16 +2308,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5236682_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5236682.png",
             "productDescription": "",
-            "volume": "355",
+            "volume": "355mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "1.99",
-            "price": "1.99",
-            "pricePerLitre": 5.61,
-            "bestPricePerLitre": 5.61
+            "price": "1.99"
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -2592,16 +2329,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5286151_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5286151.png",
             "productDescription": "",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "1.99",
-            "price": "1.99",
-            "pricePerLitre": 3.98,
-            "bestPricePerLitre": 3.98
+            "price": "1.99"
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -2615,16 +2350,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5030816_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5030816.png",
             "productDescription": "Red Bull Energy Drink Sugar Free's special formula contains ingredients of high quality: Caffeine, Taurine, B-Group Vitamins, Sucralose & Acesulfame K, Alpine water.One 250ml can of Red Bull Energy Drinks contains 80 mg of caffeine, about the same amount as in a cup of home-brewed coffee.Red Bull cans are made of 100% recyclable aluminium.Pack of four 250ml Red Bull Energy Drink Sugar Free cans.Vitalizes Body and Mind.®RED BULL GIVES YOU WINGSInspired by functional drinks from the Far East, Dietrich Mateschitz founded Red Bull in the mid-1980s. He developed a new product and a unique marketing concept and launched Red Bull Energy Drink on April 1, 1987 in Austria. A brand new product category - Energy Drinks - was born.",
-            "volume": "250",
+            "volume": "250mL",
             "multipack": {
                 "quantity": "4"
             }
         },
         "priceData": {
             "bestPrice": "7.79",
-            "price": "7.79",
-            "pricePerLitre": 7.79,
-            "bestPricePerLitre": 7.79
+            "price": "7.79"
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -2645,9 +2378,7 @@
         },
         "priceData": {
             "bestPrice": "2.20",
-            "price": "2.20",
-            "pricePerLitre": 2.2,
-            "bestPricePerLitre": 2.2
+            "price": "2.20"
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -2661,16 +2392,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5292919_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5292919.png",
             "productDescription": "Product contains caffeine. This product is not recommended for children under 15 years of age, pregnant or lactating women, or individuals sensitive to caffeine.",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "3.29",
-            "price": "3.29",
-            "pricePerLitre": 6.6000000000000005,
-            "bestPricePerLitre": 6.6000000000000005
+            "price": "3.29"
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -2691,9 +2420,7 @@
         },
         "priceData": {
             "bestPrice": "2.20",
-            "price": "2.20",
-            "pricePerLitre": 2.2,
-            "bestPricePerLitre": 2.2
+            "price": "2.20"
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -2707,16 +2434,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5292918_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5292918.png",
             "productDescription": "Product contains caffeine. This product is not recommended for children under 15 years of age, pregnant or lactating women, or individuals sensitive to caffeine.",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "3.29",
-            "price": "3.29",
-            "pricePerLitre": 6.6000000000000005,
-            "bestPricePerLitre": 6.6000000000000005
+            "price": "3.29"
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -2751,16 +2476,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5289888_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5289888.png",
             "productDescription": "",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "1.99",
-            "price": "1.99",
-            "pricePerLitre": 3.98,
-            "bestPricePerLitre": 3.98
+            "price": "1.99"
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -2774,16 +2497,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5302196_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5302196.png",
             "productDescription": "",
-            "volume": "500",
+            "volume": "",
             "multipack": {
                 "quantity": ""
             }
         },
         "priceData": {
             "bestPrice": "1.99",
-            "price": "1.99",
-            "pricePerLitre": 3.98,
-            "bestPricePerLitre": 3.98
+            "price": "1.99"
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -2797,16 +2518,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5299010_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5299010.png",
             "productDescription": "No artificial sweeteners, colours or preservatives",
-            "volume": "330",
+            "volume": "330mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
-            "bestPrice": "4.99",
-            "price": "4.99",
-            "pricePerLitre": 15.12,
-            "bestPricePerLitre": 15.12
+            "bestPrice": "4.89",
+            "price": "4.89"
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -2820,16 +2539,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5307070_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5307070.png",
             "productDescription": "",
-            "volume": "250",
+            "volume": "",
             "multipack": {
                 "quantity": ""
             }
         },
         "priceData": {
             "bestPrice": "1.89",
-            "price": "1.89",
-            "pricePerLitre": 7.56,
-            "bestPricePerLitre": 7.56
+            "price": "1.89"
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -2843,16 +2560,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5307069_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5307069.png",
             "productDescription": "",
-            "volume": "250",
+            "volume": "",
             "multipack": {
                 "quantity": ""
             }
         },
         "priceData": {
             "bestPrice": "1.89",
-            "price": "1.89",
-            "pricePerLitre": 7.56,
-            "bestPricePerLitre": 7.56
+            "price": "1.89"
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -2866,16 +2581,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5307068_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5307068.png",
             "productDescription": "",
-            "volume": "500",
+            "volume": "",
             "multipack": {
                 "quantity": ""
             }
         },
         "priceData": {
-            "bestPrice": "2.69",
-            "price": "2.69",
-            "pricePerLitre": 5.38,
-            "bestPricePerLitre": 5.38
+            "bestPrice": "3.49",
+            "price": "3.49"
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -2889,16 +2602,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5307067_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5307067.png",
             "productDescription": "",
-            "volume": "500",
+            "volume": "",
             "multipack": {
                 "quantity": ""
             }
         },
         "priceData": {
             "bestPrice": "2.89",
-            "price": "2.89",
-            "pricePerLitre": 5.78,
-            "bestPricePerLitre": 5.78
+            "price": "2.89"
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -2912,16 +2623,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5305969_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5305969.png",
             "productDescription": "",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "2.79",
-            "price": "2.79",
-            "pricePerLitre": 5.58,
-            "bestPricePerLitre": 5.58
+            "price": "2.79"
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -2935,16 +2644,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5302196_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5302196.png",
             "productDescription": "",
-            "volume": "500",
+            "volume": "",
             "multipack": {
                 "quantity": ""
             }
         },
         "priceData": {
             "bestPrice": "1.99",
-            "price": "1.99",
-            "pricePerLitre": 3.98,
-            "bestPricePerLitre": 3.98
+            "price": "1.99"
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -2958,16 +2665,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5294634_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5294634.png",
             "productDescription": "",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "2.79",
-            "price": "2.79",
-            "pricePerLitre": 5.58,
-            "bestPricePerLitre": 5.58
+            "price": "2.79"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -2988,9 +2693,7 @@
         },
         "priceData": {
             "bestPrice": "16.99",
-            "price": "16.99",
-            "pricePerLitre": 6.795999999999999,
-            "bestPricePerLitre": 6.795999999999999
+            "price": "16.99"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -3011,9 +2714,7 @@
         },
         "priceData": {
             "bestPrice": "5.49",
-            "price": "5.49",
-            "pricePerLitre": 5.49,
-            "bestPricePerLitre": 5.49
+            "price": "5.49"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -3034,9 +2735,7 @@
         },
         "priceData": {
             "bestPrice": "11.49",
-            "price": "11.49",
-            "pricePerLitre": 5.803333333333334,
-            "bestPricePerLitre": 5.803333333333334
+            "price": "11.49"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -3050,16 +2749,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5001640_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5001640.png",
             "productDescription": "Sugar Free. Contains Caffeine.",
-            "volume": "350",
+            "volume": "350mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "2.79",
-            "price": "2.79",
-            "pricePerLitre": 7.97,
-            "bestPricePerLitre": 7.97
+            "price": "2.79"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -3080,9 +2777,7 @@
         },
         "priceData": {
             "bestPrice": "16.99",
-            "price": "16.99",
-            "pricePerLitre": 6.795999999999999,
-            "bestPricePerLitre": 6.795999999999999
+            "price": "16.99"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -3096,16 +2791,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5283362_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5283362.png",
             "productDescription": "Sugar free",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "2.50",
-            "price": "2.50",
-            "pricePerLitre": 5.0,
-            "bestPricePerLitre": 5.0
+            "price": "2.50"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -3119,16 +2812,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5003156_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5003156.png",
             "productDescription": "Contains Caffeine.",
-            "volume": "350",
+            "volume": "350mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "2.79",
-            "price": "2.79",
-            "pricePerLitre": 7.97,
-            "bestPricePerLitre": 7.97
+            "price": "2.79"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -3142,16 +2833,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5007492_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5007492.png",
             "productDescription": "Contains Caffeine, Wheat Derivatives.",
-            "volume": "350",
+            "volume": "350mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "2.79",
-            "price": "2.79",
-            "pricePerLitre": 7.97,
-            "bestPricePerLitre": 7.97
+            "price": "2.79"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -3165,16 +2854,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5020662_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5020662.png",
             "productDescription": "",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "3.49",
-            "price": "3.49",
-            "pricePerLitre": 6.98,
-            "bestPricePerLitre": 6.98
+            "price": "3.49"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -3188,16 +2875,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5007494_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5007494.png",
             "productDescription": "Contains Wheat Derivatives, Caffeine.",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
-            "bestPrice": "2.50",
-            "price": "2.50",
-            "pricePerLitre": 5.0,
-            "bestPricePerLitre": 5.0
+            "bestPrice": "2.69",
+            "price": "2.69"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -3211,16 +2896,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5005255_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5005255.png",
             "productDescription": "Red Bull Energy Drink's special formula contains ingredients of high quality: Caffeine, Taurine, B-Group Vitamins, Sugars, Alpine Water.One 250ml can of Red Bull Energy Drinks contains 80 mg of caffeine, about the same amount as in a cup of home-brewed coffee.The amount of sugars in a can of Red Bull Energy Drink is comparable to the level of sugars in an equivalent amount of apple or orange juice – 11 g per 100ml.Red Bull cans are made of 100% recyclable aluminium.Red Bull Energy Drink 473ml canVitalizes Body and Mind.®RED BULL GIVES YOU WINGSInspired by functional drinks from the Far East, Dietrich Mateschitz founded Red Bull in the mid-1980s. He developed a new product and a unique marketing concept and launched Red Bull Energy Drink on April 1, 1987 in Austria. A brand new product category - Energy Drinks - was born.",
-            "volume": "473",
+            "volume": "473mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
-            "bestPrice": "3.19",
-            "price": "3.19",
-            "pricePerLitre": 6.74,
-            "bestPricePerLitre": 6.74
+            "bestPrice": "3.59",
+            "price": "3.59"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -3234,16 +2917,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5001443_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5001443.png",
             "productDescription": "Red Bull Energy Drink's special formula contains ingredients of high quality: Caffeine, Taurine, B-Group Vitamins, Sugars, Alpine Water.One 250ml can of Red Bull Energy Drinks contains 80 mg of caffeine, about the same amount as in a cup of home-brewed coffee.The amount of sugars in a can of Red Bull Energy Drink is comparable to the level of sugars in an equivalent amount of apple or orange juice – 11 g per 100ml.Red Bull cans are made of 100% recyclable aluminium.Pack of four 250ml Red Bull Energy Drink cansVitalizes Body and Mind.®RED BULL GIVES YOU WINGSInspired by functional drinks from the Far East, Dietrich Mateschitz founded Red Bull in the mid-1980s. He developed a new product and a unique marketing concept and launched Red Bull Energy Drink on April 1, 1987 in Austria. A brand new product category - Energy Drinks - was born.",
-            "volume": "250",
+            "volume": "250mL",
             "multipack": {
                 "quantity": "4"
             }
         },
         "priceData": {
             "bestPrice": "7.49",
-            "price": "7.49",
-            "pricePerLitre": 7.49,
-            "bestPricePerLitre": 7.49
+            "price": "7.49"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -3257,16 +2938,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5009239_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5009239.png",
             "productDescription": "Powered by Glucose.",
-            "volume": "380",
+            "volume": "380mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "3.09",
-            "price": "3.09",
-            "pricePerLitre": 8.13,
-            "bestPricePerLitre": 8.13
+            "price": "3.09"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -3280,16 +2959,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5215383_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5215383.png",
             "productDescription": "Caffeine; B vitamins; Vitamin C; Taurine; Ginseng",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "1.84",
-            "price": "1.84",
-            "pricePerLitre": 3.68,
-            "bestPricePerLitre": 3.68
+            "price": "1.84"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -3310,9 +2987,7 @@
         },
         "priceData": {
             "bestPrice": "11.49",
-            "price": "11.49",
-            "pricePerLitre": 5.803333333333334,
-            "bestPricePerLitre": 5.803333333333334
+            "price": "11.49"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -3333,9 +3008,7 @@
         },
         "priceData": {
             "bestPrice": "5.49",
-            "price": "5.49",
-            "pricePerLitre": 5.49,
-            "bestPricePerLitre": 5.49
+            "price": "5.49"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -3356,9 +3029,7 @@
         },
         "priceData": {
             "bestPrice": "5.49",
-            "price": "5.49",
-            "pricePerLitre": 5.49,
-            "bestPricePerLitre": 5.49
+            "price": "5.49"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -3372,16 +3043,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5278094_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5278094.png",
             "productDescription": "",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "3.29",
-            "price": "3.29",
-            "pricePerLitre": 6.58,
-            "bestPricePerLitre": 6.58
+            "price": "3.29"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -3402,9 +3071,7 @@
         },
         "priceData": {
             "bestPrice": "5.49",
-            "price": "5.49",
-            "pricePerLitre": 5.49,
-            "bestPricePerLitre": 5.49
+            "price": "5.49"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -3418,16 +3085,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5090618_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5090618.png",
             "productDescription": "A little less sweet, lighter-tasting, zero calories, but with a full load of our Monster energy blend. Sure, white is the new black. Monster Energy Zero Ultra. Unleash the Ultra Beast!",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "3.29",
-            "price": "3.29",
-            "pricePerLitre": 6.58,
-            "bestPricePerLitre": 6.58
+            "price": "3.29"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -3441,16 +3106,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5011153_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5011153.png",
             "productDescription": "Contains Caffeine.",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "1.84",
-            "price": "1.84",
-            "pricePerLitre": 3.68,
-            "bestPricePerLitre": 3.68
+            "price": "1.84"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -3471,9 +3134,7 @@
         },
         "priceData": {
             "bestPrice": "7.19",
-            "price": "7.19",
-            "pricePerLitre": 4.79,
-            "bestPricePerLitre": 4.79
+            "price": "7.19"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -3487,16 +3148,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5007647_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5007647.png",
             "productDescription": "Contains Caffeine.",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "3.29",
-            "price": "3.29",
-            "pricePerLitre": 6.58,
-            "bestPricePerLitre": 6.58
+            "price": "3.29"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -3510,16 +3169,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5007644_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5007644.png",
             "productDescription": "Sugar Free.",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "2.50",
-            "price": "2.50",
-            "pricePerLitre": 5.0,
-            "bestPricePerLitre": 5.0
+            "price": "2.50"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -3533,16 +3190,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5004703_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5004703.png",
             "productDescription": "Contains Caffeine.",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "2.50",
-            "price": "2.50",
-            "pricePerLitre": 5.0,
-            "bestPricePerLitre": 5.0
+            "price": "2.50"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -3556,16 +3211,35 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5007441_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5007441.png",
             "productDescription": "Contains Wheat Derivatives, Caffeine.",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
-            "bestPrice": "3.49",
-            "price": "3.49",
-            "pricePerLitre": 6.98,
-            "bestPricePerLitre": 6.98
+            "bestPrice": "2.69",
+            "price": "2.69"
+        },
+        "store": {
+            "id": "3bb30799-82ce-4648-8c02-5113228963ed",
+            "name": "PAK'nSAVE Te Awamutu"
+        }
+    },
+    {
+        "productData": {
+            "name": "Live Plus Watermelon Flavour Energy Drink 500ml",
+            "productId": "5304029_ea_000",
+            "productShopPage": "https://www.paknsave.co.nz/shop/product/5304029_ea_000pns",
+            "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5304029.png",
+            "productDescription": "",
+            "volume": "500mL",
+            "multipack": {
+                "quantity": "1"
+            }
+        },
+        "priceData": {
+            "bestPrice": "1.75",
+            "price": "1.75"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -3579,16 +3253,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5010699_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5010699.png",
             "productDescription": "A combination of electrolytes and carbohydrates that provide effective hydration and energy. Powerade isotonic sports drinks contain four electrolytes - Sodium, Potassium, Calcium and Magnesium - designed to be in balance with your body’s fluids to hydrate and provide energy when you need it most. Sipper cap bottle.",
-            "volume": "750",
+            "volume": "750mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "2.99",
-            "price": "2.99",
-            "pricePerLitre": 3.99,
-            "bestPricePerLitre": 3.99
+            "price": "2.99"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -3602,16 +3274,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5009692_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5009692.png",
             "productDescription": "e2 is a fruit flavoured refreshing drink offered in sipper bottles. Its non-carbonated taste is combined with vitamins to give consumers a delicious fruity blast.",
-            "volume": "800",
+            "volume": "800mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "2.29",
-            "price": "2.29",
-            "pricePerLitre": 2.86,
-            "bestPricePerLitre": 2.86
+            "price": "2.29"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -3625,16 +3295,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5236679_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5236679.png",
             "productDescription": "",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "1.75",
-            "price": "1.75",
-            "pricePerLitre": 3.5,
-            "bestPricePerLitre": 3.5
+            "price": "1.75"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -3648,16 +3316,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5011173_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5011173.png",
             "productDescription": "Contains Caffeine.",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "1.84",
-            "price": "1.84",
-            "pricePerLitre": 3.68,
-            "bestPricePerLitre": 3.68
+            "price": "1.84"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -3671,16 +3337,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5010696_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5010696.png",
             "productDescription": "A combination of electrolytes and carbohydrates that provide effective hydration and energy. Powerade isotonic sports drinks contain four electrolytes - Sodium, Potassium, Calcium and Magnesium - designed to be in balance with your body’s fluids to hydrate and provide energy when you need it most. Sipper cap bottle, Berry flavour.",
-            "volume": "750",
+            "volume": "750mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "2.99",
-            "price": "2.99",
-            "pricePerLitre": 3.99,
-            "bestPricePerLitre": 3.99
+            "price": "2.99"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -3694,16 +3358,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5008928_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5008928.png",
             "productDescription": "Powerade Zero Sugar sports drink is scientifically formulated to replace an essential electrolyte lost in sweat.. Sipper cap bottle, Mountain Blast flavour, Zero sugar.",
-            "volume": "750",
+            "volume": "750mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "2.99",
-            "price": "2.99",
-            "pricePerLitre": 3.99,
-            "bestPricePerLitre": 3.99
+            "price": "2.99"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -3724,9 +3386,7 @@
         },
         "priceData": {
             "bestPrice": "2.89",
-            "price": "2.89",
-            "pricePerLitre": 2.89,
-            "bestPricePerLitre": 2.89
+            "price": "2.89"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -3740,16 +3400,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5009694_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5009694.png",
             "productDescription": "e2 is a fruit flavoured refreshing drink offered in sipper bottles. Its non-carbonated taste is combined with vitamins to give consumers a delicious fruity blast.",
-            "volume": "800",
+            "volume": "800mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "2.29",
-            "price": "2.29",
-            "pricePerLitre": 2.86,
-            "bestPricePerLitre": 2.86
+            "price": "2.29"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -3763,16 +3421,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5001300_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5001300.png",
             "productDescription": "Red Bull Energy Drink's special formula contains ingredients of high quality: Caffeine, Taurine, B-Group Vitamins, Sugars, Alpine Water.One 250ml can of Red Bull Energy Drinks contains 80 mg of caffeine, about the same amount as in a cup of home-brewed coffee.The amount of sugars in a can of Red Bull Energy Drink is comparable to the level of sugars in an equivalent amount of apple or orange juice – 11 g per 100ml.Red Bull cans are made of 100% recyclable aluminiumRed Bull Energy Drink 250ml canVitalizes Body and Mind.®RED BULL GIVES YOU WINGSInspired by functional drinks from the Far East, Dietrich Mateschitz founded Red Bull in the mid-1980s. He developed a new product and a unique marketing concept and launched Red Bull Energy Drink on April 1, 1987 in Austria. A brand new product category - Energy Drinks - was born.",
-            "volume": "250",
+            "volume": "250mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "2.19",
-            "price": "2.19",
-            "pricePerLitre": 8.76,
-            "bestPricePerLitre": 8.76
+            "price": "2.19"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -3786,16 +3442,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5009695_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5009695.png",
             "productDescription": "e2 is a fruit flavoured refreshing drink offered in sipper bottles. Its non-carbonated taste is combined with vitamins to give consumers a delicious fruity blast.",
-            "volume": "800",
+            "volume": "800mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "2.29",
-            "price": "2.29",
-            "pricePerLitre": 2.86,
-            "bestPricePerLitre": 2.86
+            "price": "2.29"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -3809,16 +3463,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5215275_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5215275.png",
             "productDescription": "Red Bull Energy Drink Sugar Free's special formula contains ingredients of high quality: Caffeine, Taurine, B-Group Vitamins, Sucralose & Acesulfame K, Alpine water.One 250ml can of Red Bull Energy Drinks contains 80 mg of caffeine, about the same amount as in a cup of home-brewed coffee.Red Bull cans are made of 100% recyclable aluminium.Red Bull Energy Drink Sugarfree 473ml can.Vitalizes Body and Mind.®RED BULL GIVES YOU WINGSInspired by functional drinks from the Far East, Dietrich Mateschitz founded Red Bull in the mid-1980s. He developed a new product and a unique marketing concept and launched Red Bull Energy Drink on April 1, 1987 in Austria. A brand new product category - Energy Drinks - was born.",
-            "volume": "473",
+            "volume": "473mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "3.59",
-            "price": "3.59",
-            "pricePerLitre": 7.59,
-            "bestPricePerLitre": 7.59
+            "price": "3.59"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -3839,9 +3491,7 @@
         },
         "priceData": {
             "bestPrice": "7.19",
-            "price": "7.19",
-            "pricePerLitre": 4.79,
-            "bestPricePerLitre": 4.79
+            "price": "7.19"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -3862,9 +3512,7 @@
         },
         "priceData": {
             "bestPrice": "2.89",
-            "price": "2.89",
-            "pricePerLitre": 2.89,
-            "bestPricePerLitre": 2.89
+            "price": "2.89"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -3878,16 +3526,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5213127_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5213127.png",
             "productDescription": "",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "1.84",
-            "price": "1.84",
-            "pricePerLitre": 3.68,
-            "bestPricePerLitre": 3.68
+            "price": "1.84"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -3901,16 +3547,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5236682_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5236682.png",
             "productDescription": "",
-            "volume": "355",
+            "volume": "355mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "2.49",
-            "price": "2.49",
-            "pricePerLitre": 7.01,
-            "bestPricePerLitre": 7.01
+            "price": "2.49"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -3924,16 +3568,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5286151_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5286151.png",
             "productDescription": "",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "1.84",
-            "price": "1.84",
-            "pricePerLitre": 3.68,
-            "bestPricePerLitre": 3.68
+            "price": "1.84"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -3947,16 +3589,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5258231_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5258231.png",
             "productDescription": "Powerade Active Water contains ION4 electrolytes - Sodium, Potassium, Calcium and Magnesium – to replace those lost in sweat, B vitamins for energy and no sugar. Sipper cap bottle, Peach and Apple flavour, Zero sugar.",
-            "volume": "750",
+            "volume": "",
             "multipack": {
                 "quantity": ""
             }
         },
         "priceData": {
             "bestPrice": "2.99",
-            "price": "2.99",
-            "pricePerLitre": 3.99,
-            "bestPricePerLitre": 3.99
+            "price": "2.99"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -3970,16 +3610,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5030816_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5030816.png",
             "productDescription": "Red Bull Energy Drink Sugar Free's special formula contains ingredients of high quality: Caffeine, Taurine, B-Group Vitamins, Sucralose & Acesulfame K, Alpine water.One 250ml can of Red Bull Energy Drinks contains 80 mg of caffeine, about the same amount as in a cup of home-brewed coffee.Red Bull cans are made of 100% recyclable aluminium.Pack of four 250ml Red Bull Energy Drink Sugar Free cans.Vitalizes Body and Mind.®RED BULL GIVES YOU WINGSInspired by functional drinks from the Far East, Dietrich Mateschitz founded Red Bull in the mid-1980s. He developed a new product and a unique marketing concept and launched Red Bull Energy Drink on April 1, 1987 in Austria. A brand new product category - Energy Drinks - was born.",
-            "volume": "250",
+            "volume": "250mL",
             "multipack": {
                 "quantity": "4"
             }
         },
         "priceData": {
             "bestPrice": "7.49",
-            "price": "7.49",
-            "pricePerLitre": 7.49,
-            "bestPricePerLitre": 7.49
+            "price": "7.49"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -4000,9 +3638,7 @@
         },
         "priceData": {
             "bestPrice": "2.49",
-            "price": "2.49",
-            "pricePerLitre": 2.49,
-            "bestPricePerLitre": 2.49
+            "price": "2.49"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -4016,16 +3652,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5292919_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5292919.png",
             "productDescription": "Product contains caffeine. This product is not recommended for children under 15 years of age, pregnant or lactating women, or individuals sensitive to caffeine.",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "3.29",
-            "price": "3.29",
-            "pricePerLitre": 6.6000000000000005,
-            "bestPricePerLitre": 6.6000000000000005
+            "price": "3.29"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -4046,9 +3680,7 @@
         },
         "priceData": {
             "bestPrice": "2.49",
-            "price": "2.49",
-            "pricePerLitre": 2.49,
-            "bestPricePerLitre": 2.49
+            "price": "2.49"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -4069,9 +3701,7 @@
         },
         "priceData": {
             "bestPrice": "2.49",
-            "price": "2.49",
-            "pricePerLitre": 2.49,
-            "bestPricePerLitre": 2.49
+            "price": "2.49"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -4085,16 +3715,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5292918_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5292918.png",
             "productDescription": "Product contains caffeine. This product is not recommended for children under 15 years of age, pregnant or lactating women, or individuals sensitive to caffeine.",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "3.29",
-            "price": "3.29",
-            "pricePerLitre": 6.6000000000000005,
-            "bestPricePerLitre": 6.6000000000000005
+            "price": "3.29"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -4108,16 +3736,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5258232_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5258232.png",
             "productDescription": "Powerade Active Water contains ION4 electrolytes - Sodium, Potassium, Calcium and Magnesium – to replace those lost in sweat, B vitamins for energy and no sugar. Sipper cap bottle, Lemon flavour, Zero sugar.",
-            "volume": "750",
+            "volume": "750mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "2.99",
-            "price": "2.99",
-            "pricePerLitre": 3.99,
-            "bestPricePerLitre": 3.99
+            "price": "2.99"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -4138,9 +3764,7 @@
         },
         "priceData": {
             "bestPrice": "2.49",
-            "price": "2.49",
-            "pricePerLitre": 2.49,
-            "bestPricePerLitre": 2.49
+            "price": "2.49"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -4154,16 +3778,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5093886_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5093886.png",
             "productDescription": "",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "1.99",
-            "price": "1.99",
-            "pricePerLitre": 3.98,
-            "bestPricePerLitre": 3.98
+            "price": "1.99"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -4177,16 +3799,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5010700_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5010700.png",
             "productDescription": "A combination of electrolytes and carbohydrates that provide effective hydration and energy. Powerade isotonic sports drinks contain four electrolytes - Sodium, Potassium, Calcium and Magnesium - designed to be in balance with your body’s fluids to hydrate and provide energy when you need it most. Sipper cap bottle.",
-            "volume": "750",
+            "volume": "750mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "2.99",
-            "price": "2.99",
-            "pricePerLitre": 3.99,
-            "bestPricePerLitre": 3.99
+            "price": "2.99"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -4200,16 +3820,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5268064_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5268064.png",
             "productDescription": "Powerade Active Water contains ION4 electrolytes - Sodium, Potassium, Calcium and Magnesium – to replace those lost in sweat, B vitamins for energy and no sugar. Sipper cap bottle, Mango flavour, Zero sugar.",
-            "volume": "750",
+            "volume": "750mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "2.99",
-            "price": "2.99",
-            "pricePerLitre": 3.99,
-            "bestPricePerLitre": 3.99
+            "price": "2.99"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -4244,16 +3862,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5289888_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5289888.png",
             "productDescription": "",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "1.84",
-            "price": "1.84",
-            "pricePerLitre": 3.68,
-            "bestPricePerLitre": 3.68
+            "price": "1.84"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -4267,16 +3883,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5254463_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5254463.png",
             "productDescription": "",
-            "volume": "330",
+            "volume": "330mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "3.99",
-            "price": "3.99",
-            "pricePerLitre": 12.09,
-            "bestPricePerLitre": 12.09
+            "price": "3.99"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -4297,9 +3911,7 @@
         },
         "priceData": {
             "bestPrice": "3.29",
-            "price": "3.29",
-            "pricePerLitre": 65.8,
-            "bestPricePerLitre": 65.8
+            "price": "3.29"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -4320,9 +3932,28 @@
         },
         "priceData": {
             "bestPrice": "3.29",
-            "price": "3.29",
-            "pricePerLitre": 65.8,
-            "bestPricePerLitre": 65.8
+            "price": "3.29"
+        },
+        "store": {
+            "id": "3bb30799-82ce-4648-8c02-5113228963ed",
+            "name": "PAK'nSAVE Te Awamutu"
+        }
+    },
+    {
+        "productData": {
+            "name": "Rockstar Original No Sugar Energy Drink 500ml",
+            "productId": "5302196_ea_000",
+            "productShopPage": "https://www.paknsave.co.nz/shop/product/5302196_ea_000pns",
+            "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5302196.png",
+            "productDescription": "",
+            "volume": "",
+            "multipack": {
+                "quantity": ""
+            }
+        },
+        "priceData": {
+            "bestPrice": "1.89",
+            "price": "1.89"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -4336,16 +3967,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5307070_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5307070.png",
             "productDescription": "",
-            "volume": "250",
+            "volume": "",
             "multipack": {
                 "quantity": ""
             }
         },
         "priceData": {
             "bestPrice": "1.89",
-            "price": "1.89",
-            "pricePerLitre": 7.56,
-            "bestPricePerLitre": 7.56
+            "price": "1.89"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -4359,16 +3988,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5307069_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5307069.png",
             "productDescription": "",
-            "volume": "250",
+            "volume": "",
             "multipack": {
                 "quantity": ""
             }
         },
         "priceData": {
             "bestPrice": "1.89",
-            "price": "1.89",
-            "pricePerLitre": 7.56,
-            "bestPricePerLitre": 7.56
+            "price": "1.89"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -4382,16 +4009,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5307068_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5307068.png",
             "productDescription": "",
-            "volume": "500",
+            "volume": "",
             "multipack": {
                 "quantity": ""
             }
         },
         "priceData": {
             "bestPrice": "2.50",
-            "price": "2.50",
-            "pricePerLitre": 5.0,
-            "bestPricePerLitre": 5.0
+            "price": "2.50"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -4405,16 +4030,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5307067_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5307067.png",
             "productDescription": "",
-            "volume": "500",
+            "volume": "",
             "multipack": {
                 "quantity": ""
             }
         },
         "priceData": {
             "bestPrice": "2.50",
-            "price": "2.50",
-            "pricePerLitre": 5.0,
-            "bestPricePerLitre": 5.0
+            "price": "2.50"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -4428,16 +4051,14 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5305969_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5305969.png",
             "productDescription": "",
-            "volume": "500",
+            "volume": "500mL",
             "multipack": {
                 "quantity": "1"
             }
         },
         "priceData": {
             "bestPrice": "3.29",
-            "price": "3.29",
-            "pricePerLitre": 6.58,
-            "bestPricePerLitre": 6.58
+            "price": "3.29"
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",

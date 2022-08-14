@@ -13,19 +13,18 @@
             "pricePerLitre": 0,
             "bestPricePerLitre": 0
         },
-        "timestamp": "2022-08-13T11:44:57.044433",
+        "timestamp": "2022-07-30T19:43:48.850079",
         "siteconfig": {
             "siteMeta": {
-                "name": "Fresh Choice",
-                "mainURL": "freshchoice.co.nz",
+                "name": "The Warehouse",
+                "mainURL": "www.thewarehouse.co.nz",
                 "productPrefix": ""
             },
             "regex": {
-                "pricePerLitre": "\\(\\$(\\d{1,}.\\d{1,}) (?:per ){0,}100(ml|ML|mL)\\)"
+                "dollars": ">([0-9][0-9]?)",
+                "cents": ">([0-9][0-9])"
             },
-            "endpoints": {
-                "storeList": "https://store.freshchoice.co.nz/multipage"
-            }
+            "endpoints": {}
         }
     }
 ]

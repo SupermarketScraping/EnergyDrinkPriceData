@@ -1,0 +1,572 @@
+[
+    {
+        "productData": {
+            "name": "FILEMETA",
+            "productId": "FILEMETA",
+            "productShopPage": "",
+            "productImageURL": "",
+            "productDescription": "THIS IS NOT A REAL PRODUCT, THIS IS METADATA OF THIS FILE"
+        },
+        "priceData": {
+            "bestPrice": "0.00",
+            "price": "0.00",
+            "pricePerLitre": 0,
+            "bestPricePerLitre": 0
+        },
+        "timestamp": "2022-06-15T16:14:56.451063",
+        "siteconfig": {
+            "siteMeta": {
+                "name": "countdown",
+                "mainURL": "shop.countdown.co.nz"
+            },
+            "regex": {
+                "multiPack": "(\\d{1,})pk",
+                "packageType": "(.{1,}ml) cans",
+                "volumeSize": "(.{1,}ml)",
+                "productNameVolume": ". (\\d{1,}ml)"
+            }
+        }
+    },
+    {
+        "productData": {
+            "name": "mountain dew soft drink ",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=977836",
+            "multiPack": {
+                "quantity": "6"
+            },
+            "volume": "330ml",
+            "productId": "977836",
+            "productDescription": null,
+            "productImageURL": "https://assets.woolworths.com.au/images/2010/977836.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
+        },
+        "priceData": {
+            "bestPrice": 5.5,
+            "price": 5.5,
+            "pricePerLitre": 0.5,
+            "bestPricePerLitre": 0.5
+        }
+    },
+    {
+        "productData": {
+            "name": "ninety nine soft drink cola 99% sugar free",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=644220",
+            "productId": "644220",
+            "productDescription": null,
+            "productImageURL": "https://assets.woolworths.com.au/images/2010/644220.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
+        },
+        "priceData": {
+            "bestPrice": 1.0,
+            "price": 1.0,
+            "pricePerLitre": 0.7000000000000001,
+            "bestPricePerLitre": 0.7000000000000001
+        }
+    },
+    {
+        "productData": {
+            "name": "countdown soft drink cola",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=590231",
+            "productId": "590231",
+            "productDescription": "Refreshing cola bubbles of fun. <br/>No artificial colours or flavours.",
+            "productImageURL": "https://assets.woolworths.com.au/images/2010/590231.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
+        },
+        "priceData": {
+            "bestPrice": 1.4,
+            "price": 1.4,
+            "pricePerLitre": 0.8999999999999999,
+            "bestPricePerLitre": 0.8999999999999999
+        }
+    },
+    {
+        "productData": {
+            "name": "pepsi max soft drink ",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=713943",
+            "productId": "713943",
+            "productDescription": null,
+            "productImageURL": "https://assets.woolworths.com.au/images/2010/713943.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
+        },
+        "priceData": {
+            "bestPrice": 3.5,
+            "price": 3.5,
+            "pricePerLitre": 1.7999999999999998,
+            "bestPricePerLitre": 1.7999999999999998
+        }
+    },
+    {
+        "productData": {
+            "name": "mountain dew soft drink ",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=713923",
+            "productId": "713923",
+            "productDescription": null,
+            "productImageURL": "https://assets.woolworths.com.au/images/2010/713923.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
+        },
+        "priceData": {
+            "bestPrice": 3.5,
+            "price": 3.5,
+            "pricePerLitre": 1.7999999999999998,
+            "bestPricePerLitre": 1.7999999999999998
+        }
+    },
+    {
+        "productData": {
+            "name": "pepsi soft drink ",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=713937",
+            "productId": "713937",
+            "productDescription": null,
+            "productImageURL": "https://assets.woolworths.com.au/images/2010/713937.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
+        },
+        "priceData": {
+            "bestPrice": 3.5,
+            "price": 3.5,
+            "pricePerLitre": 1.7999999999999998,
+            "bestPricePerLitre": 1.7999999999999998
+        }
+    },
+    {
+        "productData": {
+            "name": "sparkling duet soft drink raspberry",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=271773",
+            "productId": "271773",
+            "productDescription": "Sparkling duet raspberry is a delicious bubbly soft drink with the refreshing taste of raspberries. Sparkling duet raspberry is a distinctively refreshing beverage with a crisp berry taste of sparkling raspberry flavour. Sparkling duet raspberry softdrink is available in multipack cans and a sharing size 1. 5l bottle.",
+            "productImageURL": "https://assets.woolworths.com.au/images/2010/271773.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
+        },
+        "priceData": {
+            "bestPrice": 1.25,
+            "price": 1.7,
+            "pricePerLitre": 1.1,
+            "bestPricePerLitre": 0.8088235294117648,
+            "multiBuy": {
+                "quantity": 4.0,
+                "value": 5.0,
+                "perUnit": 1.25
+            }
+        }
+    },
+    {
+        "productData": {
+            "name": "ninety nine soft drink multi pack mixed sugar free",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=644238",
+            "multiPack": {
+                "quantity": "24"
+            },
+            "productId": "644238",
+            "productDescription": null,
+            "productImageURL": "https://assets.woolworths.com.au/images/2010/644238.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
+        },
+        "priceData": {
+            "bestPrice": 10.5,
+            "price": 10.5,
+            "pricePerLitre": 1.3,
+            "bestPricePerLitre": 1.3
+        }
+    },
+    {
+        "productData": {
+            "name": "just juice bubbles soft drink tropical with lemonade",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=271650",
+            "productId": "271650",
+            "productDescription": "Contains 50% juice and 50% lemonade.",
+            "productImageURL": "https://assets.woolworths.com.au/images/2010/271650.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
+        },
+        "priceData": {
+            "bestPrice": 3.5,
+            "price": 3.5,
+            "pricePerLitre": 2.8000000000000003,
+            "bestPricePerLitre": 2.8000000000000003
+        }
+    },
+    {
+        "productData": {
+            "name": "mountain dew soft drink code red",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=346918",
+            "productId": "346918",
+            "productDescription": null,
+            "productImageURL": "https://assets.woolworths.com.au/images/2010/346918.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
+        },
+        "priceData": {
+            "bestPrice": 2.0,
+            "price": 3.0,
+            "pricePerLitre": 2.0,
+            "bestPricePerLitre": 1.3333333333333333,
+            "multiBuy": {
+                "quantity": 2.0,
+                "value": 4.0,
+                "perUnit": 2.0
+            }
+        }
+    },
+    {
+        "productData": {
+            "name": "mountain dew soft drink passionfruit frenzy",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=143675",
+            "productId": "143675",
+            "productDescription": null,
+            "productImageURL": "https://assets.woolworths.com.au/images/2010/143675.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
+        },
+        "priceData": {
+            "bestPrice": 2.0,
+            "price": 2.0,
+            "pricePerLitre": 1.0,
+            "bestPricePerLitre": 1.0
+        }
+    },
+    {
+        "productData": {
+            "name": "mountain dew soft drink live wire",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=381680",
+            "productId": "381680",
+            "productDescription": null,
+            "productImageURL": "https://assets.woolworths.com.au/images/2010/381680.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
+        },
+        "priceData": {
+            "bestPrice": 2.0,
+            "price": 3.0,
+            "pricePerLitre": 2.0,
+            "bestPricePerLitre": 1.3333333333333333,
+            "multiBuy": {
+                "quantity": 2.0,
+                "value": 4.0,
+                "perUnit": 2.0
+            }
+        }
+    },
+    {
+        "productData": {
+            "name": "pepsi soft drink cola",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=271598",
+            "productId": "271598",
+            "productDescription": "Carbonated water, sugar, colour, food acids, flavours.",
+            "productImageURL": "https://assets.woolworths.com.au/images/2010/271598.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
+        },
+        "priceData": {
+            "bestPrice": 2.0,
+            "price": 3.0,
+            "pricePerLitre": 2.0,
+            "bestPricePerLitre": 1.3333333333333333,
+            "multiBuy": {
+                "quantity": 2.0,
+                "value": 4.0,
+                "perUnit": 2.0
+            }
+        }
+    },
+    {
+        "productData": {
+            "name": "mountain dew soft drink ",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=271605",
+            "productId": "271605",
+            "productDescription": "Contains carbonated water, sugar, orange juice food acids, flavours, preservatives, caffeine. Enjoy the refreshing taste of mountain dew.",
+            "productImageURL": "https://assets.woolworths.com.au/images/2010/271605.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
+        },
+        "priceData": {
+            "bestPrice": 2.0,
+            "price": 3.0,
+            "pricePerLitre": 2.0,
+            "bestPricePerLitre": 1.3333333333333333,
+            "multiBuy": {
+                "quantity": 2.0,
+                "value": 4.0,
+                "perUnit": 2.0
+            }
+        }
+    },
+    {
+        "productData": {
+            "name": "pepsi max soft drink no sugar",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=186660",
+            "multiPack": {
+                "quantity": "24"
+            },
+            "volume": "355ml",
+            "productId": "186660",
+            "productDescription": null,
+            "productImageURL": "https://assets.woolworths.com.au/images/2010/186660.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
+        },
+        "priceData": {
+            "bestPrice": 17.0,
+            "price": 17.0,
+            "pricePerLitre": 2.0,
+            "bestPricePerLitre": 2.0
+        }
+    },
+    {
+        "productData": {
+            "name": "mountain dew soft drink ",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=142918",
+            "productId": "142918",
+            "productDescription": null,
+            "productImageURL": "https://assets.woolworths.com.au/images/2010/142918.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
+        },
+        "priceData": {
+            "bestPrice": 2.0,
+            "price": 2.0,
+            "pricePerLitre": 1.0,
+            "bestPricePerLitre": 1.0
+        }
+    },
+    {
+        "productData": {
+            "name": "mountain dew soft drink passionfruit frenzy",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=740703",
+            "productId": "740703",
+            "productDescription": null,
+            "productImageURL": "https://assets.woolworths.com.au/images/2010/740703.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
+        },
+        "priceData": {
+            "bestPrice": 2.0,
+            "price": 3.0,
+            "pricePerLitre": 2.0,
+            "bestPricePerLitre": 1.3333333333333333,
+            "multiBuy": {
+                "quantity": 2.0,
+                "value": 4.0,
+                "perUnit": 2.0
+            }
+        }
+    },
+    {
+        "productData": {
+            "name": "lift soft drink lemon",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=179083",
+            "productId": "179083",
+            "productDescription": "Lift is positively uplifting - the clean and crisp lemon taste that refreshes and gets you feeling good again. It has a refreshing, zesty lemon taste, made with 5% lemon juice. Lift soft drink is available in cans, single serve and sharing size bottles as well as multipacks.",
+            "productImageURL": "https://assets.woolworths.com.au/images/2010/179083.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
+        },
+        "priceData": {
+            "bestPrice": 0.0,
+            "price": 0.0,
+            "pricePerLitre": 0.0,
+            "bestPricePerLitre": 0.0
+        }
+    },
+    {
+        "productData": {
+            "name": "coca cola soft drink coke",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=179075",
+            "productId": "179075",
+            "productDescription": "Nothing beats the taste of coca-cola classic. It's the perfect companion whether you’re on the go, relaxing at home, enjoying with friends or as a drink with your meal. Refresh with the authentic coke taste. Coca cola soft drink is available in cans, mini cans, single serve and sharing size bottles as well as multipacks.",
+            "productImageURL": "https://assets.woolworths.com.au/images/2010/179075.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
+        },
+        "priceData": {
+            "bestPrice": 3.5,
+            "price": 3.5,
+            "pricePerLitre": 1.6,
+            "bestPricePerLitre": 1.6
+        }
+    },
+    {
+        "productData": {
+            "name": "coca cola soft drink coke",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=77949",
+            "productId": "77949",
+            "productDescription": "Nothing beats the taste of coca-cola classic. It's the perfect companion whether you’re on the go, relaxing at home, enjoying with friends or as a drink with your meal. <br/> <br/>Refresh with the authentic coke taste. Coca cola soft drink is available in cans, mini cans, single serve and sharing size bottles as well as multipacks.",
+            "productImageURL": "https://assets.woolworths.com.au/images/2010/77949.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
+        },
+        "priceData": {
+            "bestPrice": 4.0,
+            "price": 4.0,
+            "pricePerLitre": 2.7,
+            "bestPricePerLitre": 2.7
+        }
+    },
+    {
+        "productData": {
+            "name": "pepsi soft drink ",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=977826",
+            "multiPack": {
+                "quantity": "6"
+            },
+            "volume": "330ml",
+            "productId": "977826",
+            "productDescription": null,
+            "productImageURL": "https://assets.woolworths.com.au/images/2010/977826.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
+        },
+        "priceData": {
+            "bestPrice": 5.5,
+            "price": 5.5,
+            "pricePerLitre": 2.8000000000000003,
+            "bestPricePerLitre": 2.8000000000000003
+        }
+    },
+    {
+        "productData": {
+            "name": "pepsi max soft drink ",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=977831",
+            "multiPack": {
+                "quantity": "6"
+            },
+            "volume": "330ml",
+            "productId": "977831",
+            "productDescription": null,
+            "productImageURL": "https://assets.woolworths.com.au/images/2010/977831.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
+        },
+        "priceData": {
+            "bestPrice": 5.5,
+            "price": 5.5,
+            "pricePerLitre": 2.8000000000000003,
+            "bestPricePerLitre": 2.8000000000000003
+        }
+    },
+    {
+        "productData": {
+            "name": "sparkling duet soft drink raspberry",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=659501",
+            "multiPack": {
+                "quantity": "6"
+            },
+            "volume": "330ml",
+            "productId": "659501",
+            "productDescription": "Sparkling duet raspberry is a delicious bubbly soft drink with the refreshing taste of raspberries. Sparkling duet raspberry is a distinctively refreshing beverage with a crisp berry taste of sparkling raspberry flavour. Sparkling duet raspberry softdrink is available in multipack cans and a sharing size 1. 5l bottle.",
+            "productImageURL": "https://assets.woolworths.com.au/images/2010/659501.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
+        },
+        "priceData": {
+            "bestPrice": 0.0,
+            "price": 0.0,
+            "pricePerLitre": 0.0,
+            "bestPricePerLitre": 0.0
+        }
+    },
+    {
+        "productData": {
+            "name": "pepsi soft drink minis",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=65447",
+            "multiPack": {
+                "quantity": "10"
+            },
+            "volume": "250ml",
+            "productId": "65447",
+            "productDescription": null,
+            "productImageURL": "https://assets.woolworths.com.au/images/2010/65447.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
+        },
+        "priceData": {
+            "bestPrice": 7.0,
+            "price": 7.0,
+            "pricePerLitre": 2.8000000000000003,
+            "bestPricePerLitre": 2.8000000000000003
+        }
+    },
+    {
+        "productData": {
+            "name": "coca cola soft drink ",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=659936",
+            "multiPack": {
+                "quantity": "30"
+            },
+            "volume": "330ml",
+            "productId": "659936",
+            "productDescription": "Nothing beats the taste of coca-cola classic. It's the perfect companion whether you’re on the go, relaxing at home, enjoying with friends or as a drink with your meal. Refresh with the authentic coke taste. Coca cola soft drink is available in cans, mini cans, single serve and sharing size bottles as well as multipacks.",
+            "productImageURL": "https://assets.woolworths.com.au/images/2010/659936.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
+        },
+        "priceData": {
+            "bestPrice": 27.0,
+            "price": 27.0,
+            "pricePerLitre": 2.7,
+            "bestPricePerLitre": 2.7
+        }
+    },
+    {
+        "productData": {
+            "name": "coca cola soft drink ",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=660275",
+            "multiPack": {
+                "quantity": "8"
+            },
+            "volume": "330ml",
+            "productId": "660275",
+            "productDescription": "Nothing beats the taste of coca-cola classic. It's the perfect companion whether you’re on the go, relaxing at home, enjoying with friends or as a drink with your meal. Refresh with the authentic coke taste. Coca cola soft drink is available in cans, mini cans, single serve and sharing size bottles as well as multipacks.",
+            "productImageURL": "https://assets.woolworths.com.au/images/2010/660275.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
+        },
+        "priceData": {
+            "bestPrice": 12.0,
+            "price": 12.0,
+            "pricePerLitre": 4.5,
+            "bestPricePerLitre": 4.5
+        }
+    },
+    {
+        "productData": {
+            "name": "coca cola soft drink ",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=660269",
+            "multiPack": {
+                "quantity": "18"
+            },
+            "volume": "330ml",
+            "productId": "660269",
+            "productDescription": "Nothing beats the taste of coca-cola classic. It's the perfect companion whether you’re on the go, relaxing at home, enjoying with friends or as a drink with your meal. Refresh with the authentic coke taste. Coca cola soft drink is available in cans, mini cans, single serve and sharing size bottles as well as multipacks.",
+            "productImageURL": "https://assets.woolworths.com.au/images/2010/660269.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
+        },
+        "priceData": {
+            "bestPrice": 22.0,
+            "price": 22.0,
+            "pricePerLitre": 3.7,
+            "bestPricePerLitre": 3.7
+        }
+    },
+    {
+        "productData": {
+            "name": "coca cola soft drink ",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=122271",
+            "multiPack": {
+                "quantity": "15"
+            },
+            "volume": "250ml",
+            "productId": "122271",
+            "productDescription": "Nothing beats the taste of coca-cola classic. It's the perfect companion whether you’re on the go, relaxing at home, enjoying with friends or as a drink with your meal. Refresh with the authentic coke taste. Coca cola soft drink is available in cans, mini cans, single serve and sharing size bottles as well as multipacks.",
+            "productImageURL": "https://assets.woolworths.com.au/images/2010/122271.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
+        },
+        "priceData": {
+            "bestPrice": 0.0,
+            "price": 0.0,
+            "pricePerLitre": 0.0,
+            "bestPricePerLitre": 0.0
+        }
+    },
+    {
+        "productData": {
+            "name": "coca cola soft drink mini",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=757272",
+            "multiPack": {
+                "quantity": "6"
+            },
+            "volume": "250ml",
+            "productId": "757272",
+            "productDescription": "Nothing beats the taste of coca-cola classic. It's the perfect companion whether you’re on the go, relaxing at home, enjoying with friends or as a drink with your meal. Refresh with the authentic coke taste. Coca cola soft drink is available in cans, mini cans, single serve and sharing size bottles as well as multipacks.",
+            "productImageURL": "https://assets.woolworths.com.au/images/2010/757272.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
+        },
+        "priceData": {
+            "bestPrice": 7.5,
+            "price": 7.5,
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
+        }
+    },
+    {
+        "productData": {
+            "name": "coca cola soft drink coke",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=93167",
+            "productId": "93167",
+            "productDescription": "Nothing beats the taste of coca-cola classic. It's the perfect companion whether you’re on the go, relaxing at home, enjoying with friends or as a drink with your meal. Refresh with the authentic coke taste. Coca cola soft drink is available in cans, mini cans, single serve and sharing size bottles as well as multipacks.",
+            "productImageURL": "https://assets.woolworths.com.au/images/2010/93167.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
+        },
+        "priceData": {
+            "bestPrice": 4.0,
+            "price": 4.0,
+            "pricePerLitre": 6.7,
+            "bestPricePerLitre": 6.7
+        }
+    },
+    {
+        "productData": {
+            "name": "pepsi soft drink ",
+            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=142420",
+            "productId": "142420",
+            "productDescription": null,
+            "productImageURL": "https://assets.woolworths.com.au/images/2010/142420.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
+        },
+        "priceData": {
+            "bestPrice": 2.0,
+            "price": 2.0,
+            "pricePerLitre": 6.1,
+            "bestPricePerLitre": 6.1
+        }
+    }
+]

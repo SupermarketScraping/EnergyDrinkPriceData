@@ -13,7 +13,7 @@
             "pricePerLitre": 0,
             "bestPricePerLitre": 0
         },
-        "timestamp": "2022-08-14T18:47:55.282502",
+        "timestamp": "2022-08-13T20:04:33.568986",
         "siteconfig": {
             "siteMeta": {
                 "name": "The Warehouse",
@@ -81,14 +81,11 @@
             "productId": "R1907052",
             "productShopPage": "https://www.thewarehouse.co.nz/p/product/R1907052.html",
             "productDescription": "For over 40 years, Gatorade has proven again and again to keep athletes hydrated and performing at their best. Original Gatorade delivers a unique formula of sodium, potassium and essential carbohydrates to your muscles and mind during the heat of battle to help you maintain your high level of performance when it matters most.",
-            "productImageURL": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwf51bdcda/images/hi-res/6D/95/R1907052_40.jpg?sw=765&sh=765",
-            "volume": 1000.0
+            "productImageURL": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwf51bdcda/images/hi-res/6D/95/R1907052_40.jpg?sw=765&sh=765"
         },
         "priceData": {
             "bestPrice": "3.00",
-            "price": "3.00",
-            "pricePerLitre": 3.0,
-            "bestPricePerLitre": 3.0
+            "price": "3.00"
         }
     },
     {
@@ -164,14 +161,11 @@
             "productId": "R1907053",
             "productShopPage": "https://www.thewarehouse.co.nz/p/product/R1907053.html",
             "productDescription": "Nothing rehydrates, refuels and replenishes better than the Gatorade Blue Bolt 1L. It works by helping your body restore water, energy and mineral salts that you lose with sweat.\nFor over 40 years, Gatorade has proven again and again to keep athletes hydrated and performing at their best. Original Gatorade delivers a unique formula of sodium, potassium and essential carbohydrates to your muscles and mind during the heat of battle to help you maintain your high level of performance when it matters most.",
-            "productImageURL": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw2c02ef6c/images/hi-res/79/91/R1907053_40.jpg?sw=765&sh=765",
-            "volume": 1000.0
+            "productImageURL": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw2c02ef6c/images/hi-res/79/91/R1907053_40.jpg?sw=765&sh=765"
         },
         "priceData": {
             "bestPrice": "3.00",
-            "price": "3.00",
-            "pricePerLitre": 3.0,
-            "bestPricePerLitre": 3.0
+            "price": "3.00"
         }
     },
     {

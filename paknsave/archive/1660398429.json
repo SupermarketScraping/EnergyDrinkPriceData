@@ -13,7 +13,7 @@
             "pricePerLitre": 0,
             "bestPricePerLitre": 0
         },
-        "timestamp": "2022-08-14T18:35:08.780164",
+        "timestamp": "2022-08-14T01:32:42.465670",
         "siteconfig": {
             "siteMeta": {
                 "name": "Paknsave",
@@ -478,10 +478,10 @@
             }
         },
         "priceData": {
-            "bestPrice": "2.25",
-            "price": "2.25",
-            "pricePerLitre": 4.5,
-            "bestPricePerLitre": 4.5
+            "bestPrice": "1.89",
+            "price": "1.89",
+            "pricePerLitre": 3.78,
+            "bestPricePerLitre": 3.78
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -919,29 +919,6 @@
             "price": "2.69",
             "pricePerLitre": 5.38,
             "bestPricePerLitre": 5.38
-        },
-        "store": {
-            "id": "076e8177-943b-41fc-a885-ba3d28297acf",
-            "name": "PAK'nSAVE Mill Street"
-        }
-    },
-    {
-        "productData": {
-            "name": "Powerade Berry Ice Ion4 Sports Drink 750ml",
-            "productId": "5010696_ea_000",
-            "productShopPage": "https://www.paknsave.co.nz/shop/product/5010696_ea_000pns",
-            "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5010696.png",
-            "productDescription": "A combination of electrolytes and carbohydrates that provide effective hydration and energy. Powerade isotonic sports drinks contain four electrolytes - Sodium, Potassium, Calcium and Magnesium - designed to be in balance with your body’s fluids to hydrate and provide energy when you need it most. Sipper cap bottle, Berry flavour.",
-            "volume": "750",
-            "multipack": {
-                "quantity": "1"
-            }
-        },
-        "priceData": {
-            "bestPrice": "3.15",
-            "price": "3.15",
-            "pricePerLitre": 4.2,
-            "bestPricePerLitre": 4.2
         },
         "store": {
             "id": "076e8177-943b-41fc-a885-ba3d28297acf",
@@ -1477,29 +1454,6 @@
     },
     {
         "productData": {
-            "name": "Monster Ultra Fiesta Mango Flavour Zero Sugar Energy Drink 500ml",
-            "productId": "5294634_ea_000",
-            "productShopPage": "https://www.paknsave.co.nz/shop/product/5294634_ea_000pns",
-            "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5294634.png",
-            "productDescription": "",
-            "volume": "500",
-            "multipack": {
-                "quantity": "1"
-            }
-        },
-        "priceData": {
-            "bestPrice": "2.79",
-            "price": "2.79",
-            "pricePerLitre": 5.58,
-            "bestPricePerLitre": 5.58
-        },
-        "store": {
-            "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
-            "name": "PAK'nSAVE Clarence St"
-        }
-    },
-    {
-        "productData": {
             "name": "V Blue Guarana Energy Drink 10pk",
             "productId": "5290181_ea_000",
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5290181_ea_000pns",
@@ -1666,18 +1620,16 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5003156_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5003156.png",
             "productDescription": "Buy 2 for $5.00.\nView all\n\n\nContains Caffeine.",
-            "volume": "350"
+            "volume": "350",
+            "multipack": {
+                "quantity": "1"
+            }
         },
         "priceData": {
-            "bestPrice": 2.5,
-            "price": 2.99,
+            "bestPrice": "2.99",
+            "price": "2.99",
             "pricePerLitre": 8.542857142857144,
-            "bestPricePerLitre": 7.142857142857143,
-            "multiBuy": {
-                "quantity": 2.0,
-                "value": 5.0,
-                "perUnit": 2.5
-            }
+            "bestPricePerLitre": 8.542857142857144
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -1691,18 +1643,16 @@
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5007492_ea_000pns",
             "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5007492.png",
             "productDescription": "Buy 2 for $5.00.\nView all\n\n\nContains Caffeine, Wheat Derivatives.",
-            "volume": "350"
+            "volume": "350",
+            "multipack": {
+                "quantity": "1"
+            }
         },
         "priceData": {
-            "bestPrice": 2.5,
-            "price": 2.99,
+            "bestPrice": "2.99",
+            "price": "2.99",
             "pricePerLitre": 8.542857142857144,
-            "bestPricePerLitre": 7.142857142857143,
-            "multiBuy": {
-                "quantity": 2.0,
-                "value": 5.0,
-                "perUnit": 2.5
-            }
+            "bestPricePerLitre": 8.542857142857144
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -1795,54 +1745,6 @@
             "price": "7.79",
             "pricePerLitre": 7.79,
             "bestPricePerLitre": 7.79
-        },
-        "store": {
-            "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
-            "name": "PAK'nSAVE Clarence St"
-        }
-    },
-    {
-        "productData": {
-            "name": "V Green Guarana Energy Drink 710ml",
-            "productId": "5030250_ea_000",
-            "productShopPage": "https://www.paknsave.co.nz/shop/product/5030250_ea_000pns",
-            "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5030250.png",
-            "productDescription": "Buy 3 for $5.00.\n\n\nContains Wheat Derivatives",
-            "volume": "710"
-        },
-        "priceData": {
-            "bestPrice": 1.6666666666666667,
-            "price": 2.79,
-            "pricePerLitre": 3.929577464788732,
-            "bestPricePerLitre": 2.3474178403755865,
-            "multiBuy": {
-                "quantity": 3.0,
-                "value": 5.0,
-                "perUnit": 1.6666666666666667
-            }
-        },
-        "store": {
-            "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
-            "name": "PAK'nSAVE Clarence St"
-        }
-    },
-    {
-        "productData": {
-            "name": "Lucozade Orange Energy Drink 380ml",
-            "productId": "5009239_ea_000",
-            "productShopPage": "https://www.paknsave.co.nz/shop/product/5009239_ea_000pns",
-            "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5009239.png",
-            "productDescription": "Powered by Glucose.",
-            "volume": "380",
-            "multipack": {
-                "quantity": "1"
-            }
-        },
-        "priceData": {
-            "bestPrice": "2.89",
-            "price": "2.89",
-            "pricePerLitre": 7.61,
-            "bestPricePerLitre": 7.61
         },
         "store": {
             "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
@@ -2861,29 +2763,6 @@
     },
     {
         "productData": {
-            "name": "V Refresh Pineapple & Watermelon Zero Sugar Energy Drink 500ml",
-            "productId": "5307068_ea_000",
-            "productShopPage": "https://www.paknsave.co.nz/shop/product/5307068_ea_000pns",
-            "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5307068.png",
-            "productDescription": "",
-            "volume": "500",
-            "multipack": {
-                "quantity": ""
-            }
-        },
-        "priceData": {
-            "bestPrice": "2.69",
-            "price": "2.69",
-            "pricePerLitre": 5.38,
-            "bestPricePerLitre": 5.38
-        },
-        "store": {
-            "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
-            "name": "PAK'nSAVE Clarence St"
-        }
-    },
-    {
-        "productData": {
             "name": "V Refresh Citrus Lemonade Zero Sugar Energy Drink 500ml",
             "productId": "5307067_ea_000",
             "productShopPage": "https://www.paknsave.co.nz/shop/product/5307067_ea_000pns",
@@ -3194,10 +3073,10 @@
             }
         },
         "priceData": {
-            "bestPrice": "2.50",
-            "price": "2.50",
-            "pricePerLitre": 5.0,
-            "bestPricePerLitre": 5.0
+            "bestPrice": "2.79",
+            "price": "2.79",
+            "pricePerLitre": 5.58,
+            "bestPricePerLitre": 5.58
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -3217,10 +3096,10 @@
             }
         },
         "priceData": {
-            "bestPrice": "3.19",
-            "price": "3.19",
-            "pricePerLitre": 6.74,
-            "bestPricePerLitre": 6.74
+            "bestPrice": "3.59",
+            "price": "3.59",
+            "pricePerLitre": 7.59,
+            "bestPricePerLitre": 7.59
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",
@@ -4323,6 +4202,29 @@
             "price": "3.29",
             "pricePerLitre": 65.8,
             "bestPricePerLitre": 65.8
+        },
+        "store": {
+            "id": "3bb30799-82ce-4648-8c02-5113228963ed",
+            "name": "PAK'nSAVE Te Awamutu"
+        }
+    },
+    {
+        "productData": {
+            "name": "Shine Peach Passionfruit Nootropic Drink 330ml",
+            "productId": "5299010_ea_000",
+            "productShopPage": "https://www.paknsave.co.nz/shop/product/5299010_ea_000pns",
+            "productImageURL": "https://a.fsimg.co.nz/product/retail/fan/image/master/5299010.png",
+            "productDescription": "No artificial sweeteners, colours or preservatives",
+            "volume": "330",
+            "multipack": {
+                "quantity": "1"
+            }
+        },
+        "priceData": {
+            "bestPrice": "4.89",
+            "price": "4.89",
+            "pricePerLitre": 14.82,
+            "bestPricePerLitre": 14.82
         },
         "store": {
             "id": "3bb30799-82ce-4648-8c02-5113228963ed",

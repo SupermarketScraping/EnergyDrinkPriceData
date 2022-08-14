@@ -13,7 +13,7 @@
             "pricePerLitre": 0,
             "bestPricePerLitre": 0
         },
-        "timestamp": "2022-08-14T01:04:17.685933",
+        "timestamp": "2022-08-13T11:34:58.265177",
         "siteconfig": {
             "siteMeta": {
                 "name": "countdown",
@@ -77,10 +77,10 @@
             "productImageURL": "https://assets.woolworths.com.au/images/2010/171680.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
         },
         "priceData": {
-            "bestPrice": 0.0,
-            "price": 0.0,
-            "pricePerLitre": 0.0,
-            "bestPricePerLitre": 0.0
+            "bestPrice": 14.5,
+            "price": 14.5,
+            "pricePerLitre": 5.8,
+            "bestPricePerLitre": 5.8
         }
     },
     {
@@ -309,8 +309,8 @@
         "priceData": {
             "bestPrice": 3.0,
             "price": 3.0,
-            "pricePerLitre": 6.0,
-            "bestPricePerLitre": 6.0
+            "pricePerLitre": 60.0,
+            "bestPricePerLitre": 60.0
         }
     },
     {
@@ -325,8 +325,8 @@
         "priceData": {
             "bestPrice": 3.0,
             "price": 3.0,
-            "pricePerLitre": 6.0,
-            "bestPricePerLitre": 6.0
+            "pricePerLitre": 60.0,
+            "bestPricePerLitre": 60.0
         }
     },
     {
@@ -462,10 +462,10 @@
             "productImageURL": "https://assets.woolworths.com.au/images/2010/108466.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
         },
         "priceData": {
-            "bestPrice": 2.0,
-            "price": 2.0,
-            "pricePerLitre": 8.0,
-            "bestPricePerLitre": 8.0
+            "bestPrice": 0.0,
+            "price": 0.0,
+            "pricePerLitre": 0.0,
+            "bestPricePerLitre": 0.0
         }
     },
     {
@@ -653,8 +653,8 @@
         "priceData": {
             "bestPrice": 3.0,
             "price": 3.0,
-            "pricePerLitre": 6.0,
-            "bestPricePerLitre": 6.0
+            "pricePerLitre": 60.0,
+            "bestPricePerLitre": 60.0
         }
     },
     {
