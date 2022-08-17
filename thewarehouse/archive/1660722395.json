@@ -1,0 +1,119 @@
+[
+    {
+        "productData": {
+            "name": "FILEMETA",
+            "productId": "FILEMETA",
+            "productShopPage": "",
+            "productImageURL": "",
+            "productDescription": "THIS IS NOT A REAL PRODUCT, THIS IS METADATA OF THIS FILE"
+        },
+        "priceData": {
+            "bestPrice": "0.00",
+            "price": "0.00",
+            "pricePerLitre": 0,
+            "bestPricePerLitre": 0
+        },
+        "timestamp": "2022-08-17T19:46:20.578511",
+        "siteconfig": {
+            "siteMeta": {
+                "name": "The Warehouse",
+                "mainURL": "www.thewarehouse.co.nz",
+                "productPrefix": ""
+            },
+            "regex": {
+                "dollars": ">([0-9][0-9]?)",
+                "cents": ">([0-9][0-9])"
+            },
+            "endpoints": {}
+        }
+    },
+    {
+        "productData": {
+            "name": "Coca Cola Sparking Duet Soft Drink Trays - 24 Pack 330ml",
+            "productId": "R2812056",
+            "productShopPage": "https://www.thewarehouse.co.nz/p/product/R2812056.html",
+            "productDescription": "",
+            "productImageURL": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw809dfe81/images/hi-res/05/FF/R2812056_30.jpg?sw=765&sh=765",
+            "volume": 330.0
+        },
+        "priceData": {
+            "bestPrice": "25.00",
+            "price": "25.00",
+            "pricePerLitre": 75.75757575757575,
+            "bestPricePerLitre": 75.75757575757575
+        }
+    },
+    {
+        "productData": {
+            "name": "Coca Cola Can Mixed Tray 355ml 24 Pack",
+            "productId": "R2177577",
+            "productShopPage": "https://www.thewarehouse.co.nz/p/product/R2177577.html",
+            "productDescription": "This tray contains a selection of carbonated drinks, great for parties and picnics",
+            "productImageURL": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw6e1e43e6/images/hi-res/FD/54/R2177577_30.jpg?sw=765&sh=765",
+            "multipack": {
+                "quantity": "24"
+            },
+            "volume": "355ml"
+        },
+        "priceData": {
+            "bestPrice": "25.00",
+            "price": "25.00",
+            "pricePerLitre": 2.9342723004694835,
+            "bestPricePerLitre": 2.9342723004694835
+        }
+    },
+    {
+        "productData": {
+            "name": "Coca Cola Sprite Soft Drink Trays - 24 Pack 330ml",
+            "productId": "R2812055",
+            "productShopPage": "https://www.thewarehouse.co.nz/p/product/R2812055.html",
+            "productDescription": "",
+            "productImageURL": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw05ed129c/images/hi-res/89/DD/R2812055_30.jpg?sw=765&sh=765",
+            "volume": 330.0
+        },
+        "priceData": {
+            "bestPrice": "25.00",
+            "price": "25.00",
+            "pricePerLitre": 75.75757575757575,
+            "bestPricePerLitre": 75.75757575757575
+        }
+    },
+    {
+        "productData": {
+            "name": "Coca Cola Mixed Tray 330ml 24 Pack",
+            "productId": "R2417209",
+            "productShopPage": "https://www.thewarehouse.co.nz/p/product/R2417209.html",
+            "productDescription": "",
+            "productImageURL": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw3135003a/images/hi-res/84/D1/R2417209_30.jpg?sw=765&sh=765",
+            "multipack": {
+                "quantity": "24"
+            },
+            "volume": "330ml"
+        },
+        "priceData": {
+            "bestPrice": "25.00",
+            "price": "25.00",
+            "pricePerLitre": 3.1565656565656566,
+            "bestPricePerLitre": 3.1565656565656566
+        }
+    },
+    {
+        "productData": {
+            "name": "Coca Cola 330ml 24 Pack Tray",
+            "productId": "R2777625",
+            "productShopPage": "https://www.thewarehouse.co.nz/p/product/R2777625.html",
+            "productDescription": "Nothing beats the taste of Coca-Cola classic. It's the perfect companion whether you’re on the go, relaxing at home, enjoying with friends or as a drink with your meal. Refresh with the authentic coke taste.",
+            "productImageURL": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw90ca4b29/images/hi-res/18/82/R2777625_30.jpg?sw=765&sh=765",
+            "multipack": {
+                "quantity": "24"
+            },
+            "volume": "330ml"
+        },
+        "priceData": {
+            "bestPrice": "25.00",
+            "price": "25.00",
+            "pricePerLitre": 3.1565656565656566,
+            "bestPricePerLitre": 3.1565656565656566
+        }
+    }
+]
