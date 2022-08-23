@@ -1,0 +1,551 @@
+[
+    {
+        "productData": {
+            "name": "FILEMETA",
+            "productId": "FILEMETA",
+            "productShopPage": "",
+            "productImageURL": "",
+            "productDescription": "THIS IS NOT A REAL PRODUCT, THIS IS METADATA OF THIS FILE"
+        },
+        "priceData": {
+            "bestPrice": "0.00",
+            "price": "0.00",
+            "pricePerLitre": 0,
+            "bestPricePerLitre": 0
+        },
+        "timestamp": "2022-08-23T16:42:32.578671",
+        "siteconfig": {
+            "siteMeta": {
+                "name": "Mighty Ape",
+                "mainURL": "www.mightyape.co.nz",
+                "productPrefix": ""
+            },
+            "regex": {
+                "dollars": "(\\d{1,})",
+                "cents": "(\\d{2,})",
+                "multipackDetect": "(\\d{1,}\\.{0,}\\d{0,}(?:l|ml)).{0,}\\((\\d{1,}).{0,}p.{0,}k\\)",
+                "altMultipackDetect": "(\\d{1,}).{0,2}(?:x|X).{0,2}(\\d{1,}ml|ML|mL)",
+                "multipackDetect3": "(\\d{1,}).{0,}p.{0,}k",
+                "volume": "(.{1,})(\\d{3,})(?:ml|ML|mL)"
+            },
+            "endpoints": {}
+        }
+    },
+    {
+        "productData": {
+            "name": "Chupa Chups: Sparkling Drink - Strawberry & Cream",
+            "productId": "35889398",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/35889398",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/498/268523803.jpeg",
+            "multipack": {
+                "quantity": "24"
+            },
+            "volume": "345"
+        },
+        "priceData": {
+            "bestPrice": "69.99",
+            "price": "69.99",
+            "pricePerLitre": 8.452898550724637,
+            "bestPricePerLitre": 8.452898550724637
+        }
+    },
+    {
+        "productData": {
+            "name": "Chupa Chups: Sparkling Drink - Orange",
+            "productId": "35889397",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/35889397",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/03e/268484871.jpeg",
+            "multipack": {
+                "quantity": "24"
+            },
+            "volume": "345"
+        },
+        "priceData": {
+            "bestPrice": "69.99",
+            "price": "69.99",
+            "pricePerLitre": 8.452898550724637,
+            "bestPricePerLitre": 8.452898550724637
+        }
+    },
+    {
+        "productData": {
+            "name": "Coke Zero Sugar Soft Drink Cans 330ml",
+            "productId": "35881481",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/35881481",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/0bf/268084360.jpeg",
+            "multipack": {
+                "quantity": "24"
+            },
+            "volume": "330"
+        },
+        "priceData": {
+            "bestPrice": "29.99",
+            "price": "29.99",
+            "pricePerLitre": 3.7866161616161618,
+            "bestPricePerLitre": 3.7866161616161618
+        }
+    },
+    {
+        "productData": {
+            "name": "Charlie's Honest Ginger Beer 320ml (12 Pack)",
+            "productId": "35871005",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/35871005",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/294/267910185.jpeg",
+            "multipack": {
+                "quantity": "12"
+            },
+            "volume": "320"
+        },
+        "priceData": {
+            "bestPrice": "18.00",
+            "price": "18.00",
+            "pricePerLitre": 4.6875,
+            "bestPricePerLitre": 4.6875
+        }
+    },
+    {
+        "productData": {
+            "name": "Barr IRN BRU - 330ml",
+            "productId": "35870647",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/35870647",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/438/267901765.jpeg",
+            "multipack": {
+                "quantity": "24"
+            },
+            "volume": "330"
+        },
+        "priceData": {
+            "bestPrice": "49.99",
+            "price": "49.99",
+            "pricePerLitre": 6.311868686868688,
+            "bestPricePerLitre": 6.311868686868688
+        }
+    },
+    {
+        "productData": {
+            "name": "Calypso Pineapple Peach Limeade 590ml",
+            "productId": "35153005",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/35153005",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/669/251068800.jpeg",
+            "multipack": {
+                "quantity": "12"
+            },
+            "volume": "590"
+        },
+        "priceData": {
+            "bestPrice": "58.99",
+            "price": "58.99",
+            "pricePerLitre": 8.331920903954803,
+            "bestPricePerLitre": 8.331920903954803
+        }
+    },
+    {
+        "productData": {
+            "name": "Calypso Triple Melon Lemonade 590ml",
+            "productId": "35153001",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/35153001",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/075/268933855.jpeg",
+            "multipack": {
+                "quantity": "12"
+            },
+            "volume": "590"
+        },
+        "priceData": {
+            "bestPrice": "58.99",
+            "price": "58.99",
+            "pricePerLitre": 8.331920903954803,
+            "bestPricePerLitre": 8.331920903954803
+        }
+    },
+    {
+        "productData": {
+            "name": "Barr IRN BRU Sugar Free 330ml (24 Pack)",
+            "productId": "35129018",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/35129018",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/b63/249837882.jpeg",
+            "multipack": {
+                "quantity": "24"
+            },
+            "volume": "330"
+        },
+        "priceData": {
+            "bestPrice": "49.99",
+            "price": "49.99",
+            "pricePerLitre": 6.311868686868688,
+            "bestPricePerLitre": 6.311868686868688
+        }
+    },
+    {
+        "productData": {
+            "name": "L&P Soft Drink Cans 330ml",
+            "productId": "34862242",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/34862242",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/4d2/245309851.jpeg",
+            "multipack": {
+                "quantity": "24"
+            },
+            "volume": "330"
+        },
+        "priceData": {
+            "bestPrice": "29.00",
+            "price": "29.00",
+            "pricePerLitre": 3.6616161616161618,
+            "bestPricePerLitre": 3.6616161616161618
+        }
+    },
+    {
+        "productData": {
+            "name": "Sprite Soft Drink Lemonade Cans 330ml",
+            "productId": "34862236",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/34862236",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/567/245309801.jpeg",
+            "multipack": {
+                "quantity": "24"
+            },
+            "volume": "330"
+        },
+        "priceData": {
+            "bestPrice": "30.00",
+            "price": "30.00",
+            "pricePerLitre": 3.787878787878788,
+            "bestPricePerLitre": 3.787878787878788
+        }
+    },
+    {
+        "productData": {
+            "name": "Fanta Soft Drink Soft Drink Cans 330ml",
+            "productId": "34862235",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/34862235",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/fd6/246270015.jpeg",
+            "multipack": {
+                "quantity": "24"
+            },
+            "volume": "330"
+        },
+        "priceData": {
+            "bestPrice": "29.00",
+            "price": "29.00",
+            "pricePerLitre": 3.6616161616161618,
+            "bestPricePerLitre": 3.6616161616161618
+        }
+    },
+    {
+        "productData": {
+            "name": "Monster Energy Absolutely Zero - 500ml",
+            "productId": "34598795",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/34598795",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/ca4/268932273.jpeg",
+            "multipack": {
+                "quantity": "12"
+            },
+            "volume": "500"
+        },
+        "priceData": {
+            "bestPrice": "59.99",
+            "price": "59.99",
+            "pricePerLitre": 9.998333333333333,
+            "bestPricePerLitre": 9.998333333333333
+        }
+    },
+    {
+        "productData": {
+            "name": "Lift Soft Drink Cans 330ml",
+            "productId": "34406141",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/34406141",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/1e4/239196659.jpeg",
+            "multipack": {
+                "quantity": "24"
+            },
+            "volume": "330"
+        },
+        "priceData": {
+            "bestPrice": "29.00",
+            "price": "29.00",
+            "pricePerLitre": 3.6616161616161618,
+            "bestPricePerLitre": 3.6616161616161618
+        }
+    },
+    {
+        "productData": {
+            "name": "Coca-Cola Soft Drink Cans 330ml",
+            "productId": "34406133",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/34406133",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/425/247723474.jpeg",
+            "multipack": {
+                "quantity": "24"
+            },
+            "volume": "330"
+        },
+        "priceData": {
+            "bestPrice": "29.00",
+            "price": "29.00",
+            "pricePerLitre": 3.6616161616161618,
+            "bestPricePerLitre": 3.6616161616161618
+        }
+    },
+    {
+        "productData": {
+            "name": "La Croix Sparkling Water - Grapefruit (Pamplemousse) 355ml Cans",
+            "productId": "34261287",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/34261287",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/b57/238723765.jpeg",
+            "multipack": {
+                "quantity": "24"
+            },
+            "volume": "355"
+        },
+        "priceData": {
+            "bestPrice": "38.99",
+            "price": "38.99",
+            "pricePerLitre": 4.576291079812207,
+            "bestPricePerLitre": 4.576291079812207
+        }
+    },
+    {
+        "productData": {
+            "name": "La Croix Sparkling Water Lime 355ml Cans",
+            "productId": "34261284",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/34261284",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/64b/238723709.jpeg",
+            "multipack": {
+                "quantity": "24"
+            },
+            "volume": "355"
+        },
+        "priceData": {
+            "bestPrice": "38.99",
+            "price": "38.99",
+            "pricePerLitre": 4.576291079812207,
+            "bestPricePerLitre": 4.576291079812207
+        }
+    },
+    {
+        "productData": {
+            "name": "La Croix Sparkling Water Orange 355ml Cans",
+            "productId": "34261283",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/34261283",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/d4b/238723695.jpeg",
+            "multipack": {
+                "quantity": "24"
+            },
+            "volume": "355"
+        },
+        "priceData": {
+            "bestPrice": "38.99",
+            "price": "38.99",
+            "pricePerLitre": 4.576291079812207,
+            "bestPricePerLitre": 4.576291079812207
+        }
+    },
+    {
+        "productData": {
+            "name": "La Croix Sparkling Water Passionfruit 355ml Cans",
+            "productId": "34261281",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/34261281",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/2e2/238723639.jpeg",
+            "multipack": {
+                "quantity": "24"
+            },
+            "volume": "355"
+        },
+        "priceData": {
+            "bestPrice": "38.99",
+            "price": "38.99",
+            "pricePerLitre": 4.576291079812207,
+            "bestPricePerLitre": 4.576291079812207
+        }
+    },
+    {
+        "productData": {
+            "name": "La Croix Sparkling Water Peach-Pear 355ml Can",
+            "productId": "34261280",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/34261280",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/2ac/238723562.jpeg",
+            "multipack": {
+                "quantity": "24"
+            },
+            "volume": "355"
+        },
+        "priceData": {
+            "bestPrice": "38.99",
+            "price": "38.99",
+            "pricePerLitre": 4.576291079812207,
+            "bestPricePerLitre": 4.576291079812207
+        }
+    },
+    {
+        "productData": {
+            "name": "La Croix Sparkling Water Berry 355ml Cans",
+            "productId": "34261279",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/34261279",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/9a4/238723555.jpeg",
+            "multipack": {
+                "quantity": "24"
+            },
+            "volume": "355"
+        },
+        "priceData": {
+            "bestPrice": "38.99",
+            "price": "38.99",
+            "pricePerLitre": 4.576291079812207,
+            "bestPricePerLitre": 4.576291079812207
+        }
+    },
+    {
+        "productData": {
+            "name": "Dr Pepper Fridge Pack",
+            "productId": "33885617",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/33885617",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/09d/237217291.jpeg",
+            "multipack": {
+                "quantity": "24"
+            }
+        },
+        "priceData": {
+            "bestPrice": "59.99",
+            "price": "59.99"
+        }
+    },
+    {
+        "productData": {
+            "name": "Charlie's Honest Fizz - Lemon Lime",
+            "productId": "31940300",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/31940300",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/7fa/232471062.jpeg",
+            "multipack": {
+                "quantity": "12"
+            }
+        },
+        "priceData": {
+            "bestPrice": "18.00",
+            "price": "18.00"
+        }
+    },
+    {
+        "productData": {
+            "name": "Charlie’s Straight Up Cola",
+            "productId": "31928615",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/31928615",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/b20/232471174.jpeg",
+            "multipack": {
+                "quantity": "12"
+            }
+        },
+        "priceData": {
+            "bestPrice": "18.00",
+            "price": "18.00"
+        }
+    },
+    {
+        "productData": {
+            "name": "Pepsi Max Raspberry 330ml 24pk",
+            "productId": "30819348",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/30819348",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/4ef/254401287.jpeg",
+            "volume": "330"
+        },
+        "priceData": {
+            "bestPrice": "24.00",
+            "price": "24.00",
+            "pricePerLitre": 72.72727272727272,
+            "bestPricePerLitre": 72.72727272727272
+        }
+    },
+    {
+        "productData": {
+            "name": "Pepsi Max Vanilla Cans 330ml (24 Pack)",
+            "productId": "30819345",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/30819345",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/509/254402323.jpeg",
+            "multipack": {
+                "quantity": "24"
+            },
+            "volume": "330"
+        },
+        "priceData": {
+            "bestPrice": "24.00",
+            "price": "24.00",
+            "pricePerLitre": 3.0303030303030303,
+            "bestPricePerLitre": 3.0303030303030303
+        }
+    },
+    {
+        "productData": {
+            "name": "Coca-Cola Soft Drink 1.5l (8 Pack)",
+            "productId": "26852718",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/26852718",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/719/232473974.jpeg",
+            "multipack": {
+                "quantity": "8"
+            },
+            "volume": 1500.0
+        },
+        "priceData": {
+            "bestPrice": "35.00",
+            "price": "35.00",
+            "pricePerLitre": 2.9166666666666665,
+            "bestPricePerLitre": 2.9166666666666665
+        }
+    },
+    {
+        "productData": {
+            "name": "Charlie's Honest Fizz Feijoa",
+            "productId": "24555115",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/24555115",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/ba3/232471195.jpeg",
+            "multipack": {
+                "quantity": "12"
+            }
+        },
+        "priceData": {
+            "bestPrice": "18.00",
+            "price": "18.00"
+        }
+    },
+    {
+        "productData": {
+            "name": "Charlie's Honest Fizz- Orange Mango 320ml",
+            "productId": "22993172",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/22993172",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/270/226302652.jpeg",
+            "multipack": {
+                "quantity": "12"
+            },
+            "volume": "320"
+        },
+        "priceData": {
+            "bestPrice": "18.00",
+            "price": "18.00",
+            "pricePerLitre": 4.6875,
+            "bestPricePerLitre": 4.6875
+        }
+    }
+]
