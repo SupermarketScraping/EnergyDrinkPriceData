@@ -13,7 +13,7 @@
             "pricePerLitre": 0,
             "bestPricePerLitre": 0
         },
-        "timestamp": "2022-08-24T15:43:03.732017",
+        "timestamp": "2022-08-23T18:01:13.573800",
         "siteconfig": {
             "siteMeta": {
                 "name": "countdown",
@@ -86,7 +86,7 @@
                 "quantity": "4"
             },
             "productId": "55096",
-            "productDescription": "The juicy blend of tart cranberry with the sweet taste of apple is a familiar favourite. Mac’s sodas are an ingeniously kiwi mix of flavours that will tantalise the taste buds of even the most discerning soda drinkers. Indulge in the sweet, yet tangy taste of apple and cranberry sparkling soda. <br/> <br/>Mac’s sodas are proudly made in new zealand and have 40% less sugar than leading soft drinks.",
+            "productDescription": null,
             "productImageURL": "https://assets.woolworths.com.au/images/2010/55096.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
         },
         "priceData": {
@@ -186,10 +186,10 @@
             "productImageURL": "https://assets.woolworths.com.au/images/2010/80504.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
         },
         "priceData": {
-            "bestPrice": 0.0,
-            "price": 0.0,
-            "pricePerLitre": 0.0,
-            "bestPricePerLitre": 0.0
+            "bestPrice": 18.0,
+            "price": 18.0,
+            "pricePerLitre": 6.800000000000001,
+            "bestPricePerLitre": 6.800000000000001
         }
     },
     {
@@ -323,10 +323,10 @@
             "productImageURL": "https://assets.woolworths.com.au/images/2010/103229.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
         },
         "priceData": {
-            "bestPrice": 0.0,
-            "price": 0.0,
-            "pricePerLitre": 0.0,
-            "bestPricePerLitre": 0.0
+            "bestPrice": 10.0,
+            "price": 10.0,
+            "pricePerLitre": 7.6,
+            "bestPricePerLitre": 7.6
         }
     },
     {
@@ -380,10 +380,10 @@
             "productImageURL": "https://assets.woolworths.com.au/images/2010/107923.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
         },
         "priceData": {
-            "bestPrice": 0.0,
-            "price": 0.0,
-            "pricePerLitre": 0.0,
-            "bestPricePerLitre": 0.0
+            "bestPrice": 5.0,
+            "price": 5.0,
+            "pricePerLitre": 3.9000000000000004,
+            "bestPricePerLitre": 3.9000000000000004
         }
     },
     {
@@ -434,10 +434,10 @@
             "productImageURL": "https://assets.woolworths.com.au/images/2010/122271.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
         },
         "priceData": {
-            "bestPrice": 0.0,
-            "price": 0.0,
-            "pricePerLitre": 0.0,
-            "bestPricePerLitre": 0.0
+            "bestPrice": 13.0,
+            "price": 13.0,
+            "pricePerLitre": 3.5,
+            "bestPricePerLitre": 3.5
         }
     },
     {
@@ -598,10 +598,10 @@
             "productImageURL": "https://assets.woolworths.com.au/images/2010/147379.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
         },
         "priceData": {
-            "bestPrice": 2.0,
-            "price": 2.0,
-            "pricePerLitre": 1.0,
-            "bestPricePerLitre": 1.0
+            "bestPrice": 0.0,
+            "price": 0.0,
+            "pricePerLitre": 0.0,
+            "bestPricePerLitre": 0.0
         }
     },
     {
@@ -632,10 +632,10 @@
             "productImageURL": "https://assets.woolworths.com.au/images/2010/173657.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
         },
         "priceData": {
-            "bestPrice": 0.0,
-            "price": 0.0,
-            "pricePerLitre": 0.0,
-            "bestPricePerLitre": 0.0
+            "bestPrice": 20.0,
+            "price": 20.0,
+            "pricePerLitre": 11.100000000000001,
+            "bestPricePerLitre": 11.100000000000001
         }
     },
     {
@@ -670,10 +670,10 @@
             "productImageURL": "https://assets.woolworths.com.au/images/2010/174185.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
         },
         "priceData": {
-            "bestPrice": 0.0,
-            "price": 0.0,
-            "pricePerLitre": 0.0,
-            "bestPricePerLitre": 0.0
+            "bestPrice": 20.0,
+            "price": 20.0,
+            "pricePerLitre": 11.100000000000001,
+            "bestPricePerLitre": 11.100000000000001
         }
     },
     {
@@ -707,10 +707,10 @@
             "productImageURL": "https://assets.woolworths.com.au/images/2010/174604.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
         },
         "priceData": {
-            "bestPrice": 20.0,
-            "price": 20.0,
-            "pricePerLitre": 11.100000000000001,
-            "bestPricePerLitre": 11.100000000000001
+            "bestPrice": 0.0,
+            "price": 0.0,
+            "pricePerLitre": 0.0,
+            "bestPricePerLitre": 0.0
         }
     },
     {
@@ -969,10 +969,10 @@
             "productImageURL": "https://assets.woolworths.com.au/images/2010/203552.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
         },
         "priceData": {
-            "bestPrice": 0.0,
-            "price": 0.0,
-            "pricePerLitre": 0.0,
-            "bestPricePerLitre": 0.0
+            "bestPrice": 15.5,
+            "price": 15.5,
+            "pricePerLitre": 4.1,
+            "bestPricePerLitre": 4.1
         }
     },
     {
@@ -1035,10 +1035,10 @@
             "productImageURL": "https://assets.woolworths.com.au/images/2010/224396.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
         },
         "priceData": {
-            "bestPrice": 0.0,
-            "price": 0.0,
-            "pricePerLitre": 0.0,
-            "bestPricePerLitre": 0.0
+            "bestPrice": 7.5,
+            "price": 7.5,
+            "pricePerLitre": 5.699999999999999,
+            "bestPricePerLitre": 5.699999999999999
         }
     },
     {
@@ -1054,10 +1054,10 @@
             "productImageURL": "https://assets.woolworths.com.au/images/2010/227118.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
         },
         "priceData": {
-            "bestPrice": 0.0,
-            "price": 0.0,
-            "pricePerLitre": 0.0,
-            "bestPricePerLitre": 0.0
+            "bestPrice": 7.5,
+            "price": 7.5,
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         }
     },
     {
@@ -1391,10 +1391,10 @@
             "productImageURL": "https://assets.woolworths.com.au/images/2010/271705.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
         },
         "priceData": {
-            "bestPrice": 0.0,
-            "price": 0.0,
-            "pricePerLitre": 0.0,
-            "bestPricePerLitre": 0.0
+            "bestPrice": 4.0,
+            "price": 4.0,
+            "pricePerLitre": 2.7,
+            "bestPricePerLitre": 2.7
         }
     },
     {
@@ -1506,10 +1506,15 @@
             "productImageURL": "https://assets.woolworths.com.au/images/2010/271718.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
         },
         "priceData": {
-            "bestPrice": 0.0,
-            "price": 0.0,
-            "pricePerLitre": 0.0,
-            "bestPricePerLitre": 0.0
+            "bestPrice": 3.0,
+            "price": 3.9,
+            "pricePerLitre": 2.6,
+            "bestPricePerLitre": 2.0,
+            "multiBuy": {
+                "quantity": 2.0,
+                "value": 6.0,
+                "perUnit": 3.0
+            }
         }
     },
     {
@@ -1702,10 +1707,15 @@
             "productImageURL": "https://assets.woolworths.com.au/images/2010/271898.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
         },
         "priceData": {
-            "bestPrice": 0.0,
-            "price": 0.0,
-            "pricePerLitre": 0.0,
-            "bestPricePerLitre": 0.0
+            "bestPrice": 1.33,
+            "price": 1.7,
+            "pricePerLitre": 1.1,
+            "bestPricePerLitre": 0.8605882352941179,
+            "multiBuy": {
+                "quantity": 3.0,
+                "value": 3.99,
+                "perUnit": 1.33
+            }
         }
     },
     {
@@ -2153,10 +2163,10 @@
             "productImageURL": "https://assets.woolworths.com.au/images/2010/590234.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
         },
         "priceData": {
-            "bestPrice": 0.0,
-            "price": 0.0,
-            "pricePerLitre": 0.0,
-            "bestPricePerLitre": 0.0
+            "bestPrice": 1.4,
+            "price": 1.4,
+            "pricePerLitre": 0.8999999999999999,
+            "bestPricePerLitre": 0.8999999999999999
         }
     },
     {
@@ -2259,10 +2269,10 @@
             "productImageURL": "https://assets.woolworths.com.au/images/2010/644230.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
         },
         "priceData": {
-            "bestPrice": 0.0,
-            "price": 0.0,
-            "pricePerLitre": 0.0,
-            "bestPricePerLitre": 0.0
+            "bestPrice": 1.2,
+            "price": 1.2,
+            "pricePerLitre": 0.8,
+            "bestPricePerLitre": 0.8
         }
     },
     {
@@ -2289,10 +2299,10 @@
             "productImageURL": "https://assets.woolworths.com.au/images/2010/644232.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
         },
         "priceData": {
-            "bestPrice": 0.0,
-            "price": 0.0,
-            "pricePerLitre": 0.0,
-            "bestPricePerLitre": 0.0
+            "bestPrice": 1.2,
+            "price": 1.2,
+            "pricePerLitre": 0.8,
+            "bestPricePerLitre": 0.8
         }
     },
     {
@@ -2369,14 +2379,14 @@
                 "quantity": "4"
             },
             "productId": "659236",
-            "productDescription": "Safe to say, the lemon, lime and bitters club was getting a bit of a members-only vibe. We decided it was high time to shake things up. So we chucked the lemon, kept the unmistakeable tartness of lime and angosturo bitters, but introduced a fresh burst of mandarins to the mix. Smells like johnny’s just peeled open a juicy one, right in the middle of the club. It’s a wake up call to the tradition brigade. <br/> <br/>Mac’s sodas are proudly made in new zealand and have 40% less sugar than leading soft drinks.",
+            "productDescription": null,
             "productImageURL": "https://assets.woolworths.com.au/images/2010/659236.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
         },
         "priceData": {
-            "bestPrice": 0.0,
-            "price": 0.0,
-            "pricePerLitre": 0.0,
-            "bestPricePerLitre": 0.0
+            "bestPrice": 5.0,
+            "price": 5.0,
+            "pricePerLitre": 3.8,
+            "bestPricePerLitre": 3.8
         }
     },
     {
@@ -2387,7 +2397,7 @@
                 "quantity": "4"
             },
             "productId": "659253",
-            "productDescription": "We decided it was time lemonade had a dose of good old kiwi ingenuity…plus we had quite a bit of rhubarb out the back. It’s the classic thirst-quencher of freshly-squeezed lemonade with a tangy-sweet rhubarb twist. Tastes a bit like we’ve taken nana’s sweet rhubarb crumble, added a slice of lemon and bottled it. Made with the juice of tangy lemons and the surprising combo of sweet’n’sour rhubarb, it’s a refreshing twist on an old favourite. <br/> <br/>Mac’s sodas are proudly made in new zealand and have 40% less sugar than leading soft drinks.",
+            "productDescription": null,
             "productImageURL": "https://assets.woolworths.com.au/images/2010/659253.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
         },
         "priceData": {
@@ -2462,7 +2472,7 @@
                 "quantity": "4"
             },
             "productId": "659679",
-            "productDescription": "The feijoa was once described as new zealand’s most socialist fruit, because let’s be honest, you’re more likely to pinch them from your neighbour’s hedge than get them at the shop. And when feijoa gets together with pear, well, things get even more social. It’s an all-aotearoa party, with the tropical flavours of feijoa getting those conservative pears out of their seats and onto the dance floor. Then we drop in the attention seeking elderflower to shake things up and create a little tension. This should be fun. <br/> <br/>Mac’s sodas are proudly made in new zealand and have 40% less sugar than leading soft drinks.",
+            "productDescription": null,
             "productImageURL": "https://assets.woolworths.com.au/images/2010/659679.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
         },
         "priceData": {
@@ -2805,10 +2815,10 @@
             "productImageURL": "https://assets.woolworths.com.au/images/2010/686285.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
         },
         "priceData": {
-            "bestPrice": 0.0,
-            "price": 0.0,
-            "pricePerLitre": 0.0,
-            "bestPricePerLitre": 0.0
+            "bestPrice": 5.5,
+            "price": 5.5,
+            "pricePerLitre": 11.0,
+            "bestPricePerLitre": 11.0
         }
     },
     {
@@ -3041,10 +3051,10 @@
             "productImageURL": "https://assets.woolworths.com.au/images/2010/757240.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
         },
         "priceData": {
-            "bestPrice": 0.0,
-            "price": 0.0,
-            "pricePerLitre": 0.0,
-            "bestPricePerLitre": 0.0
+            "bestPrice": 7.5,
+            "price": 7.5,
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         }
     },
     {
@@ -3060,10 +3070,10 @@
             "productImageURL": "https://assets.woolworths.com.au/images/2010/757272.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
         },
         "priceData": {
-            "bestPrice": 0.0,
-            "price": 0.0,
-            "pricePerLitre": 0.0,
-            "bestPricePerLitre": 0.0
+            "bestPrice": 7.5,
+            "price": 7.5,
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         }
     },
     {
@@ -3188,10 +3198,10 @@
             "productImageURL": "https://assets.woolworths.com.au/images/2010/797186.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
         },
         "priceData": {
-            "bestPrice": 0.0,
-            "price": 0.0,
-            "pricePerLitre": 0.0,
-            "bestPricePerLitre": 0.0
+            "bestPrice": 2.3,
+            "price": 2.3,
+            "pricePerLitre": 7.0,
+            "bestPricePerLitre": 7.0
         }
     },
     {
@@ -3531,10 +3541,10 @@
             "productImageURL": "https://assets.woolworths.com.au/images/2010/977653.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
         },
         "priceData": {
-            "bestPrice": 0.0,
-            "price": 0.0,
-            "pricePerLitre": 0.0,
-            "bestPricePerLitre": 0.0
+            "bestPrice": 11.0,
+            "price": 11.0,
+            "pricePerLitre": 5.6000000000000005,
+            "bestPricePerLitre": 5.6000000000000005
         }
     },
     {
@@ -3626,10 +3636,10 @@
             "productImageURL": "https://assets.woolworths.com.au/images/2010/977840.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
         },
         "priceData": {
-            "bestPrice": 5.5,
-            "price": 5.5,
-            "pricePerLitre": 0.5,
-            "bestPricePerLitre": 0.5
+            "bestPrice": 0.0,
+            "price": 0.0,
+            "pricePerLitre": 0.0,
+            "bestPricePerLitre": 0.0
         }
     },
     {
@@ -3994,10 +4004,10 @@
             ]
         },
         "priceData": {
-            "bestPrice": 0.0,
-            "price": 0.0,
-            "pricePerLitre": 0.0,
-            "bestPricePerLitre": 0.0
+            "bestPrice": 8.0,
+            "price": 8.0,
+            "pricePerLitre": 8.0,
+            "bestPricePerLitre": 8.0
         }
     },
     {
@@ -4010,10 +4020,10 @@
             "productImageURL": "https://assets.woolworths.com.au/images/2010/711024.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
         },
         "priceData": {
-            "bestPrice": 0.0,
-            "price": 0.0,
-            "pricePerLitre": 0.0,
-            "bestPricePerLitre": 0.0
+            "bestPrice": 2.0,
+            "price": 2.0,
+            "pricePerLitre": 8.0,
+            "bestPricePerLitre": 8.0
         }
     },
     {
@@ -4026,10 +4036,10 @@
             "productImageURL": "https://assets.woolworths.com.au/images/2010/195828.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
         },
         "priceData": {
-            "bestPrice": 0.0,
-            "price": 0.0,
-            "pricePerLitre": 0.0,
-            "bestPricePerLitre": 0.0
+            "bestPrice": 2.5,
+            "price": 2.5,
+            "pricePerLitre": 7.1,
+            "bestPricePerLitre": 7.1
         }
     },
     {
@@ -4247,7 +4257,7 @@
     },
     {
         "productData": {
-            "name": "rockstar energy drink tropical guava",
+            "name": "rockstar energy drink guava",
             "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=332724",
             "volume": "500",
             "productId": "332724",

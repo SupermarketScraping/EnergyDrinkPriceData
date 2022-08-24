@@ -13,7 +13,7 @@
             "pricePerLitre": 0,
             "bestPricePerLitre": 0
         },
-        "timestamp": "2022-08-24T15:42:15.036437",
+        "timestamp": "2022-08-23T17:04:38.459950",
         "siteconfig": {
             "siteMeta": {
                 "name": "Mighty Ape",
@@ -174,10 +174,10 @@
             "volume": "355"
         },
         "priceData": {
-            "bestPrice": "37.99",
-            "price": "37.99",
-            "pricePerLitre": 4.458920187793428,
-            "bestPricePerLitre": 4.458920187793428
+            "bestPrice": "38.99",
+            "price": "38.99",
+            "pricePerLitre": 4.576291079812207,
+            "bestPricePerLitre": 4.576291079812207
         }
     },
     {
@@ -250,10 +250,10 @@
             "volume": "355"
         },
         "priceData": {
-            "bestPrice": "37.99",
-            "price": "37.99",
-            "pricePerLitre": 4.458920187793428,
-            "bestPricePerLitre": 4.458920187793428
+            "bestPrice": "38.99",
+            "price": "38.99",
+            "pricePerLitre": 4.576291079812207,
+            "bestPricePerLitre": 4.576291079812207
         }
     },
     {
@@ -269,10 +269,10 @@
             "volume": "355"
         },
         "priceData": {
-            "bestPrice": "37.99",
-            "price": "37.99",
-            "pricePerLitre": 4.458920187793428,
-            "bestPricePerLitre": 4.458920187793428
+            "bestPrice": "38.99",
+            "price": "38.99",
+            "pricePerLitre": 4.576291079812207,
+            "bestPricePerLitre": 4.576291079812207
         }
     },
     {
@@ -288,10 +288,10 @@
             "volume": "355"
         },
         "priceData": {
-            "bestPrice": "37.99",
-            "price": "37.99",
-            "pricePerLitre": 4.458920187793428,
-            "bestPricePerLitre": 4.458920187793428
+            "bestPrice": "38.99",
+            "price": "38.99",
+            "pricePerLitre": 4.576291079812207,
+            "bestPricePerLitre": 4.576291079812207
         }
     },
     {
@@ -326,10 +326,10 @@
             "volume": "355"
         },
         "priceData": {
-            "bestPrice": "37.99",
-            "price": "37.99",
-            "pricePerLitre": 4.458920187793428,
-            "bestPricePerLitre": 4.458920187793428
+            "bestPrice": "38.99",
+            "price": "38.99",
+            "pricePerLitre": 4.576291079812207,
+            "bestPricePerLitre": 4.576291079812207
         }
     },
     {
@@ -364,10 +364,10 @@
             "volume": "355"
         },
         "priceData": {
-            "bestPrice": "37.99",
-            "price": "37.99",
-            "pricePerLitre": 4.458920187793428,
-            "bestPricePerLitre": 4.458920187793428
+            "bestPrice": "38.99",
+            "price": "38.99",
+            "pricePerLitre": 4.576291079812207,
+            "bestPricePerLitre": 4.576291079812207
         }
     },
     {
@@ -561,10 +561,10 @@
             "volume": "500"
         },
         "priceData": {
-            "bestPrice": "54.99",
-            "price": "54.99",
-            "pricePerLitre": 9.165,
-            "bestPricePerLitre": 9.165
+            "bestPrice": "59.99",
+            "price": "59.99",
+            "pricePerLitre": 9.998333333333333,
+            "bestPricePerLitre": 9.998333333333333
         }
     },
     {
@@ -1549,10 +1549,10 @@
             "volume": "500"
         },
         "priceData": {
-            "bestPrice": "44.99",
-            "price": "44.99",
-            "pricePerLitre": 7.498333333333333,
-            "bestPricePerLitre": 7.498333333333333
+            "bestPrice": "39.99",
+            "price": "39.99",
+            "pricePerLitre": 6.665,
+            "bestPricePerLitre": 6.665
         }
     }
 ]
