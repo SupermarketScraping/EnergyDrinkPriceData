@@ -1,0 +1,145 @@
+[
+    {
+        "productData": {
+            "name": "FILEMETA",
+            "productId": "FILEMETA",
+            "productShopPage": "",
+            "productImageURL": "",
+            "productDescription": "THIS IS NOT A REAL PRODUCT, THIS IS METADATA OF THIS FILE"
+        },
+        "priceData": {
+            "bestPrice": "0.00",
+            "price": "0.00",
+            "pricePerLitre": 0,
+            "bestPricePerLitre": 0
+        },
+        "timestamp": "2023-01-20T08:39:17.764448",
+        "siteconfig": {
+            "siteMeta": {
+                "name": "Mighty Ape",
+                "mainURL": "www.mightyape.co.nz",
+                "productPrefix": ""
+            },
+            "regex": {
+                "dollars": "(\\d{1,})",
+                "cents": "(\\d{2,})",
+                "multipackDetect": "(\\d{1,}\\.{0,}\\d{0,}(?:l|ml)).{0,}\\((\\d{1,}).{0,}p.{0,}k\\)",
+                "altMultipackDetect": "(\\d{1,}).{0,2}(?:x|X).{0,2}(\\d{1,}ml|ML|mL)",
+                "multipackDetect3": "(\\d{1,}).{0,}p.{0,}k",
+                "volume": "(.{1,})(\\d{3,})(?:ml|ML|mL)"
+            },
+            "endpoints": {}
+        }
+    },
+    {
+        "productData": {
+            "name": "Mother Energy Drink Kicked Apple 500ml",
+            "productId": "26809988",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/26809988",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/e38/271352140.jpeg",
+            "multipack": {
+                "quantity": "24"
+            },
+            "volume": "500"
+        },
+        "priceData": {
+            "bestPrice": "59.99",
+            "price": "59.99",
+            "pricePerLitre": 4.9991666666666665,
+            "bestPricePerLitre": 4.9991666666666665
+        }
+    },
+    {
+        "productData": {
+            "name": "Mother Energy Drink Can 500ml",
+            "productId": "25921602",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/25921602",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/910/271542395.jpeg",
+            "multipack": {
+                "quantity": "24"
+            },
+            "volume": "500"
+        },
+        "priceData": {
+            "bestPrice": "59.99",
+            "price": "59.99",
+            "pricePerLitre": 4.9991666666666665,
+            "bestPricePerLitre": 4.9991666666666665
+        }
+    },
+    {
+        "productData": {
+            "name": "Mother Energy Drink Epic Swell 500ml",
+            "productId": "34862643",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/34862643",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/68a/271541800.jpeg",
+            "multipack": {
+                "quantity": "24"
+            },
+            "volume": "500"
+        },
+        "priceData": {
+            "bestPrice": "59.99",
+            "price": "59.99",
+            "pricePerLitre": 4.9991666666666665,
+            "bestPricePerLitre": 4.9991666666666665
+        }
+    },
+    {
+        "productData": {
+            "name": "Mother Zero Sugar Razzle Berry",
+            "productId": "36003002",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/36003002",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/1e2/273212625.jpeg",
+            "multipack": {
+                "quantity": "500"
+            }
+        },
+        "priceData": {
+            "bestPrice": "59.99",
+            "price": "59.99"
+        }
+    },
+    {
+        "productData": {
+            "name": "Mother Energy Drink 250ml Can",
+            "productId": "26235091",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/26235091",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/e68/272044074.jpeg",
+            "multipack": {
+                "quantity": "30"
+            },
+            "volume": "250"
+        },
+        "priceData": {
+            "bestPrice": "45.00",
+            "price": "45.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
+        }
+    },
+    {
+        "productData": {
+            "name": "Mother Energy Drink Passion 500ml (24 Pack)",
+            "productId": "29060437",
+            "productShopPage": "https://www.mightyape.co.nz/product/name/29060437",
+            "productDescription": "",
+            "productImageURL": "https://d3fa68hw0m2vcc.cloudfront.net/21f/272044082.jpeg",
+            "multipack": {
+                "quantity": "24"
+            },
+            "volume": "500"
+        },
+        "priceData": {
+            "bestPrice": "59.99",
+            "price": "59.99",
+            "pricePerLitre": 4.9991666666666665,
+            "bestPricePerLitre": 4.9991666666666665
+        }
+    }
+]
