@@ -13,7 +13,7 @@
             "pricePerLitre": 0,
             "bestPricePerLitre": 0
         },
-        "timestamp": "2023-02-06T16:30:59.220821",
+        "timestamp": "2023-01-30T16:05:24.968990",
         "siteconfig": {
             "siteMeta": {
                 "name": "countdown",
@@ -53,15 +53,10 @@
             "productImageURL": "https://assets.woolworths.com.au/images/2010/820268.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
         },
         "priceData": {
-            "bestPrice": 2.0,
+            "bestPrice": 3.0,
             "price": 3.0,
             "pricePerLitre": 6.0,
-            "bestPricePerLitre": 4.0,
-            "multiBuy": {
-                "quantity": 2.0,
-                "value": 4.0,
-                "perUnit": 2.0
-            }
+            "bestPricePerLitre": 6.0
         }
     },
     {
@@ -74,15 +69,10 @@
             "productImageURL": "https://assets.woolworths.com.au/images/2010/82274.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
         },
         "priceData": {
-            "bestPrice": 2.0,
+            "bestPrice": 3.0,
             "price": 3.0,
             "pricePerLitre": 6.0,
-            "bestPricePerLitre": 4.0,
-            "multiBuy": {
-                "quantity": 2.0,
-                "value": 4.0,
-                "perUnit": 2.0
-            }
+            "bestPricePerLitre": 6.0
         }
     },
     {
@@ -95,15 +85,10 @@
             "productImageURL": "https://assets.woolworths.com.au/images/2010/315125.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
         },
         "priceData": {
-            "bestPrice": 2.0,
+            "bestPrice": 3.0,
             "price": 3.0,
             "pricePerLitre": 6.0,
-            "bestPricePerLitre": 4.0,
-            "multiBuy": {
-                "quantity": 2.0,
-                "value": 4.0,
-                "perUnit": 2.0
-            }
+            "bestPricePerLitre": 6.0
         }
     },
     {
@@ -116,15 +101,10 @@
             "productImageURL": "https://assets.woolworths.com.au/images/2010/678202.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
         },
         "priceData": {
-            "bestPrice": 2.0,
+            "bestPrice": 3.0,
             "price": 3.0,
             "pricePerLitre": 6.0,
-            "bestPricePerLitre": 4.0,
-            "multiBuy": {
-                "quantity": 2.0,
-                "value": 4.0,
-                "perUnit": 2.0
-            }
+            "bestPricePerLitre": 6.0
         }
     },
     {
@@ -137,15 +117,10 @@
             "productImageURL": "https://assets.woolworths.com.au/images/2010/230597.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
         },
         "priceData": {
-            "bestPrice": 2.0,
+            "bestPrice": 3.0,
             "price": 3.0,
             "pricePerLitre": 6.0,
-            "bestPricePerLitre": 4.0,
-            "multiBuy": {
-                "quantity": 2.0,
-                "value": 4.0,
-                "perUnit": 2.0
-            }
+            "bestPricePerLitre": 6.0
         }
     },
     {
@@ -158,15 +133,10 @@
             "productImageURL": "https://assets.woolworths.com.au/images/2010/590411.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
         },
         "priceData": {
-            "bestPrice": 2.0,
+            "bestPrice": 3.0,
             "price": 3.0,
             "pricePerLitre": 6.0,
-            "bestPricePerLitre": 4.0,
-            "multiBuy": {
-                "quantity": 2.0,
-                "value": 4.0,
-                "perUnit": 2.0
-            }
+            "bestPricePerLitre": 6.0
         }
     },
     {
@@ -182,10 +152,10 @@
             "productImageURL": "https://assets.woolworths.com.au/images/2010/729764.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
         },
         "priceData": {
-            "bestPrice": 8.0,
-            "price": 8.0,
-            "pricePerLitre": 8.0,
-            "bestPricePerLitre": 8.0
+            "bestPrice": 5.0,
+            "price": 5.0,
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         }
     },
     {
@@ -198,10 +168,10 @@
             "productImageURL": "https://assets.woolworths.com.au/images/2010/705699.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
         },
         "priceData": {
-            "bestPrice": 3.0,
-            "price": 3.0,
-            "pricePerLitre": 6.0,
-            "bestPricePerLitre": 6.0
+            "bestPrice": 3.8,
+            "price": 3.8,
+            "pricePerLitre": 7.6,
+            "bestPricePerLitre": 7.6
         }
     },
     {
@@ -214,10 +184,10 @@
             "productImageURL": "https://assets.woolworths.com.au/images/2010/229961.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
         },
         "priceData": {
-            "bestPrice": 3.0,
-            "price": 3.0,
-            "pricePerLitre": 6.0,
-            "bestPricePerLitre": 6.0
+            "bestPrice": 3.8,
+            "price": 3.8,
+            "pricePerLitre": 7.6,
+            "bestPricePerLitre": 7.6
         }
     },
     {
@@ -230,10 +200,10 @@
             "productImageURL": "https://assets.woolworths.com.au/images/2010/738677.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
         },
         "priceData": {
-            "bestPrice": 3.8,
-            "price": 3.8,
-            "pricePerLitre": 7.6,
-            "bestPricePerLitre": 7.6
+            "bestPrice": 2.5,
+            "price": 2.5,
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         }
     },
     {
@@ -246,10 +216,15 @@
             "productImageURL": "https://assets.woolworths.com.au/images/2010/187182.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
         },
         "priceData": {
-            "bestPrice": 3.5,
+            "bestPrice": 2.5,
             "price": 3.5,
             "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPricePerLitre": 5.0,
+            "multiBuy": {
+                "quantity": 2.0,
+                "value": 5.0,
+                "perUnit": 2.5
+            }
         }
     },
     {
@@ -278,10 +253,15 @@
             "productImageURL": "https://assets.woolworths.com.au/images/2010/62911.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
         },
         "priceData": {
-            "bestPrice": 3.5,
+            "bestPrice": 2.5,
             "price": 3.5,
             "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPricePerLitre": 5.0,
+            "multiBuy": {
+                "quantity": 2.0,
+                "value": 5.0,
+                "perUnit": 2.5
+            }
         }
     },
     {
@@ -294,10 +274,10 @@
             "productImageURL": "https://assets.woolworths.com.au/images/2010/705714.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
         },
         "priceData": {
-            "bestPrice": 2.5,
-            "price": 2.5,
-            "pricePerLitre": 7.1,
-            "bestPricePerLitre": 7.1
+            "bestPrice": 3.5,
+            "price": 3.5,
+            "pricePerLitre": 10.0,
+            "bestPricePerLitre": 10.0
         }
     },
     {
@@ -342,15 +322,10 @@
             "productImageURL": "https://assets.woolworths.com.au/images/2010/230895.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
         },
         "priceData": {
-            "bestPrice": 2.0,
+            "bestPrice": 3.0,
             "price": 3.0,
             "pricePerLitre": 6.0,
-            "bestPricePerLitre": 4.0,
-            "multiBuy": {
-                "quantity": 2.0,
-                "value": 4.0,
-                "perUnit": 2.0
-            }
+            "bestPricePerLitre": 6.0
         }
     },
     {
@@ -363,15 +338,10 @@
             "productImageURL": "https://assets.woolworths.com.au/images/2010/694546.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
         },
         "priceData": {
-            "bestPrice": 2.0,
+            "bestPrice": 3.0,
             "price": 3.0,
             "pricePerLitre": 6.0,
-            "bestPricePerLitre": 4.0,
-            "multiBuy": {
-                "quantity": 2.0,
-                "value": 4.0,
-                "perUnit": 2.0
-            }
+            "bestPricePerLitre": 6.0
         }
     },
     {
@@ -384,10 +354,10 @@
             "productImageURL": "https://assets.woolworths.com.au/images/2010/231564.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
         },
         "priceData": {
-            "bestPrice": 3.5,
-            "price": 3.5,
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": 0.0,
+            "price": 0.0,
+            "pricePerLitre": 0.0,
+            "bestPricePerLitre": 0.0
         }
     },
     {
@@ -400,10 +370,10 @@
             "productImageURL": "https://assets.woolworths.com.au/images/2010/698612.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
         },
         "priceData": {
-            "bestPrice": 3.5,
-            "price": 3.5,
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": 0.0,
+            "price": 0.0,
+            "pricePerLitre": 0.0,
+            "bestPricePerLitre": 0.0
         }
     },
     {
@@ -435,10 +405,10 @@
             "productImageURL": "https://assets.woolworths.com.au/images/2010/803888.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
         },
         "priceData": {
-            "bestPrice": 3.5,
-            "price": 3.5,
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": 0.0,
+            "price": 0.0,
+            "pricePerLitre": 0.0,
+            "bestPricePerLitre": 0.0
         }
     },
     {
@@ -451,10 +421,10 @@
             "productImageURL": "https://assets.woolworths.com.au/images/2010/738591.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
         },
         "priceData": {
-            "bestPrice": 2.5,
-            "price": 2.5,
-            "pricePerLitre": 7.6,
-            "bestPricePerLitre": 7.6
+            "bestPrice": 3.5,
+            "price": 3.5,
+            "pricePerLitre": 10.600000000000001,
+            "bestPricePerLitre": 10.600000000000001
         }
     },
     {
@@ -483,15 +453,10 @@
             "productImageURL": "https://assets.woolworths.com.au/images/2010/694545.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
         },
         "priceData": {
-            "bestPrice": 2.0,
+            "bestPrice": 3.0,
             "price": 3.0,
             "pricePerLitre": 6.0,
-            "bestPricePerLitre": 4.0,
-            "multiBuy": {
-                "quantity": 2.0,
-                "value": 4.0,
-                "perUnit": 2.0
-            }
+            "bestPricePerLitre": 6.0
         }
     }
 ]

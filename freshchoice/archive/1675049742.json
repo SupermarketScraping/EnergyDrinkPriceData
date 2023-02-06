@@ -13,7 +13,7 @@
             "pricePerLitre": 0,
             "bestPricePerLitre": 0
         },
-        "timestamp": "2023-02-06T15:44:50.932273",
+        "timestamp": "2023-01-30T16:09:25.216283",
         "siteconfig": {
             "siteMeta": {
                 "name": "Fresh Choice",
@@ -43,10 +43,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "6108c002ec2866454c0198c4",
@@ -63,10 +63,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "6108c002ec2866454c0198c4",
@@ -83,10 +83,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "6108c002ec2866454c0198c4",
@@ -103,10 +103,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "6108c002ec2866454c0198c4",
@@ -123,10 +123,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "6108c002ec2866454c0198c4",
@@ -143,10 +143,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.30",
-            "price": "3.30",
-            "pricePerLitre": 6.6,
-            "bestPricePerLitre": 6.6
+            "bestPrice": "4.00",
+            "price": "4.00",
+            "pricePerLitre": 8.0,
+            "bestPricePerLitre": 8.0
         },
         "store": {
             "id": "6108c002ec2866454c0198c4",
@@ -163,10 +163,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "4.10",
-            "price": "4.10",
-            "pricePerLitre": 8.2,
-            "bestPricePerLitre": 8.2
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "6108c002ec2866454c0198c4",
@@ -183,10 +183,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "6108c002ec2866454c0198c4",
@@ -222,13 +222,13 @@
             "productDescription": ""
         },
         "priceData": {
-            "bestPrice": "8.65",
-            "price": "8.65",
+            "bestPrice": "6.50",
+            "price": "6.50",
             "multipack": {
                 "quantity": 4.0
             },
-            "pricePerLitre": 8.7,
-            "bestPricePerLitre": 8.7
+            "pricePerLitre": 6.5,
+            "bestPricePerLitre": 6.5
         },
         "store": {
             "id": "6108c002ec2866454c0198c4",
@@ -245,10 +245,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.30",
-            "price": "3.30",
-            "pricePerLitre": 6.6,
-            "bestPricePerLitre": 6.6
+            "bestPrice": "4.00",
+            "price": "4.00",
+            "pricePerLitre": 8.0,
+            "bestPricePerLitre": 8.0
         },
         "store": {
             "id": "6108c002ec2866454c0198c4",
@@ -265,10 +265,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "6108c002ec2866454c0198c4",
@@ -285,10 +285,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "6108c002ec2866454c0198c4",
@@ -325,10 +325,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5d71a2f042cdd728db000b75",
@@ -345,10 +345,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5d71a2f042cdd728db000b75",
@@ -365,10 +365,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5d71a2f042cdd728db000b75",
@@ -385,10 +385,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5d71a2f042cdd728db000b75",
@@ -405,10 +405,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5d71a2f042cdd728db000b75",
@@ -425,10 +425,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.30",
-            "price": "3.30",
-            "pricePerLitre": 6.6,
-            "bestPricePerLitre": 6.6
+            "bestPrice": "4.00",
+            "price": "4.00",
+            "pricePerLitre": 8.0,
+            "bestPricePerLitre": 8.0
         },
         "store": {
             "id": "5d71a2f042cdd728db000b75",
@@ -445,10 +445,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "4.10",
-            "price": "4.10",
-            "pricePerLitre": 8.2,
-            "bestPricePerLitre": 8.2
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5d71a2f042cdd728db000b75",
@@ -485,10 +485,10 @@
             "volume": 350.0
         },
         "priceData": {
-            "bestPrice": "2.50",
-            "price": "2.50",
-            "pricePerLitre": 7.142857142857143,
-            "bestPricePerLitre": 7.142857142857143
+            "bestPrice": "3.80",
+            "price": "3.80",
+            "pricePerLitre": 10.857142857142858,
+            "bestPricePerLitre": 10.857142857142858
         },
         "store": {
             "id": "5d71a2f042cdd728db000b75",
@@ -505,10 +505,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5d71a2f042cdd728db000b75",
@@ -525,10 +525,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5d71a2f042cdd728db000b75",
@@ -564,13 +564,13 @@
             "productDescription": ""
         },
         "priceData": {
-            "bestPrice": "8.65",
-            "price": "8.65",
+            "bestPrice": "6.50",
+            "price": "6.50",
             "multipack": {
                 "quantity": 4.0
             },
-            "pricePerLitre": 8.7,
-            "bestPricePerLitre": 8.7
+            "pricePerLitre": 6.5,
+            "bestPricePerLitre": 6.5
         },
         "store": {
             "id": "5d71a2f042cdd728db000b75",
@@ -587,30 +587,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.30",
-            "price": "3.30",
-            "pricePerLitre": 6.6,
-            "bestPricePerLitre": 6.6
-        },
-        "store": {
-            "id": "5d71a2f042cdd728db000b75",
-            "name": "Glen Eden"
-        }
-    },
-    {
-        "productData": {
-            "name": "Monster Energy Pipeline Punch 500ml",
-            "productId": "monster-energy-pipeline-punch-500ml",
-            "productShopPage": "https://gleneden.store.freshchoice.co.nz/lines/monster-energy-pipeline-punch-500ml",
-            "productImageURL": "https://dtgxwmigmg3gc.cloudfront.net/imagery/assets/derivations/icon/512/512/true/eyJpZCI6IjBhODJhZGNkMWY5YThiMWQ5ZjY0YjRjNGE0YWQwMzMxIiwic3RvcmFnZSI6InB1YmxpY19zdG9yZSJ9?signature=7a4880545cb059c8f06a41c671fb0785b7cddf3903741ed2f081d6bcf2e5189f",
-            "productDescription": "",
-            "volume": 500.0
-        },
-        "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "4.00",
+            "price": "4.00",
+            "pricePerLitre": 8.0,
+            "bestPricePerLitre": 8.0
         },
         "store": {
             "id": "5d71a2f042cdd728db000b75",
@@ -647,10 +627,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5c8f2abb777a4233c400918b",
@@ -667,10 +647,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5c8f2abb777a4233c400918b",
@@ -687,10 +667,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5c8f2abb777a4233c400918b",
@@ -707,10 +687,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5c8f2abb777a4233c400918b",
@@ -727,10 +707,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5c8f2abb777a4233c400918b",
@@ -747,10 +727,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.30",
-            "price": "3.30",
-            "pricePerLitre": 6.6,
-            "bestPricePerLitre": 6.6
+            "bestPrice": "4.00",
+            "price": "4.00",
+            "pricePerLitre": 8.0,
+            "bestPricePerLitre": 8.0
         },
         "store": {
             "id": "5c8f2abb777a4233c400918b",
@@ -767,10 +747,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "4.00",
-            "price": "4.00",
-            "pricePerLitre": 8.0,
-            "bestPricePerLitre": 8.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5c8f2abb777a4233c400918b",
@@ -787,10 +767,10 @@
             "volume": 350.0
         },
         "priceData": {
-            "bestPrice": "2.50",
-            "price": "2.50",
-            "pricePerLitre": 7.142857142857143,
-            "bestPricePerLitre": 7.142857142857143
+            "bestPrice": "3.80",
+            "price": "3.80",
+            "pricePerLitre": 10.857142857142858,
+            "bestPricePerLitre": 10.857142857142858
         },
         "store": {
             "id": "5c8f2abb777a4233c400918b",
@@ -807,10 +787,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5c8f2abb777a4233c400918b",
@@ -846,13 +826,13 @@
             "productDescription": ""
         },
         "priceData": {
-            "bestPrice": "8.65",
-            "price": "8.65",
+            "bestPrice": "6.50",
+            "price": "6.50",
             "multipack": {
                 "quantity": 4.0
             },
-            "pricePerLitre": 8.7,
-            "bestPricePerLitre": 8.7
+            "pricePerLitre": 6.5,
+            "bestPricePerLitre": 6.5
         },
         "store": {
             "id": "5c8f2abb777a4233c400918b",
@@ -869,10 +849,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.30",
-            "price": "3.30",
-            "pricePerLitre": 6.6,
-            "bestPricePerLitre": 6.6
+            "bestPrice": "4.00",
+            "price": "4.00",
+            "pricePerLitre": 8.0,
+            "bestPricePerLitre": 8.0
         },
         "store": {
             "id": "5c8f2abb777a4233c400918b",
@@ -909,10 +889,10 @@
             "volume": 330.0
         },
         "priceData": {
-            "bestPrice": "2.80",
-            "price": "2.80",
-            "pricePerLitre": 8.484848484848484,
-            "bestPricePerLitre": 8.484848484848484
+            "bestPrice": "3.60",
+            "price": "3.60",
+            "pricePerLitre": 10.90909090909091,
+            "bestPricePerLitre": 10.90909090909091
         },
         "store": {
             "id": "5c8f2abb777a4233c400918b",
@@ -929,10 +909,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e7371b4fbe98b620608bb56",
@@ -949,10 +929,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e7371b4fbe98b620608bb56",
@@ -969,10 +949,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e7371b4fbe98b620608bb56",
@@ -1012,10 +992,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e7371b4fbe98b620608bb56",
@@ -1032,10 +1012,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e7371b4fbe98b620608bb56",
@@ -1052,10 +1032,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.30",
-            "price": "3.30",
-            "pricePerLitre": 6.6,
-            "bestPricePerLitre": 6.6
+            "bestPrice": "4.00",
+            "price": "4.00",
+            "pricePerLitre": 8.0,
+            "bestPricePerLitre": 8.0
         },
         "store": {
             "id": "5e7371b4fbe98b620608bb56",
@@ -1072,10 +1052,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "4.10",
-            "price": "4.10",
-            "pricePerLitre": 8.2,
-            "bestPricePerLitre": 8.2
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e7371b4fbe98b620608bb56",
@@ -1092,13 +1072,13 @@
             "volume": 250.0
         },
         "priceData": {
-            "bestPrice": "16.50",
-            "price": "16.50",
+            "bestPrice": "20.35",
+            "price": "20.35",
             "multipack": {
                 "quantity": 10.0
             },
-            "pricePerLitre": 6.6000000000000005,
-            "bestPricePerLitre": 6.6000000000000005
+            "pricePerLitre": 8.14,
+            "bestPricePerLitre": 8.14
         },
         "store": {
             "id": "5e7371b4fbe98b620608bb56",
@@ -1115,10 +1095,10 @@
             "volume": 350.0
         },
         "priceData": {
-            "bestPrice": "2.50",
-            "price": "2.50",
-            "pricePerLitre": 7.142857142857143,
-            "bestPricePerLitre": 7.142857142857143
+            "bestPrice": "3.80",
+            "price": "3.80",
+            "pricePerLitre": 10.857142857142858,
+            "bestPricePerLitre": 10.857142857142858
         },
         "store": {
             "id": "5e7371b4fbe98b620608bb56",
@@ -1135,10 +1115,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e7371b4fbe98b620608bb56",
@@ -1155,10 +1135,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e7371b4fbe98b620608bb56",
@@ -1175,10 +1155,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e7371b4fbe98b620608bb56",
@@ -1214,13 +1194,13 @@
             "productDescription": ""
         },
         "priceData": {
-            "bestPrice": "8.65",
-            "price": "8.65",
+            "bestPrice": "6.50",
+            "price": "6.50",
             "multipack": {
                 "quantity": 4.0
             },
-            "pricePerLitre": 8.7,
-            "bestPricePerLitre": 8.7
+            "pricePerLitre": 6.5,
+            "bestPricePerLitre": 6.5
         },
         "store": {
             "id": "5e7371b4fbe98b620608bb56",
@@ -1237,50 +1217,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.30",
-            "price": "3.30",
-            "pricePerLitre": 6.6,
-            "bestPricePerLitre": 6.6
-        },
-        "store": {
-            "id": "5e7371b4fbe98b620608bb56",
-            "name": "Half Moon Bay"
-        }
-    },
-    {
-        "productData": {
-            "name": "Monster Energy Juice Mango Loco 500ml",
-            "productId": "monster-energy-juice-mango-loco-500ml",
-            "productShopPage": "https://halfmoonbay.store.freshchoice.co.nz/lines/monster-energy-juice-mango-loco-500ml",
-            "productImageURL": "https://dtgxwmigmg3gc.cloudfront.net/imagery/assets/derivations/icon/512/512/true/eyJpZCI6ImRhODIyMzUxYzEzNGVkNjI4OTc4NWIzNjNmMzYwZDU0Iiwic3RvcmFnZSI6InB1YmxpY19zdG9yZSJ9?signature=f600f51f76a22ea35e5d4c6c17f397e48247840da3608541588c9fec9877faac",
-            "productDescription": "",
-            "volume": 500.0
-        },
-        "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
-        },
-        "store": {
-            "id": "5e7371b4fbe98b620608bb56",
-            "name": "Half Moon Bay"
-        }
-    },
-    {
-        "productData": {
-            "name": "Monster Energy Pipeline Punch 500ml",
-            "productId": "monster-energy-pipeline-punch-500ml",
-            "productShopPage": "https://halfmoonbay.store.freshchoice.co.nz/lines/monster-energy-pipeline-punch-500ml",
-            "productImageURL": "https://dtgxwmigmg3gc.cloudfront.net/imagery/assets/derivations/icon/512/512/true/eyJpZCI6IjBhODJhZGNkMWY5YThiMWQ5ZjY0YjRjNGE0YWQwMzMxIiwic3RvcmFnZSI6InB1YmxpY19zdG9yZSJ9?signature=7a4880545cb059c8f06a41c671fb0785b7cddf3903741ed2f081d6bcf2e5189f",
-            "productDescription": "",
-            "volume": 500.0
-        },
-        "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "4.00",
+            "price": "4.00",
+            "pricePerLitre": 8.0,
+            "bestPricePerLitre": 8.0
         },
         "store": {
             "id": "5e7371b4fbe98b620608bb56",
@@ -1317,10 +1257,10 @@
             "volume": 330.0
         },
         "priceData": {
-            "bestPrice": "2.80",
-            "price": "2.80",
-            "pricePerLitre": 8.484848484848484,
-            "bestPricePerLitre": 8.484848484848484
+            "bestPrice": "3.60",
+            "price": "3.60",
+            "pricePerLitre": 10.90909090909091,
+            "bestPricePerLitre": 10.90909090909091
         },
         "store": {
             "id": "5e7371b4fbe98b620608bb56",
@@ -1337,10 +1277,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e755b8960b75a4d0a0a9f8c",
@@ -1357,10 +1297,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e755b8960b75a4d0a0a9f8c",
@@ -1377,10 +1317,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e755b8960b75a4d0a0a9f8c",
@@ -1397,10 +1337,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e755b8960b75a4d0a0a9f8c",
@@ -1440,10 +1380,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e755b8960b75a4d0a0a9f8c",
@@ -1460,10 +1400,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e755b8960b75a4d0a0a9f8c",
@@ -1480,10 +1420,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.30",
-            "price": "3.30",
-            "pricePerLitre": 6.6,
-            "bestPricePerLitre": 6.6
+            "bestPrice": "4.00",
+            "price": "4.00",
+            "pricePerLitre": 8.0,
+            "bestPricePerLitre": 8.0
         },
         "store": {
             "id": "5e755b8960b75a4d0a0a9f8c",
@@ -1500,10 +1440,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "4.10",
-            "price": "4.10",
-            "pricePerLitre": 8.2,
-            "bestPricePerLitre": 8.2
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e755b8960b75a4d0a0a9f8c",
@@ -1540,10 +1480,10 @@
             "volume": 350.0
         },
         "priceData": {
-            "bestPrice": "2.50",
-            "price": "2.50",
-            "pricePerLitre": 7.142857142857143,
-            "bestPricePerLitre": 7.142857142857143
+            "bestPrice": "3.80",
+            "price": "3.80",
+            "pricePerLitre": 10.857142857142858,
+            "bestPricePerLitre": 10.857142857142858
         },
         "store": {
             "id": "5e755b8960b75a4d0a0a9f8c",
@@ -1560,10 +1500,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e755b8960b75a4d0a0a9f8c",
@@ -1580,10 +1520,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e755b8960b75a4d0a0a9f8c",
@@ -1600,10 +1540,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e755b8960b75a4d0a0a9f8c",
@@ -1639,13 +1579,13 @@
             "productDescription": ""
         },
         "priceData": {
-            "bestPrice": "8.65",
-            "price": "8.65",
+            "bestPrice": "6.50",
+            "price": "6.50",
             "multipack": {
                 "quantity": 4.0
             },
-            "pricePerLitre": 8.7,
-            "bestPricePerLitre": 8.7
+            "pricePerLitre": 6.5,
+            "bestPricePerLitre": 6.5
         },
         "store": {
             "id": "5e755b8960b75a4d0a0a9f8c",
@@ -1662,30 +1602,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.30",
-            "price": "3.30",
-            "pricePerLitre": 6.6,
-            "bestPricePerLitre": 6.6
-        },
-        "store": {
-            "id": "5e755b8960b75a4d0a0a9f8c",
-            "name": "Leamington"
-        }
-    },
-    {
-        "productData": {
-            "name": "Monster Energy Pipeline Punch 500ml",
-            "productId": "monster-energy-pipeline-punch-500ml",
-            "productShopPage": "https://leamington.store.freshchoice.co.nz/lines/monster-energy-pipeline-punch-500ml",
-            "productImageURL": "https://dtgxwmigmg3gc.cloudfront.net/imagery/assets/derivations/icon/512/512/true/eyJpZCI6IjBhODJhZGNkMWY5YThiMWQ5ZjY0YjRjNGE0YWQwMzMxIiwic3RvcmFnZSI6InB1YmxpY19zdG9yZSJ9?signature=7a4880545cb059c8f06a41c671fb0785b7cddf3903741ed2f081d6bcf2e5189f",
-            "productDescription": "",
-            "volume": 500.0
-        },
-        "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "4.00",
+            "price": "4.00",
+            "pricePerLitre": 8.0,
+            "bestPricePerLitre": 8.0
         },
         "store": {
             "id": "5e755b8960b75a4d0a0a9f8c",
@@ -1722,10 +1642,10 @@
             "volume": 330.0
         },
         "priceData": {
-            "bestPrice": "2.80",
-            "price": "2.80",
-            "pricePerLitre": 8.484848484848484,
-            "bestPricePerLitre": 8.484848484848484
+            "bestPrice": "3.60",
+            "price": "3.60",
+            "pricePerLitre": 10.90909090909091,
+            "bestPricePerLitre": 10.90909090909091
         },
         "store": {
             "id": "5e755b8960b75a4d0a0a9f8c",
@@ -1742,10 +1662,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e5ee6e1d7477678280819d5",
@@ -1762,10 +1682,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e5ee6e1d7477678280819d5",
@@ -1782,10 +1702,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e5ee6e1d7477678280819d5",
@@ -1802,10 +1722,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e5ee6e1d7477678280819d5",
@@ -1845,10 +1765,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e5ee6e1d7477678280819d5",
@@ -1865,10 +1785,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e5ee6e1d7477678280819d5",
@@ -1885,10 +1805,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.30",
-            "price": "3.30",
-            "pricePerLitre": 6.6,
-            "bestPricePerLitre": 6.6
+            "bestPrice": "4.00",
+            "price": "4.00",
+            "pricePerLitre": 8.0,
+            "bestPricePerLitre": 8.0
         },
         "store": {
             "id": "5e5ee6e1d7477678280819d5",
@@ -1905,10 +1825,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "4.10",
-            "price": "4.10",
-            "pricePerLitre": 8.2,
-            "bestPricePerLitre": 8.2
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e5ee6e1d7477678280819d5",
@@ -1945,13 +1865,13 @@
             "volume": 250.0
         },
         "priceData": {
-            "bestPrice": "16.50",
-            "price": "16.50",
+            "bestPrice": "20.35",
+            "price": "20.35",
             "multipack": {
                 "quantity": 10.0
             },
-            "pricePerLitre": 6.6000000000000005,
-            "bestPricePerLitre": 6.6000000000000005
+            "pricePerLitre": 8.14,
+            "bestPricePerLitre": 8.14
         },
         "store": {
             "id": "5e5ee6e1d7477678280819d5",
@@ -1968,10 +1888,10 @@
             "volume": 350.0
         },
         "priceData": {
-            "bestPrice": "2.50",
-            "price": "2.50",
-            "pricePerLitre": 7.142857142857143,
-            "bestPricePerLitre": 7.142857142857143
+            "bestPrice": "3.80",
+            "price": "3.80",
+            "pricePerLitre": 10.857142857142858,
+            "bestPricePerLitre": 10.857142857142858
         },
         "store": {
             "id": "5e5ee6e1d7477678280819d5",
@@ -1988,10 +1908,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e5ee6e1d7477678280819d5",
@@ -2008,10 +1928,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e5ee6e1d7477678280819d5",
@@ -2028,10 +1948,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e5ee6e1d7477678280819d5",
@@ -2048,10 +1968,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e5ee6e1d7477678280819d5",
@@ -2087,13 +2007,13 @@
             "productDescription": ""
         },
         "priceData": {
-            "bestPrice": "8.65",
-            "price": "8.65",
+            "bestPrice": "6.50",
+            "price": "6.50",
             "multipack": {
                 "quantity": 4.0
             },
-            "pricePerLitre": 8.7,
-            "bestPricePerLitre": 8.7
+            "pricePerLitre": 6.5,
+            "bestPricePerLitre": 6.5
         },
         "store": {
             "id": "5e5ee6e1d7477678280819d5",
@@ -2110,30 +2030,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.30",
-            "price": "3.30",
-            "pricePerLitre": 6.6,
-            "bestPricePerLitre": 6.6
-        },
-        "store": {
-            "id": "5e5ee6e1d7477678280819d5",
-            "name": "Mangere Bridge"
-        }
-    },
-    {
-        "productData": {
-            "name": "Monster Energy Pipeline Punch 500ml",
-            "productId": "monster-energy-pipeline-punch-500ml",
-            "productShopPage": "https://mangerebridge.store.freshchoice.co.nz/lines/monster-energy-pipeline-punch-500ml",
-            "productImageURL": "https://dtgxwmigmg3gc.cloudfront.net/imagery/assets/derivations/icon/512/512/true/eyJpZCI6IjBhODJhZGNkMWY5YThiMWQ5ZjY0YjRjNGE0YWQwMzMxIiwic3RvcmFnZSI6InB1YmxpY19zdG9yZSJ9?signature=7a4880545cb059c8f06a41c671fb0785b7cddf3903741ed2f081d6bcf2e5189f",
-            "productDescription": "",
-            "volume": 500.0
-        },
-        "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "4.00",
+            "price": "4.00",
+            "pricePerLitre": 8.0,
+            "bestPricePerLitre": 8.0
         },
         "store": {
             "id": "5e5ee6e1d7477678280819d5",
@@ -2170,10 +2070,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e53186bec28664752006212",
@@ -2190,10 +2090,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e53186bec28664752006212",
@@ -2210,10 +2110,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e53186bec28664752006212",
@@ -2230,10 +2130,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e53186bec28664752006212",
@@ -2250,10 +2150,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e53186bec28664752006212",
@@ -2270,10 +2170,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.30",
-            "price": "3.30",
-            "pricePerLitre": 6.6,
-            "bestPricePerLitre": 6.6
+            "bestPrice": "4.00",
+            "price": "4.00",
+            "pricePerLitre": 8.0,
+            "bestPricePerLitre": 8.0
         },
         "store": {
             "id": "5e53186bec28664752006212",
@@ -2290,10 +2190,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "4.10",
-            "price": "4.10",
-            "pricePerLitre": 8.2,
-            "bestPricePerLitre": 8.2
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e53186bec28664752006212",
@@ -2310,10 +2210,10 @@
             "volume": 350.0
         },
         "priceData": {
-            "bestPrice": "2.50",
-            "price": "2.50",
-            "pricePerLitre": 7.142857142857143,
-            "bestPricePerLitre": 7.142857142857143
+            "bestPrice": "3.80",
+            "price": "3.80",
+            "pricePerLitre": 10.857142857142858,
+            "bestPricePerLitre": 10.857142857142858
         },
         "store": {
             "id": "5e53186bec28664752006212",
@@ -2330,10 +2230,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e53186bec28664752006212",
@@ -2350,10 +2250,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e53186bec28664752006212",
@@ -2370,10 +2270,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e53186bec28664752006212",
@@ -2409,13 +2309,13 @@
             "productDescription": ""
         },
         "priceData": {
-            "bestPrice": "8.65",
-            "price": "8.65",
+            "bestPrice": "6.50",
+            "price": "6.50",
             "multipack": {
                 "quantity": 4.0
             },
-            "pricePerLitre": 8.7,
-            "bestPricePerLitre": 8.7
+            "pricePerLitre": 6.5,
+            "bestPricePerLitre": 6.5
         },
         "store": {
             "id": "5e53186bec28664752006212",
@@ -2432,30 +2332,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.30",
-            "price": "3.30",
-            "pricePerLitre": 6.6,
-            "bestPricePerLitre": 6.6
-        },
-        "store": {
-            "id": "5e53186bec28664752006212",
-            "name": "Omokoroa"
-        }
-    },
-    {
-        "productData": {
-            "name": "Monster Energy Pipeline Punch 500ml",
-            "productId": "monster-energy-pipeline-punch-500ml",
-            "productShopPage": "https://omokoroa.store.freshchoice.co.nz/lines/monster-energy-pipeline-punch-500ml",
-            "productImageURL": "https://dtgxwmigmg3gc.cloudfront.net/imagery/assets/derivations/icon/512/512/true/eyJpZCI6IjBhODJhZGNkMWY5YThiMWQ5ZjY0YjRjNGE0YWQwMzMxIiwic3RvcmFnZSI6InB1YmxpY19zdG9yZSJ9?signature=7a4880545cb059c8f06a41c671fb0785b7cddf3903741ed2f081d6bcf2e5189f",
-            "productDescription": "",
-            "volume": 500.0
-        },
-        "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "4.00",
+            "price": "4.00",
+            "pricePerLitre": 8.0,
+            "bestPricePerLitre": 8.0
         },
         "store": {
             "id": "5e53186bec28664752006212",
@@ -2492,10 +2372,10 @@
             "volume": 330.0
         },
         "priceData": {
-            "bestPrice": "2.80",
-            "price": "2.80",
-            "pricePerLitre": 8.484848484848484,
-            "bestPricePerLitre": 8.484848484848484
+            "bestPrice": "3.60",
+            "price": "3.60",
+            "pricePerLitre": 10.90909090909091,
+            "bestPricePerLitre": 10.90909090909091
         },
         "store": {
             "id": "5e53186bec28664752006212",
@@ -2512,10 +2392,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e792d341db5f504de06f265",
@@ -2532,10 +2412,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e792d341db5f504de06f265",
@@ -2552,10 +2432,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e792d341db5f504de06f265",
@@ -2572,10 +2452,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e792d341db5f504de06f265",
@@ -2635,10 +2515,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e792d341db5f504de06f265",
@@ -2655,10 +2535,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e792d341db5f504de06f265",
@@ -2675,10 +2555,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.30",
-            "price": "3.30",
-            "pricePerLitre": 6.6,
-            "bestPricePerLitre": 6.6
+            "bestPrice": "4.00",
+            "price": "4.00",
+            "pricePerLitre": 8.0,
+            "bestPricePerLitre": 8.0
         },
         "store": {
             "id": "5e792d341db5f504de06f265",
@@ -2695,10 +2575,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "4.10",
-            "price": "4.10",
-            "pricePerLitre": 8.2,
-            "bestPricePerLitre": 8.2
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e792d341db5f504de06f265",
@@ -2735,10 +2615,10 @@
             "volume": 350.0
         },
         "priceData": {
-            "bestPrice": "2.50",
-            "price": "2.50",
-            "pricePerLitre": 7.142857142857143,
-            "bestPricePerLitre": 7.142857142857143
+            "bestPrice": "3.80",
+            "price": "3.80",
+            "pricePerLitre": 10.857142857142858,
+            "bestPricePerLitre": 10.857142857142858
         },
         "store": {
             "id": "5e792d341db5f504de06f265",
@@ -2775,10 +2655,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e792d341db5f504de06f265",
@@ -2795,10 +2675,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e792d341db5f504de06f265",
@@ -2815,10 +2695,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e792d341db5f504de06f265",
@@ -2854,13 +2734,13 @@
             "productDescription": ""
         },
         "priceData": {
-            "bestPrice": "8.65",
-            "price": "8.65",
+            "bestPrice": "6.50",
+            "price": "6.50",
             "multipack": {
                 "quantity": 4.0
             },
-            "pricePerLitre": 8.7,
-            "bestPricePerLitre": 8.7
+            "pricePerLitre": 6.5,
+            "bestPricePerLitre": 6.5
         },
         "store": {
             "id": "5e792d341db5f504de06f265",
@@ -2877,10 +2757,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.30",
-            "price": "3.30",
-            "pricePerLitre": 6.6,
-            "bestPricePerLitre": 6.6
+            "bestPrice": "4.00",
+            "price": "4.00",
+            "pricePerLitre": 8.0,
+            "bestPricePerLitre": 8.0
         },
         "store": {
             "id": "5e792d341db5f504de06f265",
@@ -2897,10 +2777,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e792d341db5f504de06f265",
@@ -2937,10 +2817,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5c9d5a1342cdd7054a03abd3",
@@ -2957,10 +2837,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5c9d5a1342cdd7054a03abd3",
@@ -2977,10 +2857,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5c9d5a1342cdd7054a03abd3",
@@ -2997,10 +2877,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5c9d5a1342cdd7054a03abd3",
@@ -3040,10 +2920,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5c9d5a1342cdd7054a03abd3",
@@ -3060,10 +2940,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5c9d5a1342cdd7054a03abd3",
@@ -3080,10 +2960,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.30",
-            "price": "3.30",
-            "pricePerLitre": 6.6,
-            "bestPricePerLitre": 6.6
+            "bestPrice": "4.00",
+            "price": "4.00",
+            "pricePerLitre": 8.0,
+            "bestPricePerLitre": 8.0
         },
         "store": {
             "id": "5c9d5a1342cdd7054a03abd3",
@@ -3100,10 +2980,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "4.10",
-            "price": "4.10",
-            "pricePerLitre": 8.2,
-            "bestPricePerLitre": 8.2
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5c9d5a1342cdd7054a03abd3",
@@ -3120,10 +3000,10 @@
             "volume": 350.0
         },
         "priceData": {
-            "bestPrice": "2.50",
-            "price": "2.50",
-            "pricePerLitre": 7.142857142857143,
-            "bestPricePerLitre": 7.142857142857143
+            "bestPrice": "3.80",
+            "price": "3.80",
+            "pricePerLitre": 10.857142857142858,
+            "bestPricePerLitre": 10.857142857142858
         },
         "store": {
             "id": "5c9d5a1342cdd7054a03abd3",
@@ -3140,10 +3020,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5c9d5a1342cdd7054a03abd3",
@@ -3179,13 +3059,13 @@
             "productDescription": ""
         },
         "priceData": {
-            "bestPrice": "8.65",
-            "price": "8.65",
+            "bestPrice": "6.50",
+            "price": "6.50",
             "multipack": {
                 "quantity": 4.0
             },
-            "pricePerLitre": 8.7,
-            "bestPricePerLitre": 8.7
+            "pricePerLitre": 6.5,
+            "bestPricePerLitre": 6.5
         },
         "store": {
             "id": "5c9d5a1342cdd7054a03abd3",
@@ -3202,10 +3082,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.30",
-            "price": "3.30",
-            "pricePerLitre": 6.6,
-            "bestPricePerLitre": 6.6
+            "bestPrice": "4.00",
+            "price": "4.00",
+            "pricePerLitre": 8.0,
+            "bestPricePerLitre": 8.0
         },
         "store": {
             "id": "5c9d5a1342cdd7054a03abd3",
@@ -3222,30 +3102,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
-        },
-        "store": {
-            "id": "5c9d5a1342cdd7054a03abd3",
-            "name": "Papamoa"
-        }
-    },
-    {
-        "productData": {
-            "name": "Monster Energy Pipeline Punch 500ml",
-            "productId": "monster-energy-pipeline-punch-500ml",
-            "productShopPage": "https://papamoa.store.freshchoice.co.nz/lines/monster-energy-pipeline-punch-500ml",
-            "productImageURL": "https://dtgxwmigmg3gc.cloudfront.net/imagery/assets/derivations/icon/512/512/true/eyJpZCI6IjBhODJhZGNkMWY5YThiMWQ5ZjY0YjRjNGE0YWQwMzMxIiwic3RvcmFnZSI6InB1YmxpY19zdG9yZSJ9?signature=7a4880545cb059c8f06a41c671fb0785b7cddf3903741ed2f081d6bcf2e5189f",
-            "productDescription": "",
-            "volume": 500.0
-        },
-        "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5c9d5a1342cdd7054a03abd3",
@@ -3282,10 +3142,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e76c0e5ec28665ada001509",
@@ -3302,10 +3162,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e76c0e5ec28665ada001509",
@@ -3322,10 +3182,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e76c0e5ec28665ada001509",
@@ -3342,10 +3202,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e76c0e5ec28665ada001509",
@@ -3362,10 +3222,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e76c0e5ec28665ada001509",
@@ -3382,10 +3242,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.30",
-            "price": "3.30",
-            "pricePerLitre": 6.6,
-            "bestPricePerLitre": 6.6
+            "bestPrice": "4.00",
+            "price": "4.00",
+            "pricePerLitre": 8.0,
+            "bestPricePerLitre": 8.0
         },
         "store": {
             "id": "5e76c0e5ec28665ada001509",
@@ -3402,10 +3262,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "4.10",
-            "price": "4.10",
-            "pricePerLitre": 8.2,
-            "bestPricePerLitre": 8.2
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e76c0e5ec28665ada001509",
@@ -3442,10 +3302,10 @@
             "volume": 350.0
         },
         "priceData": {
-            "bestPrice": "2.50",
-            "price": "2.50",
-            "pricePerLitre": 7.142857142857143,
-            "bestPricePerLitre": 7.142857142857143
+            "bestPrice": "3.80",
+            "price": "3.80",
+            "pricePerLitre": 10.857142857142858,
+            "bestPricePerLitre": 10.857142857142858
         },
         "store": {
             "id": "5e76c0e5ec28665ada001509",
@@ -3462,10 +3322,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e76c0e5ec28665ada001509",
@@ -3482,10 +3342,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e76c0e5ec28665ada001509",
@@ -3521,13 +3381,13 @@
             "productDescription": ""
         },
         "priceData": {
-            "bestPrice": "8.65",
-            "price": "8.65",
+            "bestPrice": "6.50",
+            "price": "6.50",
             "multipack": {
                 "quantity": 4.0
             },
-            "pricePerLitre": 8.7,
-            "bestPricePerLitre": 8.7
+            "pricePerLitre": 6.5,
+            "bestPricePerLitre": 6.5
         },
         "store": {
             "id": "5e76c0e5ec28665ada001509",
@@ -3544,30 +3404,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.30",
-            "price": "3.30",
-            "pricePerLitre": 6.6,
-            "bestPricePerLitre": 6.6
-        },
-        "store": {
-            "id": "5e76c0e5ec28665ada001509",
-            "name": "Ranui"
-        }
-    },
-    {
-        "productData": {
-            "name": "Monster Energy Pipeline Punch 500ml",
-            "productId": "monster-energy-pipeline-punch-500ml",
-            "productShopPage": "https://ranui.store.freshchoice.co.nz/lines/monster-energy-pipeline-punch-500ml",
-            "productImageURL": "https://dtgxwmigmg3gc.cloudfront.net/imagery/assets/derivations/icon/512/512/true/eyJpZCI6IjBhODJhZGNkMWY5YThiMWQ5ZjY0YjRjNGE0YWQwMzMxIiwic3RvcmFnZSI6InB1YmxpY19zdG9yZSJ9?signature=7a4880545cb059c8f06a41c671fb0785b7cddf3903741ed2f081d6bcf2e5189f",
-            "productDescription": "",
-            "volume": 500.0
-        },
-        "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "4.00",
+            "price": "4.00",
+            "pricePerLitre": 8.0,
+            "bestPricePerLitre": 8.0
         },
         "store": {
             "id": "5e76c0e5ec28665ada001509",
@@ -3604,10 +3444,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e75a5ab60b75a3dea037da2",
@@ -3624,10 +3464,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e75a5ab60b75a3dea037da2",
@@ -3644,10 +3484,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e75a5ab60b75a3dea037da2",
@@ -3664,10 +3504,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e75a5ab60b75a3dea037da2",
@@ -3707,10 +3547,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e75a5ab60b75a3dea037da2",
@@ -3727,10 +3567,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e75a5ab60b75a3dea037da2",
@@ -3747,10 +3587,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.30",
-            "price": "3.30",
-            "pricePerLitre": 6.6,
-            "bestPricePerLitre": 6.6
+            "bestPrice": "4.00",
+            "price": "4.00",
+            "pricePerLitre": 8.0,
+            "bestPricePerLitre": 8.0
         },
         "store": {
             "id": "5e75a5ab60b75a3dea037da2",
@@ -3767,10 +3607,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "4.10",
-            "price": "4.10",
-            "pricePerLitre": 8.2,
-            "bestPricePerLitre": 8.2
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e75a5ab60b75a3dea037da2",
@@ -3807,13 +3647,13 @@
             "volume": 250.0
         },
         "priceData": {
-            "bestPrice": "16.50",
-            "price": "16.50",
+            "bestPrice": "20.35",
+            "price": "20.35",
             "multipack": {
                 "quantity": 10.0
             },
-            "pricePerLitre": 6.6000000000000005,
-            "bestPricePerLitre": 6.6000000000000005
+            "pricePerLitre": 8.14,
+            "bestPricePerLitre": 8.14
         },
         "store": {
             "id": "5e75a5ab60b75a3dea037da2",
@@ -3830,10 +3670,10 @@
             "volume": 350.0
         },
         "priceData": {
-            "bestPrice": "2.50",
-            "price": "2.50",
-            "pricePerLitre": 7.142857142857143,
-            "bestPricePerLitre": 7.142857142857143
+            "bestPrice": "3.80",
+            "price": "3.80",
+            "pricePerLitre": 10.857142857142858,
+            "bestPricePerLitre": 10.857142857142858
         },
         "store": {
             "id": "5e75a5ab60b75a3dea037da2",
@@ -3850,10 +3690,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e75a5ab60b75a3dea037da2",
@@ -3870,10 +3710,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e75a5ab60b75a3dea037da2",
@@ -3890,10 +3730,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e75a5ab60b75a3dea037da2",
@@ -3910,10 +3750,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e75a5ab60b75a3dea037da2",
@@ -3949,13 +3789,13 @@
             "productDescription": ""
         },
         "priceData": {
-            "bestPrice": "8.65",
-            "price": "8.65",
+            "bestPrice": "6.50",
+            "price": "6.50",
             "multipack": {
                 "quantity": 4.0
             },
-            "pricePerLitre": 8.7,
-            "bestPricePerLitre": 8.7
+            "pricePerLitre": 6.5,
+            "bestPricePerLitre": 6.5
         },
         "store": {
             "id": "5e75a5ab60b75a3dea037da2",
@@ -3972,50 +3812,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.30",
-            "price": "3.30",
-            "pricePerLitre": 6.6,
-            "bestPricePerLitre": 6.6
-        },
-        "store": {
-            "id": "5e75a5ab60b75a3dea037da2",
-            "name": "Te Awamutu"
-        }
-    },
-    {
-        "productData": {
-            "name": "Monster Energy Juice Mango Loco 500ml",
-            "productId": "monster-energy-juice-mango-loco-500ml",
-            "productShopPage": "https://teawamutu.store.freshchoice.co.nz/lines/monster-energy-juice-mango-loco-500ml",
-            "productImageURL": "https://dtgxwmigmg3gc.cloudfront.net/imagery/assets/derivations/icon/512/512/true/eyJpZCI6ImRhODIyMzUxYzEzNGVkNjI4OTc4NWIzNjNmMzYwZDU0Iiwic3RvcmFnZSI6InB1YmxpY19zdG9yZSJ9?signature=f600f51f76a22ea35e5d4c6c17f397e48247840da3608541588c9fec9877faac",
-            "productDescription": "",
-            "volume": 500.0
-        },
-        "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
-        },
-        "store": {
-            "id": "5e75a5ab60b75a3dea037da2",
-            "name": "Te Awamutu"
-        }
-    },
-    {
-        "productData": {
-            "name": "Monster Energy Pipeline Punch 500ml",
-            "productId": "monster-energy-pipeline-punch-500ml",
-            "productShopPage": "https://teawamutu.store.freshchoice.co.nz/lines/monster-energy-pipeline-punch-500ml",
-            "productImageURL": "https://dtgxwmigmg3gc.cloudfront.net/imagery/assets/derivations/icon/512/512/true/eyJpZCI6IjBhODJhZGNkMWY5YThiMWQ5ZjY0YjRjNGE0YWQwMzMxIiwic3RvcmFnZSI6InB1YmxpY19zdG9yZSJ9?signature=7a4880545cb059c8f06a41c671fb0785b7cddf3903741ed2f081d6bcf2e5189f",
-            "productDescription": "",
-            "volume": 500.0
-        },
-        "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "4.00",
+            "price": "4.00",
+            "pricePerLitre": 8.0,
+            "bestPricePerLitre": 8.0
         },
         "store": {
             "id": "5e75a5ab60b75a3dea037da2",
@@ -4032,10 +3832,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e6030689cdbf54492018c12",
@@ -4052,10 +3852,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e6030689cdbf54492018c12",
@@ -4072,10 +3872,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e6030689cdbf54492018c12",
@@ -4115,10 +3915,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e6030689cdbf54492018c12",
@@ -4135,10 +3935,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e6030689cdbf54492018c12",
@@ -4155,10 +3955,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.30",
-            "price": "3.30",
-            "pricePerLitre": 6.6,
-            "bestPricePerLitre": 6.6
+            "bestPrice": "4.00",
+            "price": "4.00",
+            "pricePerLitre": 8.0,
+            "bestPricePerLitre": 8.0
         },
         "store": {
             "id": "5e6030689cdbf54492018c12",
@@ -4175,10 +3975,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "4.10",
-            "price": "4.10",
-            "pricePerLitre": 8.2,
-            "bestPricePerLitre": 8.2
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e6030689cdbf54492018c12",
@@ -4215,10 +4015,10 @@
             "volume": 350.0
         },
         "priceData": {
-            "bestPrice": "2.50",
-            "price": "2.50",
-            "pricePerLitre": 7.142857142857143,
-            "bestPricePerLitre": 7.142857142857143
+            "bestPrice": "3.80",
+            "price": "3.80",
+            "pricePerLitre": 10.857142857142858,
+            "bestPricePerLitre": 10.857142857142858
         },
         "store": {
             "id": "5e6030689cdbf54492018c12",
@@ -4235,10 +4035,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e6030689cdbf54492018c12",
@@ -4255,10 +4055,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e6030689cdbf54492018c12",
@@ -4275,10 +4075,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e6030689cdbf54492018c12",
@@ -4294,13 +4094,13 @@
             "productDescription": ""
         },
         "priceData": {
-            "bestPrice": "8.65",
-            "price": "8.65",
+            "bestPrice": "6.50",
+            "price": "6.50",
             "multipack": {
                 "quantity": 4.0
             },
-            "pricePerLitre": 8.7,
-            "bestPricePerLitre": 8.7
+            "pricePerLitre": 6.5,
+            "bestPricePerLitre": 6.5
         },
         "store": {
             "id": "5e6030689cdbf54492018c12",
@@ -4317,30 +4117,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.30",
-            "price": "3.30",
-            "pricePerLitre": 6.6,
-            "bestPricePerLitre": 6.6
-        },
-        "store": {
-            "id": "5e6030689cdbf54492018c12",
-            "name": "Te Ngae"
-        }
-    },
-    {
-        "productData": {
-            "name": "Monster Energy Pipeline Punch 500ml",
-            "productId": "monster-energy-pipeline-punch-500ml",
-            "productShopPage": "https://tengae.store.freshchoice.co.nz/lines/monster-energy-pipeline-punch-500ml",
-            "productImageURL": "https://dtgxwmigmg3gc.cloudfront.net/imagery/assets/derivations/icon/512/512/true/eyJpZCI6IjBhODJhZGNkMWY5YThiMWQ5ZjY0YjRjNGE0YWQwMzMxIiwic3RvcmFnZSI6InB1YmxpY19zdG9yZSJ9?signature=7a4880545cb059c8f06a41c671fb0785b7cddf3903741ed2f081d6bcf2e5189f",
-            "productDescription": "",
-            "volume": 500.0
-        },
-        "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "4.00",
+            "price": "4.00",
+            "pricePerLitre": 8.0,
+            "bestPricePerLitre": 8.0
         },
         "store": {
             "id": "5e6030689cdbf54492018c12",
@@ -4377,10 +4157,10 @@
             "volume": 330.0
         },
         "priceData": {
-            "bestPrice": "2.80",
-            "price": "2.80",
-            "pricePerLitre": 8.484848484848484,
-            "bestPricePerLitre": 8.484848484848484
+            "bestPrice": "3.60",
+            "price": "3.60",
+            "pricePerLitre": 10.90909090909091,
+            "bestPricePerLitre": 10.90909090909091
         },
         "store": {
             "id": "5e6030689cdbf54492018c12",
@@ -4397,10 +4177,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e736e0d60b75a139404c695",
@@ -4417,10 +4197,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e736e0d60b75a139404c695",
@@ -4437,10 +4217,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "4.10",
-            "price": "4.10",
-            "pricePerLitre": 8.2,
-            "bestPricePerLitre": 8.2
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e736e0d60b75a139404c695",
@@ -4457,10 +4237,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e736e0d60b75a139404c695",
@@ -4477,10 +4257,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e736e0d60b75a139404c695",
@@ -4496,13 +4276,13 @@
             "productDescription": ""
         },
         "priceData": {
-            "bestPrice": "8.65",
-            "price": "8.65",
+            "bestPrice": "6.50",
+            "price": "6.50",
             "multipack": {
                 "quantity": 4.0
             },
-            "pricePerLitre": 8.7,
-            "bestPricePerLitre": 8.7
+            "pricePerLitre": 6.5,
+            "bestPricePerLitre": 6.5
         },
         "store": {
             "id": "5e736e0d60b75a139404c695",
@@ -4519,10 +4299,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.30",
-            "price": "3.30",
-            "pricePerLitre": 6.6,
-            "bestPricePerLitre": 6.6
+            "bestPrice": "4.00",
+            "price": "4.00",
+            "pricePerLitre": 8.0,
+            "bestPricePerLitre": 8.0
         },
         "store": {
             "id": "5e736e0d60b75a139404c695",
@@ -4559,10 +4339,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5817bdf5777a4256e504a7a2",
@@ -4579,10 +4359,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5817bdf5777a4256e504a7a2",
@@ -4599,10 +4379,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5817bdf5777a4256e504a7a2",
@@ -4619,10 +4399,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.30",
-            "price": "3.30",
-            "pricePerLitre": 6.6,
-            "bestPricePerLitre": 6.6
+            "bestPrice": "4.00",
+            "price": "4.00",
+            "pricePerLitre": 8.0,
+            "bestPricePerLitre": 8.0
         },
         "store": {
             "id": "5817bdf5777a4256e504a7a2",
@@ -4639,10 +4419,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5817bdf5777a4256e504a7a2",
@@ -4659,10 +4439,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5817bdf5777a4256e504a7a2",
@@ -4679,10 +4459,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.30",
-            "price": "3.30",
-            "pricePerLitre": 6.6,
-            "bestPricePerLitre": 6.6
+            "bestPrice": "4.00",
+            "price": "4.00",
+            "pricePerLitre": 8.0,
+            "bestPricePerLitre": 8.0
         },
         "store": {
             "id": "5817bdf5777a4256e504a7a2",
@@ -4699,10 +4479,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5817bdf5777a4256e504a7a2",
@@ -4876,6 +4656,26 @@
     },
     {
         "productData": {
+            "name": "Mother Energy Drink Passion 500ml",
+            "productId": "mother-energy-drink-passion-500ml",
+            "productShopPage": "https://cromwell.store.freshchoice.co.nz/lines/mother-energy-drink-passion-500ml",
+            "productImageURL": "https://dtgxwmigmg3gc.cloudfront.net/imagery/assets/derivations/icon/512/512/true/eyJpZCI6ImFkZDQ3ZmI4MGJjMmU2ZTgxNDcxNDRhYWFmOWZkYzViIiwic3RvcmFnZSI6InB1YmxpY19zdG9yZSJ9?signature=c8aea44ce6ff965b9e87fcb9f60849b0328e9b8983b9d5547e51c910f8f5368b",
+            "productDescription": "",
+            "volume": 500.0
+        },
+        "priceData": {
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
+        },
+        "store": {
+            "id": "5a08e79952ba0b09c500c535",
+            "name": "Cromwell"
+        }
+    },
+    {
+        "productData": {
             "name": "Mother Energy Drink Black 500ml",
             "productId": "mother-energy-drink-black-500ml",
             "productShopPage": "https://cromwell.store.freshchoice.co.nz/lines/mother-energy-drink-black-500ml",
@@ -4884,10 +4684,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5a08e79952ba0b09c500c535",
@@ -4904,10 +4704,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5a08e79952ba0b09c500c535",
@@ -4924,10 +4724,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5a08e79952ba0b09c500c535",
@@ -4943,13 +4743,13 @@
             "productDescription": ""
         },
         "priceData": {
-            "bestPrice": "8.65",
-            "price": "8.65",
+            "bestPrice": "6.50",
+            "price": "6.50",
             "multipack": {
                 "quantity": 4.0
             },
-            "pricePerLitre": 8.7,
-            "bestPricePerLitre": 8.7
+            "pricePerLitre": 6.5,
+            "bestPricePerLitre": 6.5
         },
         "store": {
             "id": "5a08e79952ba0b09c500c535",
@@ -4966,10 +4766,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.30",
-            "price": "3.30",
-            "pricePerLitre": 6.6,
-            "bestPricePerLitre": 6.6
+            "bestPrice": "4.00",
+            "price": "4.00",
+            "pricePerLitre": 8.0,
+            "bestPricePerLitre": 8.0
         },
         "store": {
             "id": "5a08e79952ba0b09c500c535",
@@ -4986,10 +4786,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5a08e79952ba0b09c500c535",
@@ -5006,10 +4806,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5a08e79952ba0b09c500c535",
@@ -5046,10 +4846,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e792dfe04015f1aa1072ad3",
@@ -5066,10 +4866,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e792dfe04015f1aa1072ad3",
@@ -5086,10 +4886,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e792dfe04015f1aa1072ad3",
@@ -5106,10 +4906,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e792dfe04015f1aa1072ad3",
@@ -5126,10 +4926,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e792dfe04015f1aa1072ad3",
@@ -5146,10 +4946,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.30",
-            "price": "3.30",
-            "pricePerLitre": 6.6,
-            "bestPricePerLitre": 6.6
+            "bestPrice": "4.00",
+            "price": "4.00",
+            "pricePerLitre": 8.0,
+            "bestPricePerLitre": 8.0
         },
         "store": {
             "id": "5e792dfe04015f1aa1072ad3",
@@ -5166,10 +4966,10 @@
             "volume": 350.0
         },
         "priceData": {
-            "bestPrice": "2.50",
-            "price": "2.50",
-            "pricePerLitre": 7.142857142857143,
-            "bestPricePerLitre": 7.142857142857143
+            "bestPrice": "3.80",
+            "price": "3.80",
+            "pricePerLitre": 10.857142857142858,
+            "bestPricePerLitre": 10.857142857142858
         },
         "store": {
             "id": "5e792dfe04015f1aa1072ad3",
@@ -5186,10 +4986,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e792dfe04015f1aa1072ad3",
@@ -5206,10 +5006,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e792dfe04015f1aa1072ad3",
@@ -5226,10 +5026,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e792dfe04015f1aa1072ad3",
@@ -5266,10 +5066,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.30",
-            "price": "3.30",
-            "pricePerLitre": 6.6,
-            "bestPricePerLitre": 6.6
+            "bestPrice": "4.00",
+            "price": "4.00",
+            "pricePerLitre": 8.0,
+            "bestPricePerLitre": 8.0
         },
         "store": {
             "id": "5e792dfe04015f1aa1072ad3",
@@ -5286,10 +5086,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e792dfe04015f1aa1072ad3",
@@ -5326,10 +5126,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "58f6f3e452ba0b28d1013dbf",
@@ -5346,10 +5146,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "58f6f3e452ba0b28d1013dbf",
@@ -5366,10 +5166,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "58f6f3e452ba0b28d1013dbf",
@@ -5406,10 +5206,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.30",
-            "price": "3.30",
-            "pricePerLitre": 6.6,
-            "bestPricePerLitre": 6.6
+            "bestPrice": "4.00",
+            "price": "4.00",
+            "pricePerLitre": 8.0,
+            "bestPricePerLitre": 8.0
         },
         "store": {
             "id": "58f6f3e452ba0b28d1013dbf",
@@ -5426,10 +5226,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "4.10",
-            "price": "4.10",
-            "pricePerLitre": 8.2,
-            "bestPricePerLitre": 8.2
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "58f6f3e452ba0b28d1013dbf",
@@ -5446,10 +5246,10 @@
             "volume": 350.0
         },
         "priceData": {
-            "bestPrice": "2.50",
-            "price": "2.50",
-            "pricePerLitre": 7.142857142857143,
-            "bestPricePerLitre": 7.142857142857143
+            "bestPrice": "4.00",
+            "price": "4.00",
+            "pricePerLitre": 11.428571428571429,
+            "bestPricePerLitre": 11.428571428571429
         },
         "store": {
             "id": "58f6f3e452ba0b28d1013dbf",
@@ -5466,10 +5266,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "58f6f3e452ba0b28d1013dbf",
@@ -5486,10 +5286,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "58f6f3e452ba0b28d1013dbf",
@@ -5525,13 +5325,13 @@
             "productDescription": ""
         },
         "priceData": {
-            "bestPrice": "8.65",
-            "price": "8.65",
+            "bestPrice": "6.50",
+            "price": "6.50",
             "multipack": {
                 "quantity": 4.0
             },
-            "pricePerLitre": 8.7,
-            "bestPricePerLitre": 8.7
+            "pricePerLitre": 6.5,
+            "bestPricePerLitre": 6.5
         },
         "store": {
             "id": "58f6f3e452ba0b28d1013dbf",
@@ -5568,10 +5368,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5c6624262faaf35db50bbe03",
@@ -5588,10 +5388,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5c6624262faaf35db50bbe03",
@@ -5608,10 +5408,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5c6624262faaf35db50bbe03",
@@ -5628,10 +5428,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5c6624262faaf35db50bbe03",
@@ -5648,10 +5448,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5c6624262faaf35db50bbe03",
@@ -5668,10 +5468,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.30",
-            "price": "3.30",
-            "pricePerLitre": 6.6,
-            "bestPricePerLitre": 6.6
+            "bestPrice": "4.00",
+            "price": "4.00",
+            "pricePerLitre": 8.0,
+            "bestPricePerLitre": 8.0
         },
         "store": {
             "id": "5c6624262faaf35db50bbe03",
@@ -5688,10 +5488,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "4.10",
-            "price": "4.10",
-            "pricePerLitre": 8.2,
-            "bestPricePerLitre": 8.2
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5c6624262faaf35db50bbe03",
@@ -5728,13 +5528,13 @@
             "volume": 250.0
         },
         "priceData": {
-            "bestPrice": "16.50",
-            "price": "16.50",
+            "bestPrice": "20.35",
+            "price": "20.35",
             "multipack": {
                 "quantity": 10.0
             },
-            "pricePerLitre": 6.6000000000000005,
-            "bestPricePerLitre": 6.6000000000000005
+            "pricePerLitre": 8.14,
+            "bestPricePerLitre": 8.14
         },
         "store": {
             "id": "5c6624262faaf35db50bbe03",
@@ -5751,10 +5551,10 @@
             "volume": 350.0
         },
         "priceData": {
-            "bestPrice": "2.50",
-            "price": "2.50",
-            "pricePerLitre": 7.142857142857143,
-            "bestPricePerLitre": 7.142857142857143
+            "bestPrice": "3.80",
+            "price": "3.80",
+            "pricePerLitre": 10.857142857142858,
+            "bestPricePerLitre": 10.857142857142858
         },
         "store": {
             "id": "5c6624262faaf35db50bbe03",
@@ -5791,10 +5591,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5c6624262faaf35db50bbe03",
@@ -5830,13 +5630,13 @@
             "productDescription": ""
         },
         "priceData": {
-            "bestPrice": "8.65",
-            "price": "8.65",
+            "bestPrice": "6.50",
+            "price": "6.50",
             "multipack": {
                 "quantity": 4.0
             },
-            "pricePerLitre": 8.7,
-            "bestPricePerLitre": 8.7
+            "pricePerLitre": 6.5,
+            "bestPricePerLitre": 6.5
         },
         "store": {
             "id": "5c6624262faaf35db50bbe03",
@@ -5853,10 +5653,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.30",
-            "price": "3.30",
-            "pricePerLitre": 6.6,
-            "bestPricePerLitre": 6.6
+            "bestPrice": "4.00",
+            "price": "4.00",
+            "pricePerLitre": 8.0,
+            "bestPricePerLitre": 8.0
         },
         "store": {
             "id": "5c6624262faaf35db50bbe03",
@@ -5873,30 +5673,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
-        },
-        "store": {
-            "id": "5c6624262faaf35db50bbe03",
-            "name": "Green Island"
-        }
-    },
-    {
-        "productData": {
-            "name": "V Refresh Energy Drink Pineapple Watermelon 250ml Can 250ml",
-            "productId": "v-refresh-energy-drink-pineapple-watermelon-250ml-can-250ml",
-            "productShopPage": "https://greenisland.store.freshchoice.co.nz/lines/v-refresh-energy-drink-pineapple-watermelon-250ml-can-250ml",
-            "productImageURL": "https://dtgxwmigmg3gc.cloudfront.net/imagery/assets/derivations/icon/512/512/true/eyJpZCI6ImJjN2Q5MTZlOTc2YjY4ZTExNGVjNTAxNmQ3YjZjZjEwIiwic3RvcmFnZSI6InB1YmxpY19zdG9yZSJ9?signature=d9ab3492e786b1eea2c352ad754eb7258eee07d72131ef036d46c610e252a119",
-            "productDescription": "",
-            "volume": 250.0
-        },
-        "priceData": {
-            "bestPrice": "2.20",
-            "price": "2.20",
-            "pricePerLitre": 8.8,
-            "bestPricePerLitre": 8.8
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5c6624262faaf35db50bbe03",
@@ -5953,10 +5733,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e324545ec28664e1400e152",
@@ -5973,10 +5753,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e324545ec28664e1400e152",
@@ -6016,10 +5796,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e324545ec28664e1400e152",
@@ -6036,10 +5816,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "4.10",
-            "price": "4.10",
-            "pricePerLitre": 8.2,
-            "bestPricePerLitre": 8.2
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e324545ec28664e1400e152",
@@ -6076,10 +5856,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.89",
-            "price": "3.89",
-            "pricePerLitre": 7.78,
-            "bestPricePerLitre": 7.78
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e324545ec28664e1400e152",
@@ -6096,10 +5876,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5cf09fe9f068ca26b6037660",
@@ -6116,10 +5896,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5cf09fe9f068ca26b6037660",
@@ -6136,10 +5916,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5cf09fe9f068ca26b6037660",
@@ -6156,10 +5936,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "4.10",
-            "price": "4.10",
-            "pricePerLitre": 8.2,
-            "bestPricePerLitre": 8.2
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5cf09fe9f068ca26b6037660",
@@ -6176,10 +5956,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5cf09fe9f068ca26b6037660",
@@ -6196,10 +5976,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.00",
-            "price": "3.00",
-            "pricePerLitre": 6.0,
-            "bestPricePerLitre": 6.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5cf09fe9f068ca26b6037660",
@@ -6235,13 +6015,13 @@
             "productDescription": ""
         },
         "priceData": {
-            "bestPrice": "8.65",
-            "price": "8.65",
+            "bestPrice": "6.50",
+            "price": "6.50",
             "multipack": {
                 "quantity": 4.0
             },
-            "pricePerLitre": 8.7,
-            "bestPricePerLitre": 8.7
+            "pricePerLitre": 6.5,
+            "bestPricePerLitre": 6.5
         },
         "store": {
             "id": "5cf09fe9f068ca26b6037660",
@@ -6258,10 +6038,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.30",
-            "price": "3.30",
-            "pricePerLitre": 6.6,
-            "bestPricePerLitre": 6.6
+            "bestPrice": "4.00",
+            "price": "4.00",
+            "pricePerLitre": 8.0,
+            "bestPricePerLitre": 8.0
         },
         "store": {
             "id": "5cf09fe9f068ca26b6037660",
@@ -6278,10 +6058,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.00",
-            "price": "3.00",
-            "pricePerLitre": 6.0,
-            "bestPricePerLitre": 6.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5cf09fe9f068ca26b6037660",
@@ -6318,10 +6098,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e76bfc21db5f5696b000db2",
@@ -6338,10 +6118,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e76bfc21db5f5696b000db2",
@@ -6358,10 +6138,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e76bfc21db5f5696b000db2",
@@ -6378,10 +6158,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e76bfc21db5f5696b000db2",
@@ -6398,10 +6178,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e76bfc21db5f5696b000db2",
@@ -6418,10 +6198,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.30",
-            "price": "3.30",
-            "pricePerLitre": 6.6,
-            "bestPricePerLitre": 6.6
+            "bestPrice": "4.00",
+            "price": "4.00",
+            "pricePerLitre": 8.0,
+            "bestPricePerLitre": 8.0
         },
         "store": {
             "id": "5e76bfc21db5f5696b000db2",
@@ -6438,10 +6218,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "4.10",
-            "price": "4.10",
-            "pricePerLitre": 8.2,
-            "bestPricePerLitre": 8.2
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e76bfc21db5f5696b000db2",
@@ -6458,13 +6238,13 @@
             "volume": 250.0
         },
         "priceData": {
-            "bestPrice": "16.50",
-            "price": "16.50",
+            "bestPrice": "20.35",
+            "price": "20.35",
             "multipack": {
                 "quantity": 10.0
             },
-            "pricePerLitre": 6.6000000000000005,
-            "bestPricePerLitre": 6.6000000000000005
+            "pricePerLitre": 8.14,
+            "bestPricePerLitre": 8.14
         },
         "store": {
             "id": "5e76bfc21db5f5696b000db2",
@@ -6481,10 +6261,10 @@
             "volume": 350.0
         },
         "priceData": {
-            "bestPrice": "2.50",
-            "price": "2.50",
-            "pricePerLitre": 7.142857142857143,
-            "bestPricePerLitre": 7.142857142857143
+            "bestPrice": "3.80",
+            "price": "3.80",
+            "pricePerLitre": 10.857142857142858,
+            "bestPricePerLitre": 10.857142857142858
         },
         "store": {
             "id": "5e76bfc21db5f5696b000db2",
@@ -6521,10 +6301,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e76bfc21db5f5696b000db2",
@@ -6541,10 +6321,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e76bfc21db5f5696b000db2",
@@ -6561,10 +6341,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e76bfc21db5f5696b000db2",
@@ -6580,13 +6360,13 @@
             "productDescription": ""
         },
         "priceData": {
-            "bestPrice": "9.00",
-            "price": "9.00",
+            "bestPrice": "6.50",
+            "price": "6.50",
             "multipack": {
                 "quantity": 4.0
             },
-            "pricePerLitre": 9.0,
-            "bestPricePerLitre": 9.0
+            "pricePerLitre": 6.5,
+            "bestPricePerLitre": 6.5
         },
         "store": {
             "id": "5e76bfc21db5f5696b000db2",
@@ -6603,10 +6383,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e76bfc21db5f5696b000db2",
@@ -6623,10 +6403,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "58ae41d552ba0b1c8c00543e",
@@ -6643,10 +6423,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "58ae41d552ba0b1c8c00543e",
@@ -6663,10 +6443,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "58ae41d552ba0b1c8c00543e",
@@ -6683,10 +6463,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "58ae41d552ba0b1c8c00543e",
@@ -6703,10 +6483,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "58ae41d552ba0b1c8c00543e",
@@ -6723,10 +6503,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.30",
-            "price": "3.30",
-            "pricePerLitre": 6.6,
-            "bestPricePerLitre": 6.6
+            "bestPrice": "4.00",
+            "price": "4.00",
+            "pricePerLitre": 8.0,
+            "bestPricePerLitre": 8.0
         },
         "store": {
             "id": "58ae41d552ba0b1c8c00543e",
@@ -6763,10 +6543,10 @@
             "volume": 330.0
         },
         "priceData": {
-            "bestPrice": "2.80",
-            "price": "2.80",
-            "pricePerLitre": 8.484848484848484,
-            "bestPricePerLitre": 8.484848484848484
+            "bestPrice": "3.60",
+            "price": "3.60",
+            "pricePerLitre": 10.90909090909091,
+            "bestPricePerLitre": 10.90909090909091
         },
         "store": {
             "id": "58ae41d552ba0b1c8c00543e",
@@ -6783,10 +6563,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5c9d598442cdd70547033cba",
@@ -6803,10 +6583,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5c9d598442cdd70547033cba",
@@ -6823,10 +6603,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5c9d598442cdd70547033cba",
@@ -6886,10 +6666,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5c9d598442cdd70547033cba",
@@ -6906,10 +6686,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.30",
-            "price": "3.30",
-            "pricePerLitre": 6.6,
-            "bestPricePerLitre": 6.6
+            "bestPrice": "4.00",
+            "price": "4.00",
+            "pricePerLitre": 8.0,
+            "bestPricePerLitre": 8.0
         },
         "store": {
             "id": "5c9d598442cdd70547033cba",
@@ -6926,10 +6706,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "4.10",
-            "price": "4.10",
-            "pricePerLitre": 8.2,
-            "bestPricePerLitre": 8.2
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5c9d598442cdd70547033cba",
@@ -6946,10 +6726,10 @@
             "volume": 350.0
         },
         "priceData": {
-            "bestPrice": "2.50",
-            "price": "2.50",
-            "pricePerLitre": 7.142857142857143,
-            "bestPricePerLitre": 7.142857142857143
+            "bestPrice": "3.80",
+            "price": "3.80",
+            "pricePerLitre": 10.857142857142858,
+            "bestPricePerLitre": 10.857142857142858
         },
         "store": {
             "id": "5c9d598442cdd70547033cba",
@@ -6966,10 +6746,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5c9d598442cdd70547033cba",
@@ -6986,10 +6766,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5c9d598442cdd70547033cba",
@@ -7006,10 +6786,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5c9d598442cdd70547033cba",
@@ -7045,13 +6825,13 @@
             "productDescription": ""
         },
         "priceData": {
-            "bestPrice": "8.65",
-            "price": "8.65",
+            "bestPrice": "6.50",
+            "price": "6.50",
             "multipack": {
                 "quantity": 4.0
             },
-            "pricePerLitre": 8.7,
-            "bestPricePerLitre": 8.7
+            "pricePerLitre": 6.5,
+            "bestPricePerLitre": 6.5
         },
         "store": {
             "id": "5c9d598442cdd70547033cba",
@@ -7068,10 +6848,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.30",
-            "price": "3.30",
-            "pricePerLitre": 6.6,
-            "bestPricePerLitre": 6.6
+            "bestPrice": "4.00",
+            "price": "4.00",
+            "pricePerLitre": 8.0,
+            "bestPricePerLitre": 8.0
         },
         "store": {
             "id": "5c9d598442cdd70547033cba",
@@ -7088,10 +6868,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5c9d598442cdd70547033cba",
@@ -7148,10 +6928,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e5ee46cd74776781f092c74",
@@ -7168,10 +6948,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e5ee46cd74776781f092c74",
@@ -7188,10 +6968,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e5ee46cd74776781f092c74",
@@ -7231,10 +7011,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e5ee46cd74776781f092c74",
@@ -7251,10 +7031,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e5ee46cd74776781f092c74",
@@ -7271,10 +7051,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.30",
-            "price": "3.30",
-            "pricePerLitre": 6.6,
-            "bestPricePerLitre": 6.6
+            "bestPrice": "4.00",
+            "price": "4.00",
+            "pricePerLitre": 8.0,
+            "bestPricePerLitre": 8.0
         },
         "store": {
             "id": "5e5ee46cd74776781f092c74",
@@ -7291,10 +7071,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "4.10",
-            "price": "4.10",
-            "pricePerLitre": 8.2,
-            "bestPricePerLitre": 8.2
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e5ee46cd74776781f092c74",
@@ -7311,10 +7091,10 @@
             "volume": 350.0
         },
         "priceData": {
-            "bestPrice": "2.50",
-            "price": "2.50",
-            "pricePerLitre": 7.142857142857143,
-            "bestPricePerLitre": 7.142857142857143
+            "bestPrice": "3.80",
+            "price": "3.80",
+            "pricePerLitre": 10.857142857142858,
+            "bestPricePerLitre": 10.857142857142858
         },
         "store": {
             "id": "5e5ee46cd74776781f092c74",
@@ -7331,10 +7111,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e5ee46cd74776781f092c74",
@@ -7351,10 +7131,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e5ee46cd74776781f092c74",
@@ -7371,10 +7151,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e5ee46cd74776781f092c74",
@@ -7410,13 +7190,13 @@
             "productDescription": ""
         },
         "priceData": {
-            "bestPrice": "8.65",
-            "price": "8.65",
+            "bestPrice": "6.50",
+            "price": "6.50",
             "multipack": {
                 "quantity": 4.0
             },
-            "pricePerLitre": 8.7,
-            "bestPricePerLitre": 8.7
+            "pricePerLitre": 6.5,
+            "bestPricePerLitre": 6.5
         },
         "store": {
             "id": "5e5ee46cd74776781f092c74",
@@ -7433,10 +7213,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.30",
-            "price": "3.30",
-            "pricePerLitre": 6.6,
-            "bestPricePerLitre": 6.6
+            "bestPrice": "4.00",
+            "price": "4.00",
+            "pricePerLitre": 8.0,
+            "bestPricePerLitre": 8.0
         },
         "store": {
             "id": "5e5ee46cd74776781f092c74",
@@ -7453,10 +7233,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e5ee46cd74776781f092c74",
@@ -7473,10 +7253,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e5ee46cd74776781f092c74",
@@ -7513,10 +7293,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e7590c56d8e6913580489e5",
@@ -7533,10 +7313,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e7590c56d8e6913580489e5",
@@ -7553,10 +7333,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e7590c56d8e6913580489e5",
@@ -7573,10 +7353,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e7590c56d8e6913580489e5",
@@ -7593,10 +7373,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e7590c56d8e6913580489e5",
@@ -7613,10 +7393,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e7590c56d8e6913580489e5",
@@ -7633,10 +7413,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.30",
-            "price": "3.30",
-            "pricePerLitre": 6.6,
-            "bestPricePerLitre": 6.6
+            "bestPrice": "4.00",
+            "price": "4.00",
+            "pricePerLitre": 8.0,
+            "bestPricePerLitre": 8.0
         },
         "store": {
             "id": "5e7590c56d8e6913580489e5",
@@ -7653,10 +7433,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "4.10",
-            "price": "4.10",
-            "pricePerLitre": 8.2,
-            "bestPricePerLitre": 8.2
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e7590c56d8e6913580489e5",
@@ -7693,10 +7473,10 @@
             "volume": 350.0
         },
         "priceData": {
-            "bestPrice": "2.50",
-            "price": "2.50",
-            "pricePerLitre": 7.142857142857143,
-            "bestPricePerLitre": 7.142857142857143
+            "bestPrice": "3.80",
+            "price": "3.80",
+            "pricePerLitre": 10.857142857142858,
+            "bestPricePerLitre": 10.857142857142858
         },
         "store": {
             "id": "5e7590c56d8e6913580489e5",
@@ -7713,10 +7493,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e7590c56d8e6913580489e5",
@@ -7733,10 +7513,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e7590c56d8e6913580489e5",
@@ -7753,10 +7533,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.90",
-            "price": "3.90",
-            "pricePerLitre": 7.8,
-            "bestPricePerLitre": 7.8
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e7590c56d8e6913580489e5",
@@ -7773,10 +7553,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.90",
-            "price": "3.90",
-            "pricePerLitre": 7.8,
-            "bestPricePerLitre": 7.8
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e7590c56d8e6913580489e5",
@@ -7812,13 +7592,13 @@
             "productDescription": ""
         },
         "priceData": {
-            "bestPrice": "8.65",
-            "price": "8.65",
+            "bestPrice": "6.50",
+            "price": "6.50",
             "multipack": {
                 "quantity": 4.0
             },
-            "pricePerLitre": 8.7,
-            "bestPricePerLitre": 8.7
+            "pricePerLitre": 6.5,
+            "bestPricePerLitre": 6.5
         },
         "store": {
             "id": "5e7590c56d8e6913580489e5",
@@ -7835,10 +7615,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.30",
-            "price": "3.30",
-            "pricePerLitre": 6.6,
-            "bestPricePerLitre": 6.6
+            "bestPrice": "4.00",
+            "price": "4.00",
+            "pricePerLitre": 8.0,
+            "bestPricePerLitre": 8.0
         },
         "store": {
             "id": "5e7590c56d8e6913580489e5",
@@ -7855,10 +7635,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.90",
-            "price": "3.90",
-            "pricePerLitre": 7.8,
-            "bestPricePerLitre": 7.8
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e7590c56d8e6913580489e5",
@@ -7895,10 +7675,10 @@
             "volume": 330.0
         },
         "priceData": {
-            "bestPrice": "2.80",
-            "price": "2.80",
-            "pricePerLitre": 8.484848484848484,
-            "bestPricePerLitre": 8.484848484848484
+            "bestPrice": "3.60",
+            "price": "3.60",
+            "pricePerLitre": 10.90909090909091,
+            "bestPricePerLitre": 10.90909090909091
         },
         "store": {
             "id": "5e7590c56d8e6913580489e5",
@@ -7915,10 +7695,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5cf09ec342cdd7353602d39a",
@@ -7935,10 +7715,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5cf09ec342cdd7353602d39a",
@@ -7955,10 +7735,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5cf09ec342cdd7353602d39a",
@@ -7975,10 +7755,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5cf09ec342cdd7353602d39a",
@@ -7994,13 +7774,33 @@
             "productDescription": ""
         },
         "priceData": {
-            "bestPrice": "8.65",
-            "price": "8.65",
+            "bestPrice": "6.50",
+            "price": "6.50",
             "multipack": {
                 "quantity": 4.0
             },
-            "pricePerLitre": 8.7,
-            "bestPricePerLitre": 8.7
+            "pricePerLitre": 6.5,
+            "bestPricePerLitre": 6.5
+        },
+        "store": {
+            "id": "5cf09ec342cdd7353602d39a",
+            "name": "Richmond"
+        }
+    },
+    {
+        "productData": {
+            "name": "V Refresh Energy Drink Pineapple Watermelon 500ml Can 500ml",
+            "productId": "v-refresh-energy-drink-pineapple-watermelon-500ml-can-500ml",
+            "productShopPage": "https://richmond.store.freshchoice.co.nz/lines/v-refresh-energy-drink-pineapple-watermelon-500ml-can-500ml",
+            "productImageURL": "https://dtgxwmigmg3gc.cloudfront.net/imagery/assets/derivations/icon/512/512/true/eyJpZCI6IjgzMTBmY2EwMzFkODkxOTAxNDFmYWNhMjZhZmFlZTI0Iiwic3RvcmFnZSI6InB1YmxpY19zdG9yZSJ9?signature=2062a73b018e86e0e6858a08c9fea597971ea894ef5eee6cfb310bcaa3201c6f",
+            "productDescription": "",
+            "volume": 500.0
+        },
+        "priceData": {
+            "bestPrice": "4.00",
+            "price": "4.00",
+            "pricePerLitre": 8.0,
+            "bestPricePerLitre": 8.0
         },
         "store": {
             "id": "5cf09ec342cdd7353602d39a",
@@ -8037,10 +7837,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e758ead04015f69bc00df1a",
@@ -8057,10 +7857,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e758ead04015f69bc00df1a",
@@ -8077,10 +7877,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e758ead04015f69bc00df1a",
@@ -8097,10 +7897,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e758ead04015f69bc00df1a",
@@ -8117,10 +7917,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e758ead04015f69bc00df1a",
@@ -8137,10 +7937,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e758ead04015f69bc00df1a",
@@ -8157,10 +7957,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.30",
-            "price": "3.30",
-            "pricePerLitre": 6.6,
-            "bestPricePerLitre": 6.6
+            "bestPrice": "4.00",
+            "price": "4.00",
+            "pricePerLitre": 8.0,
+            "bestPricePerLitre": 8.0
         },
         "store": {
             "id": "5e758ead04015f69bc00df1a",
@@ -8177,10 +7977,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "4.10",
-            "price": "4.10",
-            "pricePerLitre": 8.2,
-            "bestPricePerLitre": 8.2
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e758ead04015f69bc00df1a",
@@ -8217,10 +8017,10 @@
             "volume": 350.0
         },
         "priceData": {
-            "bestPrice": "2.50",
-            "price": "2.50",
-            "pricePerLitre": 7.142857142857143,
-            "bestPricePerLitre": 7.142857142857143
+            "bestPrice": "3.80",
+            "price": "3.80",
+            "pricePerLitre": 10.857142857142858,
+            "bestPricePerLitre": 10.857142857142858
         },
         "store": {
             "id": "5e758ead04015f69bc00df1a",
@@ -8237,10 +8037,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e758ead04015f69bc00df1a",
@@ -8257,10 +8057,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e758ead04015f69bc00df1a",
@@ -8277,10 +8077,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e758ead04015f69bc00df1a",
@@ -8316,13 +8116,13 @@
             "productDescription": ""
         },
         "priceData": {
-            "bestPrice": "8.65",
-            "price": "8.65",
+            "bestPrice": "6.50",
+            "price": "6.50",
             "multipack": {
                 "quantity": 4.0
             },
-            "pricePerLitre": 8.7,
-            "bestPricePerLitre": 8.7
+            "pricePerLitre": 6.5,
+            "bestPricePerLitre": 6.5
         },
         "store": {
             "id": "5e758ead04015f69bc00df1a",
@@ -8339,10 +8139,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.30",
-            "price": "3.30",
-            "pricePerLitre": 6.6,
-            "bestPricePerLitre": 6.6
+            "bestPrice": "4.00",
+            "price": "4.00",
+            "pricePerLitre": 8.0,
+            "bestPricePerLitre": 8.0
         },
         "store": {
             "id": "5e758ead04015f69bc00df1a",
@@ -8359,10 +8159,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e758ead04015f69bc00df1a",
@@ -8399,10 +8199,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e532870ec28665271010f05",
@@ -8419,10 +8219,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e532870ec28665271010f05",
@@ -8439,10 +8239,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e532870ec28665271010f05",
@@ -8459,10 +8259,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e532870ec28665271010f05",
@@ -8479,10 +8279,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e532870ec28665271010f05",
@@ -8499,10 +8299,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.30",
-            "price": "3.30",
-            "pricePerLitre": 6.6,
-            "bestPricePerLitre": 6.6
+            "bestPrice": "4.00",
+            "price": "4.00",
+            "pricePerLitre": 8.0,
+            "bestPricePerLitre": 8.0
         },
         "store": {
             "id": "5e532870ec28665271010f05",
@@ -8519,10 +8319,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "4.10",
-            "price": "4.10",
-            "pricePerLitre": 8.2,
-            "bestPricePerLitre": 8.2
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e532870ec28665271010f05",
@@ -8559,10 +8359,10 @@
             "volume": 350.0
         },
         "priceData": {
-            "bestPrice": "2.50",
-            "price": "2.50",
-            "pricePerLitre": 7.142857142857143,
-            "bestPricePerLitre": 7.142857142857143
+            "bestPrice": "3.80",
+            "price": "3.80",
+            "pricePerLitre": 10.857142857142858,
+            "bestPricePerLitre": 10.857142857142858
         },
         "store": {
             "id": "5e532870ec28665271010f05",
@@ -8579,10 +8379,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e532870ec28665271010f05",
@@ -8599,10 +8399,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e532870ec28665271010f05",
@@ -8638,13 +8438,13 @@
             "productDescription": ""
         },
         "priceData": {
-            "bestPrice": "8.65",
-            "price": "8.65",
+            "bestPrice": "6.50",
+            "price": "6.50",
             "multipack": {
                 "quantity": 4.0
             },
-            "pricePerLitre": 8.7,
-            "bestPricePerLitre": 8.7
+            "pricePerLitre": 6.5,
+            "bestPricePerLitre": 6.5
         },
         "store": {
             "id": "5e532870ec28665271010f05",
@@ -8661,10 +8461,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.30",
-            "price": "3.30",
-            "pricePerLitre": 6.6,
-            "bestPricePerLitre": 6.6
+            "bestPrice": "4.00",
+            "price": "4.00",
+            "pricePerLitre": 8.0,
+            "bestPricePerLitre": 8.0
         },
         "store": {
             "id": "5e532870ec28665271010f05",
@@ -8681,10 +8481,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e532870ec28665271010f05",
@@ -8721,10 +8521,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5cb68105583abc41610e0b19",
@@ -8741,10 +8541,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5cb68105583abc41610e0b19",
@@ -8761,10 +8561,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5cb68105583abc41610e0b19",
@@ -8781,10 +8581,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5cb68105583abc41610e0b19",
@@ -8800,13 +8600,13 @@
             "productDescription": ""
         },
         "priceData": {
-            "bestPrice": "8.65",
-            "price": "8.65",
+            "bestPrice": "6.50",
+            "price": "6.50",
             "multipack": {
                 "quantity": 4.0
             },
-            "pricePerLitre": 8.7,
-            "bestPricePerLitre": 8.7
+            "pricePerLitre": 6.5,
+            "bestPricePerLitre": 6.5
         },
         "store": {
             "id": "5cb68105583abc41610e0b19",
@@ -8823,10 +8623,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.30",
-            "price": "3.30",
-            "pricePerLitre": 6.6,
-            "bestPricePerLitre": 6.6
+            "bestPrice": "4.00",
+            "price": "4.00",
+            "pricePerLitre": 8.0,
+            "bestPricePerLitre": 8.0
         },
         "store": {
             "id": "5cb68105583abc41610e0b19",
@@ -8863,10 +8663,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "58f6f38252ba0b28db0135b2",
@@ -8883,10 +8683,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "58f6f38252ba0b28db0135b2",
@@ -8903,10 +8703,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "58f6f38252ba0b28db0135b2",
@@ -8946,10 +8746,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "58f6f38252ba0b28db0135b2",
@@ -8966,10 +8766,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "58f6f38252ba0b28db0135b2",
@@ -8986,10 +8786,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.30",
-            "price": "3.30",
-            "pricePerLitre": 6.6,
-            "bestPricePerLitre": 6.6
+            "bestPrice": "4.00",
+            "price": "4.00",
+            "pricePerLitre": 8.0,
+            "bestPricePerLitre": 8.0
         },
         "store": {
             "id": "58f6f38252ba0b28db0135b2",
@@ -9006,10 +8806,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "4.10",
-            "price": "4.10",
-            "pricePerLitre": 8.2,
-            "bestPricePerLitre": 8.2
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "58f6f38252ba0b28db0135b2",
@@ -9046,13 +8846,13 @@
             "volume": 250.0
         },
         "priceData": {
-            "bestPrice": "16.50",
-            "price": "16.50",
+            "bestPrice": "20.35",
+            "price": "20.35",
             "multipack": {
                 "quantity": 10.0
             },
-            "pricePerLitre": 6.6000000000000005,
-            "bestPricePerLitre": 6.6000000000000005
+            "pricePerLitre": 8.14,
+            "bestPricePerLitre": 8.14
         },
         "store": {
             "id": "58f6f38252ba0b28db0135b2",
@@ -9069,10 +8869,10 @@
             "volume": 350.0
         },
         "priceData": {
-            "bestPrice": "2.50",
-            "price": "2.50",
-            "pricePerLitre": 7.142857142857143,
-            "bestPricePerLitre": 7.142857142857143
+            "bestPrice": "3.80",
+            "price": "3.80",
+            "pricePerLitre": 10.857142857142858,
+            "bestPricePerLitre": 10.857142857142858
         },
         "store": {
             "id": "58f6f38252ba0b28db0135b2",
@@ -9089,10 +8889,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "58f6f38252ba0b28db0135b2",
@@ -9109,10 +8909,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "58f6f38252ba0b28db0135b2",
@@ -9149,10 +8949,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.30",
-            "price": "3.30",
-            "pricePerLitre": 6.6,
-            "bestPricePerLitre": 6.6
+            "bestPrice": "4.00",
+            "price": "4.00",
+            "pricePerLitre": 8.0,
+            "bestPricePerLitre": 8.0
         },
         "store": {
             "id": "58f6f38252ba0b28db0135b2",
@@ -9169,10 +8969,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "58f6f38252ba0b28db0135b2",
@@ -9209,10 +9009,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e7559b004015f158b09ae95",
@@ -9229,10 +9029,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e7559b004015f158b09ae95",
@@ -9249,10 +9049,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "2.30",
-            "price": "2.30",
-            "pricePerLitre": 4.6,
-            "bestPricePerLitre": 4.6
+            "bestPrice": "3.00",
+            "price": "3.00",
+            "pricePerLitre": 6.0,
+            "bestPricePerLitre": 6.0
         },
         "store": {
             "id": "5e7559b004015f158b09ae95",
@@ -9269,10 +9069,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.30",
-            "price": "3.30",
-            "pricePerLitre": 6.6,
-            "bestPricePerLitre": 6.6
+            "bestPrice": "4.00",
+            "price": "4.00",
+            "pricePerLitre": 8.0,
+            "bestPricePerLitre": 8.0
         },
         "store": {
             "id": "5e7559b004015f158b09ae95",
@@ -9289,10 +9089,10 @@
             "volume": 350.0
         },
         "priceData": {
-            "bestPrice": "2.50",
-            "price": "2.50",
-            "pricePerLitre": 7.142857142857143,
-            "bestPricePerLitre": 7.142857142857143
+            "bestPrice": "3.80",
+            "price": "3.80",
+            "pricePerLitre": 10.857142857142858,
+            "bestPricePerLitre": 10.857142857142858
         },
         "store": {
             "id": "5e7559b004015f158b09ae95",
@@ -9309,10 +9109,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.50",
-            "price": "3.50",
-            "pricePerLitre": 7.0,
-            "bestPricePerLitre": 7.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e7559b004015f158b09ae95",
@@ -9329,10 +9129,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.00",
-            "price": "3.00",
-            "pricePerLitre": 6.0,
-            "bestPricePerLitre": 6.0
+            "bestPrice": "2.50",
+            "price": "2.50",
+            "pricePerLitre": 5.0,
+            "bestPricePerLitre": 5.0
         },
         "store": {
             "id": "5e7559b004015f158b09ae95",
@@ -9349,10 +9149,10 @@
             "volume": 500.0
         },
         "priceData": {
-            "bestPrice": "3.30",
-            "price": "3.30",
-            "pricePerLitre": 6.6,
-            "bestPricePerLitre": 6.6
+            "bestPrice": "4.00",
+            "price": "4.00",
+            "pricePerLitre": 8.0,
+            "bestPricePerLitre": 8.0
         },
         "store": {
             "id": "5e7559b004015f158b09ae95",
