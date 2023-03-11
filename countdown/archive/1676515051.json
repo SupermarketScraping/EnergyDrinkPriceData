@@ -13,7 +13,7 @@
             "pricePerLitre": 0,
             "bestPricePerLitre": 0
         },
-        "timestamp": "2023-02-16T15:40:44.245336",
+        "timestamp": "2023-02-16T15:33:26.451793",
         "siteconfig": {
             "siteMeta": {
                 "name": "countdown",
@@ -472,38 +472,6 @@
             "price": 3.0,
             "pricePerLitre": 6.0,
             "bestPricePerLitre": 6.0
-        }
-    },
-    {
-        "productData": {
-            "name": "v sugar free energy drink refresh pineapple watermelon",
-            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=227590",
-            "volume": "4x250",
-            "productId": "227590",
-            "productDescription": null,
-            "productImageURL": "https://assets.woolworths.com.au/images/2010/227590.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
-        },
-        "priceData": {
-            "bestPrice": 6.5,
-            "price": 6.5,
-            "pricePerLitre": 6.5,
-            "bestPricePerLitre": 6.5
-        }
-    },
-    {
-        "productData": {
-            "name": "v sugar free energy drink citrus lemonade",
-            "productShopPage": "https://shop.countdown.co.nz/shop/productdetails?stockcode=228073",
-            "volume": "4x250",
-            "productId": "228073",
-            "productDescription": null,
-            "productImageURL": "https://assets.woolworths.com.au/images/2010/228073.jpg?impolicy=wowcdxwbjbx&w=900&h=900"
-        },
-        "priceData": {
-            "bestPrice": 6.5,
-            "price": 6.5,
-            "pricePerLitre": 6.5,
-            "bestPricePerLitre": 6.5
         }
     }
 ]
